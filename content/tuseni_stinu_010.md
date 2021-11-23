@@ -2,17 +2,19 @@
 title: "Podivné mapy a\_neznámí kartografové"
 ---
 
-Již mnoho set let před naším letopočtem byl člověk nucen  
-konat na zemském povrchu různá měření a výsledky  
-znázorňovat kresbou.  
-I starověcí kulturní národové – Egypťané, Babylóňané,  
-Féničané a potom Řekové a Římané – zkoumali povrch  
-nejen svých, ale i jiných zemí a zhotovovali kresby, které byly  
-pravzorem dnešních plánů a map.
+> Již mnoho set let před naším letopočtem byl člověk nucen  
+> konat na zemském povrchu různá měření a výsledky  
+> znázorňovat kresbou.  
+> I starověcí kulturní národové – Egypťané, Babylóňané,  
+> Féničané a potom Řekové a Římané – zkoumali povrch  
+> nejen svých, ale i jiných zemí a zhotovovali kresby, které byly  
+> pravzorem dnešních plánů a map.
 
 PROF. DR. G. N. LIOTD
 
 Před několika lety vzbudily pozornost čtenářů světového tisku články, obírající se mapami, jejichž autorem byl roku 1413 vysoký důstojník tureckého loďstva Piri Reis a roku 1431 kartograf Orontius Fineus.
+
+  
 
 Bylo to vlastně obnovení zájmu o Reisovu mapu – již dávno před válkou dal tehdejší státní tajemník USA Henry L Stimson přezkoušet, zda Piri Reis nepoužil Kolumbových map, jejichž originály se ztratily a jejichž rekonstrukce by byla významným příspěvkem k dějinám USA. Výsledek byl negativní a zájem kartografů nevelký vzhledem k hrubému zkreslení karibské oblasti i linie pobřeží jižní části Jižní Ameriky. Originál mapy se s formálním vyjádřením díků vrátil do cařihradského archívu muzea Topkapi, aby dál v klidu a bez zájemců odpočíval, jako už několik staletí.
 
@@ -72,7 +74,7 @@ Prosím čtenáře, aby nepovažoval datování všech právě uvedených událo
 
 ![06.jpg](./resources/06_fmt.jpeg)
 
-Poměrně velmi přesná a podrobná mapa části Grónska, nakreslená roku 1898 zcela negramotným Eskymákem Nakutinem
+> Poměrně velmi přesná a podrobná mapa části Grónska, nakreslená roku 1898 zcela negramotným Eskymákem Nakutinem
 
 Zbývá ještě argument, který má jistě svou váhu: Cařihrad, pozdější Istanbul, kdysi sídlo císařů východořímské říše, spravující po jistou dobu (v době vlády císařovny Teodory a Belisarových výbojů) takřka polovinu známého světa, byl a je jedním z nejnadějnějších míst pro hledání velmi starých poznatků tohoto druhu. Roku 1413 zde byla například nalezena po celá staletí ztracená mapa egyptského zeměpisce Ptolemaia.
 
@@ -86,4 +88,4 @@ Ať už je tomu s Reisovou a Fineovou mapou jakkoli, tohleto jim zcela jistě 
 
 ![07.jpg](./resources/07_fmt.jpeg)
 
-Cestovní mapa trasy z africké Lindy do Massassi, nakreslená domorodcem Pesa Mbilim roku 1907 pro cestovatele Weula
+> Cestovní mapa trasy z africké Lindy do Massassi, nakreslená domorodcem Pesa Mbilim roku 1907 pro cestovatele Weula

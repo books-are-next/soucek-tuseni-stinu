@@ -2,23 +2,25 @@
 title: Strážci Velikonočního ostrova
 ---
 
-Velikonoční ostrov je nejosamělejší lidské sídliště na světě.  
-Nejbližší pevné body, které jeho obyvatelé mohou vidět,  
-jsou na obloze: Měsíc a hvězdy.  
-Musili by cestovat dále než kterýkoli jiný kmen na světě, aby  
-se přesvědčili, že existuje skutečně i jiná pevnina než Měsíc  
-a hvězdy a že jim leží blíž. Proto žijí tak blízko hvězdám  
-a znají jich větší počet než měst a zemí v našem světě.
+> Velikonoční ostrov je nejosamělejší lidské sídliště na světě.  
+> Nejbližší pevné body, které jeho obyvatelé mohou vidět,  
+> jsou na obloze: Měsíc a hvězdy.  
+> Musili by cestovat dále než kterýkoli jiný kmen na světě, aby  
+> se přesvědčili, že existuje skutečně i jiná pevnina než Měsíc  
+> a hvězdy a že jim leží blíž. Proto žijí tak blízko hvězdám  
+> a znají jich větší počet než měst a zemí v našem světě.
 
 THOR HEYERDAHL: AKU-AKU
 
-Ať tomu někdo věří nebo nevěří, Velikonoční ostrov napadly  
-síly, které tušíme, které cítíme, natolik jsou dnes přítomné  
-a silné na tomto kousku země, kterou poznamenal oheň.
+> Ať tomu někdo věří nebo nevěří, Velikonoční ostrov napadly  
+> síly, které tušíme, které cítíme, natolik jsou dnes přítomné  
+> a silné na tomto kousku země, kterou poznamenal oheň.
 
 FRANCIS MAZIÈRE
 
 Nepočetní lidé, obývající malý, trojúhelníkový ostrov se stranami 16, 18 a 24 km dlouhými a s plochou sotva 118 km2, vzdálený přes 3200 km od Chile, jemuž od roku 1888 patří, a téměř 3700 km od Tahiti, nejbližšího souseda na západě, lidé vystavení každodenní drsné nutnosti obživit sebe a své děti v oblasti, kde nebylo kromě ptáků jedlých zvířat, lidé osamělí až k šílenství a podle všech předpokladů naprosto bezpeční před jakoukoli invazí a vyrušováním, bezpečnější než tibetští poustevníci ve svých slujích nebo grónští Eskymáci ve svých osamělých iglú, vybudovali fantastické dílo.
+
+  
 
 Neobklopili svůj domovský ostrov kyklopskou zdí, chránící je od moře (ačkoli i takové stavby dokázali), nezbudovali ani citadely, ani mocné loďstvo. Zato „vytvářeli gigantické kamenné sochy v lidské podobě, vysoké jako domy a těžké jako železniční vagóny. Velké množství jich pak odvlekli přes hory i doly a pak je vztyčovali na mohutné zděné terasy, zbudované kolem celého ostrova“ (Heyerdahl).
 
@@ -44,7 +46,7 @@ Jde především o odhad počtu obyvatel v dobách budování kolosů moai. Dn
 
 ![22.jpg](./resources/22_fmt.jpeg)
 
-Tato „senzace Velikonočního ostrova“, rytina velké lodi na jedné ze soch moai, patrně senzací není. Polynésané nikdy takové koráby nestavěli a kresba byla nepochybně vyryta pod dojmem návštěvy evropských cestovatelů
+> Tato „senzace Velikonočního ostrova“, rytina velké lodi na jedné ze soch moai, patrně senzací není. Polynésané nikdy takové koráby nestavěli a kresba byla nepochybně vyryta pod dojmem návštěvy evropských cestovatelů
 
 Na ostrově nežila s výjimkou ptáků jedlá zvířata – což zčásti omlouvá kanibalismus jako krytí potřeby bílkovin. Rybolov byl omezen neznalostí stavby plavidel, schopných vydávat se dále od břehů, i astronomické navigace, v ostatní Polynésii všední. Rákosové člunky umožňovaly jen příbřežní rybolov, jehož výtěžek patrně nikdy nebyl v této části Pacifiku zvlášť rekordní. Dřeva vhodného druhu pro stavbu člunů nebylo. Závažným limitujícím činitelem byl a je nedostatek pitné vody – na ostrově téměř nejsou prameny, jež by umožnily existenci „silných pobřežních kmenů“. Voda ve vulkanických jezírkách se hodí nejvýše k napájení ovcí, jejichž stádo, majetek chilské vlády a památka na zásobování teprve nedávno opuštěné americké vojenské základny, tvoří jednu z hlavních součástí výživy obyvatelstva.
 
@@ -56,7 +58,7 @@ Je tedy pravděpodobné, že obyvatelstvo Velikonočního ostrova nikdy nepřekr
 
 ![23.jpg](./resources/23_fmt.jpeg)
 
-Stále se opakující kresba boha na Velikonočním ostrově
+> Stále se opakující kresba boha na Velikonočním ostrově
 
 Takto popisovaná společnost se ovšem liší od blahobytných představ pana profesora Figueroy, v nichž Rapa Nui přetéká obilím a rybami a kdy „na pobřeží žily velmi silné kmeny a na kamenické práce a na přepravu zbývalo dost pracovních sil…“ Zdá se naopak, že tvorba, transport a vztyčování kolosů moai znamenaly pro mnohé generace obrovské vypětí sil, vyžádaly každou hodinu času, jež nebyla nezbytná k reprodukci sil na druhý den, a každou ruku, jež nebyla zaměstnána obtížným sháněním potravy. Výroba soch tedy musela být motivována neobyčejně silně a přesvědčivě – a to je tím podivnější, že chrámy místních, dávno zapomenutých kultů byly postaveny jinde a s kolosy moai, jak se zdá, nijak nesouvisely ani prostorově, ani myšlenkově.
 
@@ -98,7 +100,7 @@ Muselo to být ohrožení vážné a osudné, byli-li strážci vybudováni v 
 
 ![36.jpg](./resources/36_fmt.jpeg)
 
-Jedna z obrovských, až třicet tun těžkých olméckých hlav v La Ventě, romantiky nazývaných „kosmonauti“
+> Jedna z obrovských, až třicet tun těžkých olméckých hlav v La Ventě, romantiky nazývaných „kosmonauti“
 
 Domněnku o strašácích změnily téměř v jistotu otvory, s nimiž si zatím nevědí archeologové rady. Povšimneme-li si jejich rozdělení, táhnou se téměř přesně po zevním obrysu soch od spánků přes líce na bradu, ramena a boky, a právě tak lemují po čele, hřbetu nosu a bradě profil některých soch. Bylo vysloveno několik domněnek, především o tetování nebo zdobení zjizvenými zářezy do kůže. Takové tetování by však bylo velmi neobvyklé, liší se od tetování, popisovaného na Velikonočních ostrovech, a stěží by je velkoryse stylizující tvůrci napodobovali pracným vyvrtáváním děr, vyžadujícím stovky hodin otupující práce. Domnívám se, že otvory původně sloužily k upevnění nějakých hořlavých látek, pochodní, rákosového lýka, smočeného v tuku mořských ptáků apod., nebo snad jakýchsi kahanů, jež jsou nálezy prokázány již v neolitu. Zatímco ve dne hrozily vetřelci sochy, v noci zářila pro výstrahu ohnivá silueta alespoň některých. Iluminovat všechny bylo nad síly obyvatel. Ochrana tedy byla zajištěna i v noci.
 
@@ -122,11 +124,11 @@ Dívá se do nebes jako zděšené a zcela zaujaté dítě, věřící pohádk�
 
 ![24.jpg](./resources/24_fmt.jpeg)
 
-Proslulý „velký marťanský bůh“ z Tassíli, objevený Henrim Lhotem (Lhote ovšem mínil tento název zpola žertovně)
+> Proslulý „velký marťanský bůh“ z Tassíli, objevený Henrim Lhotem (Lhote ovšem mínil tento název zpola žertovně)
 
 ![25.jpg](./resources/25_fmt.jpeg)
 
-Stejně početné a stejně rozšířené jsou kresby postav s kulatými hlavami a jakýmisi „anténami“. Tyto kresby pocházejí z afrického Sefaru
+> Stejně početné a stejně rozšířené jsou kresby postav s kulatými hlavami a jakýmisi „anténami“. Tyto kresby pocházejí z afrického Sefaru
 
 Chilská vláda se léta starala především o 50 000 ovcí anglické firmy Williamson a Balfour – péče o tělesné a duševní blaho poslední tisícovky domorodců se omezovala na povinné návštěvy mší samozvaného „krále ostrova“, považujícího domorodce za bandu zlodějů a darebáků. Pro početnou rodinu na týden byl příděl 3 kg veterinárně závadné skopoviny, škola na ostrově neexistovala a negramotnost byla stoprocentní. Ostrované sdělili manželce Mazièrově, jejíž polynéský původ jí získal důvěru, některé z článků své víry:
 
@@ -174,6 +176,8 @@ Lidé křičeli: „Spadlo nebe za času krále Rokoroko he Taua.“
 Nějaký čas se dívalo – počkalo – odešlo a zůstalo nahoře.  
 Znovu si Ronga Riki dal jméno Rangi Topa.
 
+  
+
 Padající nebe, které se dívá, čeká a opět se vrací… Jak asi by si člověk v prelogické fázi vývoje vysvětloval přistání a opětovný start kosmického korábu (nebo letadla), jak by jej popsal? Nějak takhle?
 
 A jaký vztah k tomuto podivnému zážitku mají „Tamti“, lid, o němž obyvatelé Velikonočního ostrova mluví s jakousi hrůzou a nechutí. „Tamti“ jsou součástí nebo snad jednou z příčin chronického traumatu ostrova. Zanechali v jeskyních své výtvory, podivné sošky, jejichž rysy ani zpracování nejsou polynéské. Podle zpráv prvních mořeplavců, navštěvujících ostrov, domorodci je rádi a s jakýmsi ulehčením přenechávali zájemcům jako cosi, tající v sobě nebezpečí a negativní sílu, jež pověra připisuje např. i staroegyptským vešeptům, soškám, střežícím klid hrobů.
@@ -202,7 +206,7 @@ Připadám si jako barbar a svatokrádežník, odvažuji-li se takového přiro
 
 ![26.jpg](./resources/26_fmt.jpeg)
 
-Směry „pohledů“ kolosálních soch na Velikonočním ostrově, jak je zachytil Francis Mazière
+> Směry „pohledů“ kolosálních soch na Velikonočním ostrově, jak je zachytil Francis Mazière
 
 Uvítá jej „baterie“ sedmi soch moai na ahau nad severozápadním břehem, od níž si zřejmě nelze příliš slibovat – nebe, které „přichází-čeká-odchází“, se patrně snáší do středu ostrova jako blesk a těžko by bylo možné očekávat, že se zalekne těchto soch, ba dokonce že je z té výše spatří. Archeologové se ostatně shodují, že právě tyto sochy jsou nevalné kvality, a ne z největších. Ostatní sochy, hledící do vnitrozemí, mají v této intepretaci dvojí smysl: brání vetřelci vstoupit do hustě obydleného pobřežního pásu (vnitrozemí ostrova nikdy obydleno nebylo), kde jsou v útesech a na falézách i tajné rodové jeskyně, a nutí jej pod hrozbou opustit ostrov předem vytčeným směrem: jihozápadním sektorem. Všude jinde se nutně střetne s hrozivými obry s červenými přilbami, jejichž nezjevnou zbraní jsou snad oči, kameníky „otevírané“ teprve po vztyčení na terasách…
 

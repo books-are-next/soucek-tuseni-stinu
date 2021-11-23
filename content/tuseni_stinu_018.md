@@ -2,21 +2,23 @@
 title: Kamenná posedlost
 ---
 
-Nevíme, čím ve skutečnosti jsme, dokud nezpracujeme  
-myšlením průběh činností.
+> Nevíme, čím ve skutečnosti jsme, dokud nezpracujeme  
+> myšlením průběh činností.
 
 JOHN DEWEY, 1930
 
-V potřebách shledáváme určitou hierarchii, od základních,  
-společných bez výjimky všem lidem (ba i zvířatům), až po ty,  
-které v určitých společenských uskupeních vyjádřeny být  
-nemusí. To, co takto obecně platí pro společnost jako celek,  
-platí obdobně i pro jedince. Každý člověk má svou stupnici  
-hodnot, kterými přiřazuje jednotlivým potřebám jistou váhu.
+> V potřebách shledáváme určitou hierarchii, od základních,  
+> společných bez výjimky všem lidem (ba i zvířatům), až po ty,  
+> které v určitých společenských uskupeních vyjádřeny být  
+> nemusí. To, co takto obecně platí pro společnost jako celek,  
+> platí obdobně i pro jedince. Každý člověk má svou stupnici  
+> hodnot, kterými přiřazuje jednotlivým potřebám jistou váhu.
 
 JIŘÍ ŠULC: ČLOVĚK NA POKRAJI SVÝCH SIL, 1971
 
 Roku 1968 byla severně od bahamského ostrova Andros při leteckém snímkování náhodně objevena 2–3 metry pod hladinou moře obrovská zeď, dlouhá nejméně 500 metrů, sestavená z přesně opracovaných kamenných kvádrů o průměrné hmotnosti asi 25 000 kg. Stavba, jež nepochybně vznikala na souši, je tak dokonalá a lícování kvádrů tak přesné, že již 10 000 let (jak prokázaly zkoušky pomocí C 14 i další pomocná datování) odolává nejen vlnám, ale i tajfunům a uragánům, které jsou zde doma. Kyklopská stavba nejasného významu je tedy přibližně stejně stará jako pyramida Cuicuilco jihovýchodně od Mexico City, pokrytá lávou sopky Cerro Xitle, jež naposledy promluvila před 8–10 000 lety.
+
+  
 
 Nestalo se vlastně nic zvláštního – přibyl jen další doklad k nespočetným již existujícím o mimořádné schopnosti našich dávných předků opracovávat kámen a přesouvat jej na často ohromující vzdálenosti.
 
@@ -26,7 +28,7 @@ V Baalbeku však je ještě větší kámen, ne zcela vybavený z lomu. Je pon
 
 ![41.jpg](./resources/41_fmt.jpeg)
 
-Baalbecká terasa s obrovitými kamennými kvádry
+> Baalbecká terasa s obrovitými kamennými kvádry
 
 Až dosud největší monolitní blok kamene, jenž byl známým způsobem přesunut, byl blok švédské žuly o hmotnosti 1250 tun pro podstavec jezdecké sochy Petra Velikého v Leningradě. Přesun byl provedený roku 1769 na bronzových koulích. Existují doklady např. o přesunu Caligulova obelisku v Římě r. 1586 (hmotnost 325 tun) i o přesunu a důmyslné, i když nesmírně pracné stavbě egyptských obelisků s použitím mírně skloněných náspů, podepíraných opěrnými zdmi a při potřebné výšce až několik kilometrů dlouhých. Záhadou zůstává manipulace s kvádry až 2000 tun hmotnými, použitými jako stropní překlady známé Černé pagody v Indii v Konáraku, která je dnes v rozvalinách. (Za svou proslulost vděčí erotickým chrámovým reliéfům.) To vše umožnil dostatek pracovních sil, tažných zvířat, dokonalých lan, případně technických zařízení. V pradávných dobách megalitických kultur, považovaných za vyvrcholení neolitu a za konečné a nejúspěšnější utkání člověka, usilujícího střetnout se s časem a stavět pro věky, s kamenem, však tyto podmínky splněny nebyly. A přesto k transportům obrovských kamenných bloků docházelo.
 
@@ -36,11 +38,11 @@ Megality, ať už v podobě menhirů (samotných balvanů), dolmenů (umělých
 
 ![42.jpg](./resources/42_fmt.jpeg)
 
-Rozvaliny Černé pagody s mimořádně hmotnými překladovými kvádry, tvořícími vlastní stropy celých prostorných místností
+> Rozvaliny Černé pagody s mimořádně hmotnými překladovými kvádry, tvořícími vlastní stropy celých prostorných místností
 
 ![43.jpg](./resources/43_fmt.jpeg)
 
-Jedenáct metrů vysoký menhir v Kerlons, Finistère, jenž patrně sloužil pobřežní navigaci
+> Jedenáct metrů vysoký menhir v Kerlons, Finistère, jenž patrně sloužil pobřežní navigaci
 
 Někdy to byla práce téměř neuvěřitelná. Tak např. proslulé Stonehenge asi 130 km od Londýna bylo vybudováno jednak z osmdesáti šestitunových balvanů modrého doleritu, dopravovaného jako vynikající materiál na válečné sekerky z pahorku Prescelly Hills v Pembrokeshiru dvě stě kilometrů vzdáleného (později byl dolerit použit na čepy a zádlaby), a dále z jedenaosmdesáti padesátitunových balvanů z tvrdého pískovce, vylámaných ve vzdálenosti asi 35 km od Stonehenge v Malboroughu. Třicet balvanů bylo vztyčeno, ostatní otesány do překladových kamenných kvádrů.
 
@@ -50,11 +52,11 @@ Takových příkladů bychom mohli jmenovat desítky: kamenné bloky hradby Sacs
 
 ![44.jpg](./resources/44_fmt.jpeg)
 
-Dolmen v Locmariaqueru, známý pod jménem Stůl kupců, s obrovitým překladovým balvanem
+> Dolmen v Locmariaqueru, známý pod jménem Stůl kupců, s obrovitým překladovým balvanem
 
 ![45.jpg](./resources/45_fmt.jpeg)
 
-Pohled ze Stonehenge ke kamenu Hele (Hell Stone), sloužícímu jako vizír při určování slunovratů
+> Pohled ze Stonehenge ke kamenu Hele (Hell Stone), sloužícímu jako vizír při určování slunovratů
 
 Něco zde nesouhlasí. Žijeme v představě, že člověk prvobytně pospolné kmenové společnosti, který megalitické stavby budoval, žil v poměrně malých společenstvech, omezených možností obživy lovem, sběračstvím a pastevectvím. Tak primitivní způsob obživy vyžadoval značně velký rajón pro každý rod či kmen. Kde se vzaly lidské síly, nutné k tak mohutným dílům? Kde stovky silných mužů, schopných pohnout kameny Stonehenge? Kooperace mezi rody se nezdá být pravděpodobná, zejména šlo-li o tak úzce omezené kmenové zájmy, jako získání materiálu na sekerky, určené k exportu, z něhož měl zisk jen okruh obyvatel Stonehenge (podle rozměrů dobytčí ohrady nevelký), pohřeb předka, pro cizí rody lhostejného, nebo určení počátku slavnosti, konané s vyloučením širší veřejnosti.
 
@@ -74,7 +76,7 @@ Zvýšený zájem o středoamerické a jihoamerické kultury přivedl do prale
 
 ![46.jpg](./resources/46_fmt.jpeg)
 
-Jedna z kostarických koulí o průměru 2,16 m a hmotnosti 16 tun zdobí bez jakýchkoli úprav a retuší náměstí v San José
+> Jedna z kostarických koulí o průměru 2,16 m a hmotnosti 16 tun zdobí bez jakýchkoli úprav a retuší náměstí v San José
 
 Stoneová ve své zprávě napsala: „Koule z Kostariky musí být připsány k nerozluštěným megalitickým hádankám našeho světa…“
 

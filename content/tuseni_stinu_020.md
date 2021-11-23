@@ -2,20 +2,22 @@
 title: Delfíni, mému srdci milí…
 ---
 
-… Ulož jim zvlášť jednoduchý test, který by dokázala  
-nejnepatrnější potrhlá bílá myš, a oni ho dokonale zvržou –  
-ale neklasickým způsobem. Měli jsme jeden takový test: tři  
-různé cesty vedly od Skvančovy klece směrem ke druhé kleci,  
-kam jsme položili vybraný kousek shnilého rákosí. Jedna  
-z cest je snadno přístupná, ostatní jsou upraveny tak, že na  
-něj foukne proud chlóru, jakmile se tudy pokusí projít…  
-Hned podruhé se dal správnou cestou; a pak už to znovu  
-neopakoval a nevyzkoušel cesty zamořené chlórem. Neudělal  
-nic… jednoduše si sedl.
+> … Ulož jim zvlášť jednoduchý test, který by dokázala  
+> nejnepatrnější potrhlá bílá myš, a oni ho dokonale zvržou –  
+> ale neklasickým způsobem. Měli jsme jeden takový test: tři  
+> různé cesty vedly od Skvančovy klece směrem ke druhé kleci,  
+> kam jsme položili vybraný kousek shnilého rákosí. Jedna  
+> z cest je snadno přístupná, ostatní jsou upraveny tak, že na  
+> něj foukne proud chlóru, jakmile se tudy pokusí projít…  
+> Hned podruhé se dal správnou cestou; a pak už to znovu  
+> neopakoval a nevyzkoušel cesty zamořené chlórem. Neudělal  
+> nic… jednoduše si sedl.
 
 FRANK M. ROBINSON: LABYRINT
 
 Problematika modelování možných inteligentních ne-lidských by­tostí, s nimiž se snad v budoucnosti setkáme v dálném vesmíru, nebo s nimiž se snad naše Země setkala ve vzdálené i bližší minulosti, je dvojnásobně ulehčena.
+
+  
 
 Prvním ulehčením je obrazotvornost spisovatelů vědeckofan­tastických románů, kteří vynaložili značný um a námahu, aby do svých zápletek uvedli bytosti zbrusu nové a zvláštní, což při obrovité produkci tohoto literárního žánru znamená prakticky nevyčerpatelný thesaurus bytostí od mírně pozměněných lidí přes tvory bizarních tvarů (obzvláště jsou v oblibě chapadla) až k biformienům Jeana Hougrona, vystřelujícím se jako silokřivky čisté energie od hvězdy k hvězdě, a snad ještě dál, k existencím podivnějším a člověku cizejším.
 

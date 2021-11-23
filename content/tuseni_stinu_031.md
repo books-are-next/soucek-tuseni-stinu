@@ -2,15 +2,17 @@
 title: Proč nepřicházejí?
 ---
 
-Nepořádky začínají hned kousek od prahu. Asteroidy, jejichž dráhy probíhají mezi Zemí a Marsem, jsou v zuboženém stavu. Ty monumentální hory skal kdysi tonuly ve věčné tmě. Dnes jsou elektricky osvětlené, a nadto je znešvařují iniciály a monogramy namáhavě vytesané ve skále. Planetka Eros, oblíbená hlavně flirtujícími párky, se zachvívá pod ranami nejrůznějších, podomácku školených krasopisců, kteří vytloukají památeční nápisy do skalnatého povrchu.
+> Nepořádky začínají hned kousek od prahu. Asteroidy, jejichž dráhy probíhají mezi Zemí a Marsem, jsou v zuboženém stavu. Ty monumentální hory skal kdysi tonuly ve věčné tmě. Dnes jsou elektricky osvětlené, a nadto je znešvařují iniciály a monogramy namáhavě vytesané ve skále. Planetka Eros, oblíbená hlavně flirtujícími párky, se zachvívá pod ranami nejrůznějších, podomácku školených krasopisců, kteří vytloukají památeční nápisy do skalnatého povrchu.
 
-Našlo se také několik prohnaných kazisvětů, kteří si tu zřídili půjčovnu kladiv, dlát, a dokonce i pneumatických vrtaček, takže člověk stěží najde i v nejzapadlejší končině nějakou nedotčenou skálu.
+> Našlo se také několik prohnaných kazisvětů, kteří si tu zřídili půjčovnu kladiv, dlát, a dokonce i pneumatických vrtaček, takže člověk stěží najde i v nejzapadlejší končině nějakou nedotčenou skálu.
 
-Všude straší nápisy jako „Ať dosvědčí asteroid, že chci pro tvou lásku žít“ nebo „Zde pod touto skálou v skrytu milovali jsme se na meteoritu“, pomalované nevkusnými kresbami srdcí, probodených šípem… Za Síriem jsem se pokoušel počítat ohromné reklamní tabule rozvěšené v mezihvězdném prostoru, které pobízely k pití maďarské hořké, galaktušky, staroměsíční a sputnika wyborowego…
+> Všude straší nápisy jako „Ať dosvědčí asteroid, že chci pro tvou lásku žít“ nebo „Zde pod touto skálou v skrytu milovali jsme se na meteoritu“, pomalované nevkusnými kresbami srdcí, probodených šípem… Za Síriem jsem se pokoušel počítat ohromné reklamní tabule rozvěšené v mezihvězdném prostoru, které pobízely k pití maďarské hořké, galaktušky, staroměsíční a sputnika wyborowego…
 
 STANISŁAW LEM: ZACHRAŇME VESMÍR
 
 Povídka, jejíž úryvek jste si právě přečetli, je ovšem kosmickou groteskou, ale i smrtelně vážně míněné vesmírné science fictions jsou celkem jednotný v názoru, že v době několika set či tisíců, v nejhorším případě desítek tisíců let (což znamená v porovnání s vývojem vesmíru a Země pouhý okamžik) bude blízký i vzdálený vesmír čile frekventován kosmickými koráby pozemšťanů.
+
+  
 
 Vzhledem ke zmíněné bezvýznamnosti doby, hodnocené lidskými měřítky, je s podivem, že se některá z vyspělejších nepozemských civilizací, o jejichž pravděpodobné mnohosti jsme se snažili snést co nejstřízlivější argumenty, neobjevila, nenavštívila zjevně a okázale Zemi a neučinila definitivně zbytečnými nekonečné úvahy o postavení lidstva v kosmu.
 
@@ -108,6 +110,8 @@ Předpokládám, že se lidstvo dříve nebo později se všemi obtížemi tohot
 
 Shrňme tedy konečně soubor tušení stínu, k němuž jsme dospěli:
 
+  
+
 1\. V dávné i nepříliš dávné minulosti lidstva nacházíme indicie naznačující, že do jeho sociálního vývoje zasahovaly faktory dosud neznámé nebo neobjasněné.
 
 2\. Jedním z možných vysvětlení těchto nálezů všeho druhu je existence několika nebo mnoha ztracených civilizací, předcházejících civilizace nám známé.
@@ -129,6 +133,8 @@ Shrňme tedy konečně soubor tušení stínu, k němuž jsme dospěli:
 10\. Tyto bytosti navštívily v minulosti, jak se zdá, nejednou naši Zemi. Klíč k některým faktům, které jsme nazvali indiciemi, je třeba hledat ve vzájemné souvislosti těchto návštěv a dávných, většinou ztracených civilizací (kulturních okruhů), vyvíjejících se alespoň zčásti a dočasně pod jejich vlivem.
 
 Kniha Tušení stínu mohla problémy jen naznačit a snad tu a tam v nejhrubějších obrysech nastínit možnosti řešení; rád bych se k problematice dílčích otázek Tušení stínu ještě vrátil podrobnějšími a důkladněji dokumentovanými studiemi.
+
+  
 
 Doufám, že ani v tomto případě všichni přátelé, kteří mne podporovali, pomáhali diskusemi i potřebnou literaturou a především zájmem o toto dílo, neodepřou mi laskavou podporu. Učiním vše pro to, aby jejich pomoc, týkající se objasňování faktů, nebyla spojována s mými závěry jinak než tak, jak je namístě. Obzvláště jsem zavázán odborným lektorům jednotlivých kapitol, dr. Jiřímu Grygarovi, doc. dr. Eriku Kittnarovi, ing. Věnceslavu Patrovskému, prof. dr. ing. Rudolfu Peškovi, dr. Miloslavu Stinglovi, dr. Pavlu Toufarovi a dr. Vojtěchu Zamarovskému.
 

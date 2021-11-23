@@ -2,14 +2,16 @@
 title: Na hranicích rozumu
 ---
 
-Jsou lidé, jejichž obrazivost a síla myšlenek je velmi silná  
-a mohou nabýti takové moci, že se mohou duším jiných lidí  
-ohlašovat a je poučit o svých myšlenkách a přáních na velké  
-vzdálenosti.
+> Jsou lidé, jejichž obrazivost a síla myšlenek je velmi silná  
+> a mohou nabýti takové moci, že se mohou duším jiných lidí  
+> ohlašovat a je poučit o svých myšlenkách a přáních na velké  
+> vzdálenosti.
 
 AGRIPPA Z NETTESHEIMU, 1531
 
 Paul Brunton, který celý život zasvětil zkoumání podstaty východních mystických praktik i praktické mystice, napsal na sklonku života rozsáhlé dvousvazkové dílo, v němž doznává: je třeba konečně říci, že mystika v žádné formě nevede ke „spojení s bohem“, nemá sama o sobě žádný náboženský ani mravní význam. Je jenom zdrojem příjemných pocitů. Lidé, kteří se jí oddávají, touží po těchto příjemných pocitech a usilují o to, aby se opakovaly. Nic víc.
+
+  
 
 Je to strašná deziluze, které se spousty snílků dočkaly od jednoho ze svých uznaných vůdců. Namlouvají si totiž, že se přesvědčují o existenci boha osobně, že si zajišťují věčný život, že se vymykají ostatním lidem, atd. atd.
 
@@ -119,11 +121,11 @@ V levitaci je patrně třeba hledat zdroj celé řady maleb z různých končin
 
 ![49.jpg](./resources/49_fmt.jpeg)
 
-„Plavci“, skalní kresba z Gilf Kebiru v Libyi z počátku 2. tisíciletí před n. l., připouštějící řadu výkladů
+> „Plavci“, skalní kresba z Gilf Kebiru v Libyi z počátku 2. tisíciletí před n. l., připouštějící řadu výkladů
 
 ![50.jpg](./resources/50_fmt.jpeg)
 
-Skalní pravěké malby z Libyjské pouště, zpodobující figury v podivných polohách podobajících se levitaci a s naznačenými šrafovanými dráhami pohybu
+> Skalní pravěké malby z Libyjské pouště, zpodobující figury v podivných polohách podobajících se levitaci a s naznačenými šrafovanými dráhami pohybu
 
 Pro úplnost je nutno uvést další možné vysvětlení obrazů a kre­seb postav, levitujících v beztížném stavu, totiž tzv. „létací“ sny, kterými je navštěvována většina z nás a které jsou obvykle vysvětlovány buď jako atavistická druhová vzpomínka na blahý život, strávený hopkováním ve větvích pralesa, nebo – což je pravděpodobnější – pocitem lehkosti v okamžiku usínání, kdy jako první „usíná“ hmat a s ním i pocit styku těla s podložkou.
 
@@ -131,7 +133,7 @@ Mezi zvláštní paranormální schopnosti patří soubor tibetských cviků lun
 
 ![48.jpg](./resources/48_fmt.jpeg)
 
-Skalní kresba z Mtoko v Rhodesii prý zpodobuje mrtvoly Mamba a Mwuizy – mohlo by ovšem jít i o pokus znázornit levitaci nebo „létací“ sen
+> Skalní kresba z Mtoko v Rhodesii prý zpodobuje mrtvoly Mamba a Mwuizy – mohlo by ovšem jít i o pokus znázornit levitaci nebo „létací“ sen
 
 S lung-gom-py se setkala řada evropských cestovatelů – nejpodrobnější zprávy o nich opět přivezla nedávno zesnulá paní Alexandra David-Neelová. Tato profesorka univerzity v Pekingu a Haagu, obdařená vzácnou schopností lehké a úsměvné sebeironie nad svým pravověrným buddhismem, svými zážitky a závěry, byla svrchovaně kritická a svou znalostí Tibetu v době kolem I. světové války tehdy nebetyčně převyšovala všechny ostatní cestovatele. Uveřejnila je v knize Mystikové a mágové v Tibetě, z níž čerpala víceméně přesně řada autorů. Rozhodně nemůže být srovnána s plejádou šarlatánů, kteří se vydávali za „zasvěcence“ a kteří zaplavovali před časem důvěřivé čtenáře fantazmagoriemi o tibetských klášterech, a dokonce o podzemních říších Agartě a Shampullah, kde žijí nadlidé, bohové a duchové.
 
@@ -241,7 +243,7 @@ Všechny zprávy se shodují na mimořádném vzrušení tanečníků, jednajíc
 
 ![51.jpg](./resources/51_fmt.jpeg)
 
-Skalní kresba z Tell Issaghenu na Sahaře je vysvětlována jako transport mumií – je v ní ovšem možné vidět i např. levitaci „spojenými silami“
+> Skalní kresba z Tell Issaghenu na Sahaře je vysvětlována jako transport mumií – je v ní ovšem možné vidět i např. levitaci „spojenými silami“
 
 Zdá se, že ve všech případech se uplatňuje jakási psychicky řízená ochrana, jejíž mechanismus je nám dosud neznámý. Svědčí pro to případ popsaný Wilmonem Menhardem: v okamžiku produkce jednoho chodce, kráčejícího po rozpálených kamenech, se v blízkosti počali hlučně rvát psi. Hluk odvrátil na okamžik mužovu pozornost, což postačilo, aby rázem došlo ke zcela normálním popáleninám. Podobné stanovisko zastává i nepočetná odborná literatura o tomto předmětu. Závěry studie uveřejněné v časopise British Medical Journal 11. ledna 1936 dodnes neztratily platnost.
 
@@ -277,4 +279,4 @@ Věřím, že budu správně pochopen: rozhodně se nepřimlouvám za založení
 
 Alespoň tolik na okraj některých zajímavých možností, jež se otevíraly v dávné minulosti netechnickým civilizacím, vytvářejícím svůj vztah k zevnímu prostředí zcela jinými prostředky, než jsou naše, a používajícím snad i jiných a překvapujících metod vyrovnání se s vynořivšími se problémy. Kdoví, zda náš model není alespoň v některých aspektech přípustným i pro civilizace nepozemské. Nikoli pro ty, které se vzdaly, jak se domnívá Lem, dalšího technického rozvoje vůbec a kosmické expanze zvláště. Taková regrese je sociálně i biologicky vyloučená a ještě daleko pošetilejší než hlásání „návratu k přírodě“ – také pro nás jsou tyto cesty navždy uzavřeny a křísit je jako praktické řešení civilizačních otázek by bylo jistě málo slibné. Možná však, že existují vesmírné „civilizace delfínů“, které z nejrůznějších důvodů nemohly zvolit jinou cestu. Kdoví zda se s nimi nesetkáme na planetách vzdálených hvězd, podaří-li se nám je dosáhnout.
 
-Jsem si vědom problémovosti této kapitoly a byl bych rád, aby byla pochopena tak nepředpojatě, jak se s těmito otázkami vyrovnával např. V. I. Lenin ve své knize Materialismus a empiriokriticismus, kde na námitky o mechanickém přístupu materialismu ke vztahu vědomí a skutečnosti odpovídá: „To je ovšem nesmysl. Jako by materialismus něco tvrdil o ‚menší‘ reálnosti vědomí nebo nutně ‚mechanickém‘, a ne elektromagnetickém, nebo ještě mnohem složitějším obrazu světa jakožto pohybující se hmoty!“
+Jsem si vědom problémovosti této kapitoly a byl bych rád, aby byla pochopena tak nepředpojatě, jak se s těmito otázkami vyrovnával např. V. I. Lenin ve své knize Materialismus a empiriokriticismus, kde na námitky o mechanickém přístupu materialismu ke vztahu vědomí a skutečnosti odpovídá: „To je ovšem nesmysl. Jako by materialismus něco tvrdil o ‚menší‘ reálnosti vědomí nebo nutně ‚mechanickém‘, a ne elektromagnetickém, nebo _ještě mnohem složitějším obrazu světa jako__ž__to pohybující se hmoty!_“

@@ -2,14 +2,16 @@
 title: Vesmírný projektil
 ---
 
-Raději budu věřit, že dva yankeeští profesoři lhou,  
-než že kameny mohou padat z nebe.
+> Raději budu věřit, že dva yankeeští profesoři lhou,  
+> než že kameny mohou padat z nebe.
 
 PREZIDENT USA THOMAS JEFFERSON (1743–1826), KDYŽ MU  
 BYLO OZNÁMENO SVĚDECTVÍ DVOU UNIVERZITNÍCH  
 PROFESORŮ O PÁDU METEORITU
 
 Příčiny podivného vyhynutí mamutů v severní Sibiři a na Aljašce zaměstnávají vědce zvučných jmen, včetně Darwina a Cuviera, značně dlouho. Bylo to opravdu podivné vyhynutí, které nakupilo množství mamutích koster, leckde dokonce dobře zachovaných těl zdechlých zvířat, dobře živených a s letní stravou v žaludcích a mezi zuby. Snaha vysvětlit mamutí hekatombu přirozenými příčinami, např. genetickým přežitím, klimatickými výkyvy a z nich rezultujícími změnami pastvy i významnou účastí člověka-lovce právě v severosibiřských lokalitách, zásobujících po staletí slonovinou evropské i asijské trhy, zklamala. Smrt mamutů byla zřejmě náhlá, a ačkoli nastala v létě, ocitli se mamuti od tohoto okamžiku v „přírodní chladničce“, která je skvěle uchovala po dlouhá tisíciletí.
+
+  
 
 Hledala se tedy vysvětlení další. Zoolog Ivar Sanderson, známý svými odvážnými hypotézami, uvažoval o plynech z vulkánů, které se z horních vrstev atmosféry snášely jako „ledové sloupy vzduchu“, mrazící velikány tundry. Meteorologové však takový fenomén neznají. Sovětský vědec Š. Gasanov se domnívá, že se mamuti propadali do klínovitých trhlin, vznikajících v létě v permafrostu, věčně zmrzlé zemi, a zakrytých jen slabým stropem. Občas v nich dnes na Čukotce mizí i traktory i koně. Je to důvtipná domněnka, avšak poloha nalezených a zachovaných zdechlin jí neodpovídá, nehledě na jiné klimatické podmínky, doprovázející vyhynutí mamutů.
 

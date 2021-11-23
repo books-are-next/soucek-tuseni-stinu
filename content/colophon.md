@@ -16,6 +16,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 20. 12. 2019.
 
+  
+
+  
+
 ![image002.jpg](./resources/image002_fmt.jpeg)
 
 
@@ -28,20 +32,38 @@ Hledání ztracených civilizací
 
 Edice Záhady
 
+  
+
 Ilustrace v knize a na obálce z archivu autora
+
+  
 
 Redakce Markéta Teuchnerová
 
+  
+
 Vydala Městská knihovna v Praze
+
+  
 
 Mariánské nám. 1, 115 72 Praha 1
 
+  
+
 V MKP 1. elektronické vydání
+
+  
 
 Verze 1.0 z 20. 12. 2019
 
+  
+
 ISBN 978-80-274-0320-2 (epub)
 
+  
+
 ISBN 978-80-274-0321-9 (pdf)
+
+  
 
 ISBN 978-80-274-0322-6 (prc)

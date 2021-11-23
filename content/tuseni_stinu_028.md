@@ -2,13 +2,15 @@
 title: Formy života ve vesmíru
 ---
 
-Nejzajímavější vlastností života je, že dovede pro sebe využít jak dějů čistě atomárních, tak i dějů makroskopických.
+> Nejzajímavější vlastností života je, že dovede pro sebe využít jak dějů čistě atomárních, tak i dějů makroskopických.
 
-V tom je jeho úspěch.
+> V tom je jeho úspěch.
 
 FERDINAND HERČÍK: OD ATOMU K ŽIVOTU, 1946
 
 V předchozí kapitole jsme se přesvědčili, že podle slušně doložených a logických předpokladů soudobé astronomie a zejména kosmogonie máme plné právo předpokládat, že ve vesmíru, dosažitelném našemu pozorování a zkoumání optickými nebo radioastronomickými přístroji, je značný počet planetárních systémů, připouštějících vznik života za podmínek podobných pozemským. Pokusme teď stejně střízlivými a opět co nejlépe dokumentovanými pracovními domněnkami dospět alespoň k rámcové představě, jaké formy by tento mimozemský život mohl mít.
+
+  
 
 Celá řada astronomů a tzv. exobiologů různých původních profesí překonává autory science fiction v míře fantazie, s jakou líčí možnosti a tvary mimozemského života, ačkoli k tomu patrně nejsou důvody. Naše Země je obrovskou laboratoří, poskytující nejrůznější prostředí od horkých pramenů až k ledovým vrcholům velehor, od bezvodých pouští až k hlubinám oceánských příkopů. Vytvořila se zde neuvěřitelně pestrá paleta životních forem, z nichž některé nám k našemu údivu ukázal teprve stereoskan, mikroskop, otevírající brány k fantastickému světu hmyzu a prvoků, tak jak skutečně vypadají.
 
@@ -16,15 +18,15 @@ Není důvod domnívat se, že by chemicky přesně určený nerost krystaloval 
 
 ![57.jpg](./resources/57_fmt.jpeg)
 
-Snímek jednoho z nově objevených a tvarově svrchovaně neobvyklých půdních mikroorganismů, pořízený D. I. Nikitinem
+> Snímek jednoho z nově objevených a tvarově svrchovaně neobvyklých půdních mikroorganismů, pořízený D. I. Nikitinem
 
 ![59.jpg](./resources/59_fmt.jpeg)
 
-Pro srovnání obvyklé a známé tvary půdních mikroorganismů (A) a některé nové formy objevené D. J. Nikitinem a dalšími (B)
+> Pro srovnání obvyklé a známé tvary půdních mikroorganismů (A) a některé nové formy objevené D. J. Nikitinem a dalšími (B)
 
 ![58.jpg](./resources/58_fmt.jpeg)
 
-Teprve stereoskanový mikroskop nám ukázal skutečnou tvarovou rozmanitost pozemské fauny. Hlava škvora, osmdesátkrát zvětšená
+> Teprve stereoskanový mikroskop nám ukázal skutečnou tvarovou rozmanitost pozemské fauny. Hlava škvora, osmdesátkrát zvětšená
 
 Podstatu života lze sotva redukovat tak dalece, aby se biologie rozpustila v chemii, fyzice a dalších pomocných exaktních vědách, zabývajících se makromolekulami, zejména DNK, desoxyribonukleonovou kyselinou. Život zcela jistě není, jak to formuloval např. Müller, jen okrajovým jevem kolem rekombinace a mutace genů, tedy vlastně DKN, a ovšem stejně jistě není, jak tvrdil Schrödinger, řízen molekulami, poslouchajícími zákonů božské kvantové mechaniky. Přesto však i tento svrchovaně složitý jev, vyvíjející se v časové posloupnosti vyšších forem pohybu hmoty, jenž nemůže být beze zbytku vysvětlen zákony, plně platícími pro pohyb nižších forem, připouští i bez nebezpečných zjednodušení rámcové určení, a dokonce předvídání ze svých elementárních stavebních kamenů, nejen pokud jde o složité makromolekuly, ale i, v prvém stupni úvah, o atomy prvků. Z devadesáti dvou přirozených prvků, stavebních kamenů naší Země a celého vesmíru, bylo nalezeno v živých organismech něco přes půl stovky. Všem organismům jsou společné tzv. obligátně biogenní prvky: uhlík, vodík, kyslík, dusík, fosfor, síra, vápník, železo, hořčík a draslík. Kromě nich nacházíme v rostlinách i živočiších ve větším nebo menším množství měď, sodík, křemík, zinek, mangan a některé další prvky jako prvky stopové, pro život významné nebo nezbytné.
 
@@ -80,15 +82,19 @@ V tomto „bujónu“ se bezpochyby rozvinul život až k formám, podle Ljapu
 
 Laboratorní syntéza DNK a RNK (ribonukleové kyseliny, zastávající v buňce jakousi úlohu „pošty“ mezi jadernými strukturami a výkonnými buněčnými organuly, uloženými mimo jádro v cytoplazmě) se zdařila, ovšem v podmínkách, které sotva můžeme v praoceánech očekávat, ačkoli ani to není zcela nemožné vzhledem k obdobím prudkého zvýšení intenzity kosmických paprsků, výbuchům blízkých supernov, výkyvům zemské geotermiky, sopečným výbuchům, záření radioaktivních zemských krbů nebo konečně zásahům tak efektivním, jaké až dosud (a ne se stejným výsledkem) můžeme experimentálně docílit jen nasazením nejmocnějších urychlovačů částic: roku 1963 zaregistrovalo mnoho počítačů kosmických částic a observatoří spršku kosmického záření, vyvolaného jedním jediným atomovým jádrem vodíku, jež k nám přiletělo z kosmu mimo Galaxii, urychleno energií devadesáti trilionů elektronvoltů, tedy miliardkrát větší, než jakou poskytují největší pozemské urychlovače částic…
 
+  
+
 I když předpokládáme nejen obecnou existenci, ale i místní přítomnost potřebných bází, skládajících aminokyseliny, je náhodný vznik „životaschopného života“, tedy života, vybaveného smysluplnou informací, zakódovanou v řetězci DNK, náhodou opravdu výjimečnou, pokud uvažujeme o životě, analogickém jevům, které jako život označujeme.
 
 Nejjednodušší forma nám známého života, představovaná např. velmi primitivními druhy bakterií, obsahuje v buňce alespoň 2000 genů (cystronů), z nichž každý reguluje činnost některého z enzymů. Toto číslo představuje, jak se zdá a jak odpovídá našim dnešním poznatkům, dolní možnou mez; menší počet elementů, řídících enzymatickou činnost buňky, by nebyl slučitelný se životem.
 
 Každý z těchto genů je zakódován asi 1000 „slovy“ – aminokyselinami, z nichž opět každá aminokyselina obsahuje 4 báze. Celkem tedy musíme i v nejjednodušší formě buněčného života předpokládat minimálně 6 000 000 článků aminokyselin, jejichž čtyři báze poskytují
 
-46 × 105
+> 46 × 105
 
 možností. Pravděpodobnost, že vznikne taková kombinace, jejíž bezchybnost a dokonalost je podmínkou smysluplné informace, a tím i života, lze tedy vyjádřit poměrem 1 : 4 – za níž následuje milión nul. Takřka nekonečně malá pravděpodobnost samovolného vzniku prostou náhodnou kombinací a rekombinací vynikne, uvědomíme-li si, že od vzniku života na Zemi uběhl počet vteřin, vyjádřitelný číslem s pouhými 13 nulami. Máme však právo domnívat se, že doba, jež uběhla od vytvoření pozemských podmínek snesitelných životu do objevení se prvních primitivních organismů, byla podstatně kratší, ba až neuvěřitelně krátká.
+
+  
 
 Ostatně, abychom zůstali u příměru použitého na jiném místě: ani samovolné vytvoření potřebných enzymů nezajistilo prvotnímu organismu život – nebyly by totiž schopny reprodukce, a velice brzy, v několika minutách, by došlo k vyrovnání energetických hladin, k smrti buňky. Rovněž sama náhodně vytvořená pentle DNK (což je ještě nepravděpodobnější) by byla bezcenná bez substancí, na nichž by mohla rozvíjet svou činnost. Analogicky: i když připustíme náhodný vznik auta protřepáváním kontejneru naplněného nejrozmanitějšími součástkami, nebude toto auto schopno provozu bez silnic, benzínových rafinérií a pump, gumáren, vyrábějících pneumatiky, atd.
 
