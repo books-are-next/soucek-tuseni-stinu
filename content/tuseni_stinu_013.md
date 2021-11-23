@@ -2,14 +2,16 @@
 title: Dávné Hirošimy
 ---
 
-Všichni souhlasíme, že vaše teorie je šílená.  
-Rozcházíme se jen v tom, zda je dostatečně šílená, aby bylo  
-pravděpodobné, že je pravdivá.  
-Mám pocit, že tato teorie není dostatečně šílená.
+> Všichni souhlasíme, že vaše teorie je šílená.  
+> Rozcházíme se jen v tom, zda je dostatečně šílená, aby bylo  
+> pravděpodobné, že je pravdivá.  
+> Mám pocit, že tato teorie není dostatečně šílená.
 
 NIELS BOHR V DISKUSI K REFERÁTU W. PAULIHO
 
 Sovětský sborník Problémy kosmické biologie konstatuje, že v Indii byla objevena 4000 let stará lidská kostra, jejíž radioaktivita padesátkrát převyšuje přirozené radioaktivní „pozadí“, zjištěné v okolí. Jediné přijatelné vysvětlení podivného nálezu je, že tento člověk za svého života, přesněji řečeno těsně před smrtí, jež se nevyhnutelně záhy dostavila, byl mohutně ozářen nebo požil potravu, kontaminovanou radioaktivními látkami v množství stonásobně nebo více převyšujícím přípustnou dávku. Nejspíše to mohly být ryby, živící se planktonem, jenž v sobě, jak známo, koncentruje radioaktivní látky, takže např. po amerických pokusných výbuších v Tichém oceánu byli Japonci nuceni značnou část úlovku tuňáků a dalších druhů ryb po prozkoumání stupně radioaktivity zakopat na odlehlých místech.
+
+  
 
 VII. kniha Mahábháraty, posvátného indického eposu, vznikajícího v různých dobách a předávaného velice přesně nejprve ústní tradicí asi od 14. století před n. l. (a možná ještě dříve), obsahuje mj. tuto pozoruhodnou zprávu:
 
@@ -31,7 +33,7 @@ Podotýkám, že překlady, jichž bylo použito, nejsou upraveny a že jejich 
 
 Shody jsou opravdu prokleté.
 
-Všechna tato podivná sdělení výslovně zdůrazňují charakter účinku zbraně jako při požáru, nejde však o skutečný požár nebo o použití hořlavých bojových látek, např. tzv. řeckého ohně. Ve staroindické literatuře totiž je pro naše jediné slovo „oheň“ plných čtyřicet výrazů, z nichž některé se týkají např. tajných věd nebo magnetismu, význam jiných dosud nedovedeme přesně určit. Je dosti těžké nevzpomenout v této souvislosti výroku W. Heisenberga: „Moderní fyzika se v jistém smyslu neobyčejně přiblížila k Hérakleitovu učení. Nahradíme-li slovo ‚oheň‘ slovem ‚energie‘, můžeme Hérakleitovy výroky považovat slovo od slova za výraz našeho moderního pojetí.“
+Všechna tato podivná sdělení výslovně zdůrazňují charakter účinku zbraně _jako_ při požáru, nejde však o skutečný požár nebo o použití hořlavých bojových látek, např. tzv. řeckého ohně. Ve staroindické literatuře totiž je pro naše jediné slovo „oheň“ plných čtyřicet výrazů, z nichž některé se týkají např. tajných věd nebo magnetismu, význam jiných dosud nedovedeme přesně určit. Je dosti těžké nevzpomenout v této souvislosti výroku W. Heisenberga: „Moderní fyzika se v jistém smyslu neobyčejně přiblížila k Hérakleitovu učení. Nahradíme-li slovo ‚oheň‘ slovem ‚energie‘, můžeme Hérakleitovy výroky považovat slovo od slova za výraz našeho moderního pojetí.“
 
 Pozoruhodný je i termín, používaný na mnoha místech eposu o spoušti, kterou zbraň zanechala: mluví se doslova o stínech kdysi kvetoucích měst. Pro pamětníky atomových úderů proti Hirošimě a Nagasaki s jejich stíny bytostí, stromů i budov, proměněných výbuchem v prach a popel, je to výraz svrchovaně významuplný.
 
@@ -41,7 +43,7 @@ A jaký to byl „hrom a blesk, schopný zničit nepřítele v krajině i za
 
 ![11.jpg](./resources/11_fmt.jpeg)
 
-Mohendžodáro v době vrcholného rozkvětu, jak je rekonstruoval Alan Sorrell
+> Mohendžodáro v době vrcholného rozkvětu, jak je rekonstruoval Alan Sorrell
 
 Snad je vhodné připomenout v této souvislosti podivnou pověru, rozšířenou v Indii i v arabských zemích, že štír – na Zemi jich žije přes 100 druhů – neshoří v ohni. Jednoduchý pokus přesvědčí, že je to nesmysl, a tento „pokus“ vhozením štíra do ohně byl jistě nespočetněkrát učiněn. Je však podivnou a dosud nevysvětlenou biologickou zvláštností některých druhů štírů, mezi něž patří např. i indický Ptalamnaeus fulvipes, dlouhý až 13 cm, že snášejí obrovské dávky pronikavého záření a přežívají i ozáření dávkou 10 000 r (podle jiných autorů dokonce 75 000 r). Člověk onemocní při jednorázové expozici 50–100 r, 500 r je kritickou mezí a po ozáření 1000 r je obvykle každá pomoc marná. Štír však v atomovém ohni – a proč by to nemohl být jeden z dosud hledaných významů? – přežije. Není to zvláštní?
 
@@ -61,7 +63,7 @@ Jakousi ilustraci k Vimanika Šastra jsou reliéfy skalního chrámu v Eloře 
 
 ![13.jpg](./resources/13_fmt.jpeg)
 
-Část proslulého skalního chrámu Kalasaya v Eloře
+> Část proslulého skalního chrámu Kalasaya v Eloře
 
 „… Jsou to stroje, létající vysoko díky rtuti a mocnému vichru, který je pohání. Jsou schopny překonávat nekonečné vzdálenosti a pohybovat se seshora dolů, zdola nahoru, dopředu i dozadu…
 
@@ -79,7 +81,7 @@ Na dobu, kdy ještě nebyl založen Řím a kdy se „řecký zázrak“ skrýv
 
 ![12.jpg](./resources/12_fmt.jpeg)
 
-Rekonstrukce staroindického létajícího stroje podle knihy Vimanika Šastra
+> Rekonstrukce staroindického létajícího stroje podle knihy Vimanika Šastra
 
 Ve staroindickém eposu Rámájana nalezneme řadu pasáží, které lze vysvětlovat jako reflexe setkání s létajícími nebo dokonce kosmickými přístroji. Netřeba ovšem dodávat, že v těchto případech je namístě nejvyšší rezervovanost.
 
@@ -92,6 +94,8 @@ jak černé mračno vypadal a hromem řval…
 ………  
 V tu chvíli duch se vznesl v záři planoucí…
 
+  
+
 Ráma si zajistil spojenectví dobrého krále opic Hanumana. Král medvědů Hanumana oslovuje:
 
 Vstaň, reku, přeskoč moře, zachraň všecky nás!  
@@ -99,6 +103,8 @@ Tvým otcem je bůh větru, on ti sílu dal.
 Už jako dítě, když jsi slunce uviděl,  
 tys myslel, že plod rudý vidíš před sebou,  
 a do nebe jsi skočil celých tři sta mil…
+
+  
 
 Jinde nacházíme verše:
 
@@ -109,6 +115,8 @@ a stromy za ním za chvíli do výše spěchaly,
 v jeskyních řvali strachem skrytí tvorové,  
 v úzkosti hadi oheň z tlamy chrlili  
 a skálu kousali, až jasně vzplanula…
+
+  
 
 V eposu Hanuman spolu s opičím vojskem potřel strašné démony rákšásy i s jejich králem Rávanou a osvobodil krásnou Sítu. V „kosmické“ interpretaci by patrně bylo možné nalézt v eposu vzpomínku na humanoidní návštěvníky z vesmíru a jejich „krále“ – raketoplán.
 
@@ -133,6 +141,8 @@ Hospodin slíbil (v Mojžíšově podání) zahladit Sodomu a Gomoru sírou a 
 3\. Popis samotného Hospodinova dopuštění je dosti sugestivní: „… Hle, vystoupil sloup kouře ze země jako sloup kouře z výhně… A dštila na Sodomu a Gomoru síra a oheň… A zničila města tato a celou rovinu a všechny obyvatele měst a kotliny země…“ „Sloup kouře ze země“ má morfologicky dosti blízko ke známému atomovému hřibu.
 
 Moderní kritici bible mají celou řadu námitek jak proti biblické příhodě samotné, tak – tím spíše – proti její „kosmické“ interpretaci. Hlavními argumenty je naprosté zmizení obou měst a jejich existence právě jen v 1. Mojžíšově knize. Vyprávění o zničení hříšného města považují za jeden z didaktických mýtů, varujících před božím hněvem a jeho následky jako je potopa a další maléry, jež celkem nerudný a v hněvu ukvapený Hospodin sesílal na lidstvo. Takže se celá diskuse stává bezpředmětnou. Odmítají proto – domnívám se, že právem – psychologickou argumentaci, totiž rozbor jednání osob, jímž nelze dospět k jádru faktů, pouze k jádru psychologie legendy jako útvaru lidové slovesnosti.
+
+  
 
 Jediným ústupkem, který jsou po stránce nábožensko-fenomenologické ochotni znalci bible v tomto případě, ač neradi, poskytnout, je zařazení legendy o zničení Sodomy a Gomory do období patriarchů. Staletí trvající proces vytváření izraelského kmenového svazu byl v ústní tradici sice zhuštěn do období tří generací (Abraháma, Izáka a Jákoba), přesto však odráží vzdálené vzpomínky na kmenové dějiny.
 
@@ -168,7 +178,7 @@ Odborníci tu vylučují vulkanickou činnost v posledních deseti tisících l
 
 ![14.jpg](./resources/14_fmt.jpeg)
 
-Obrovské kamenné bloky velikosti domů s vytesanými obřími schody a terasami
+> Obrovské kamenné bloky velikosti domů s vytesanými obřími schody a terasami
 
 Tolik alespoň k atomovým výbuchům nebo k dějům, jejichž stopy a popis se atomovému výbuchu podobají, v dávné minulosti. Mohli bychom citovat řadu dalších bájí a popisovat řadu dalších nálezů, vesměs navzájem dosti podobných. Vzrostl by objem, nikoli kvalita našich informací.
 
@@ -184,7 +194,7 @@ Laureát Nobelovy ceny Fréderic Soddy (1877–1956, Nobelova cena roku 1921 za 
 
 ![15.jpg](./resources/15_fmt.jpeg)
 
-Podzemní prostory bývají obvykle označovány jako „chrámy“ – tyto v turec­kém Derinkuyu, schopné pojmout až 60 000 lidí, nejsou výjimkou. Jinak se ovšem chrámům nepodobají – spíše krytům
+> Podzemní prostory bývají obvykle označovány jako „chrámy“ – tyto v turec­kém Derinkuyu, schopné pojmout až 60 000 lidí, nejsou výjimkou. Jinak se ovšem chrámům nepodobají – spíše krytům
 
 Vede ještě nějaká cesta k těmto civilizacím?
 
@@ -193,6 +203,8 @@ Pokusíme se o to dvěma směry: první z nich snad naznačuje důsledky, kter
 Druhou cestou je pokus o naznačení možností (nikoli o odkrytí nebo snad dokonce „řešení“), skrytých jako koruptela v obrovské a pro jednotlivce naprosto nepřehledné alchymické literatuře.
 
 Do samého středu problému vstoupil alchymista, jenž roku 1937 vkročil do pracovny Jacquesa Bergiera, jaderného chemika a asis­tenta profesora Andrého Helbronnera, který po dobrodružné činnosti ve francouzském hnutí odporu, pobytu ve vyhlazovacím koncentračním táboře a obecném uznání po II. světové válce napsal s Pauwelsem knihu Jitro kouzelníků, kam odkazuji čtenáře k podrobnostem. Alchymista Bergierovi sdělil, že laskavostí Helbronnerovou zná obsah jejich společných pokusů s umělou radioaktivitou polonia a pokračoval: „… Smím vás varovat? Práce, kterou podnikáte, je nesmírně nebezpečná. Neohrožuje jenom vás, ale celé lidstvo. Uvolnění jaderné energie je snazší, než se asi domníváte. Umělá radioaktivita může v několika letech zamořit celou atmosféru naší planety. Kromě toho je možné pouhým přidáním několika gramů jistých kovů vyrobit atomové bomby, schopné zničit celá města. Říkám vám to zcela jasně; alchymisté to věděli už dávno.“ Bergier, pyšný na svou moderní laboratoř, se jen pousmál, ale muž pokračoval: „Vím, co chcete říci… Alchymisté neměli ani ponětí o struktuře atomového jádra, neznali elektřinu, neměli žádné detektory, a proto nebyli schopni provádět žádné transmutace či uvolňovat jadernou energii. Nebudu se ani pokoušet přesvědčovat vás, sdělte však, prosím, monsieuru Helbronnerovi alespoň to, že postačí jen jisté geometrické uspořádání mimořádně čistých látek, aby byly uvolněny jaderné síly. Není k tomu třeba ani elektřiny, ani vakuové techniky…“
+
+  
 
 Bergier tuší, že neznámým návštěvníkem byl Fulcanelli, autor vzácných alchymických spisů, není si však jist. Jisté zato je, že atomový reaktor Enrika Fermiho, v němž poprvé probíhala řízená štěpná reakce, byl určitým geometrickým uspořádáním kostek U 235 a grafitu bez elektřiny (kromě ovšem v měřicích přístrojích) a bez vakuové techniky.
 

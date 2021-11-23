@@ -2,18 +2,20 @@
 title: Milióny cizích Zemí
 ---
 
-Byla tma tmoucí – potvrdil starý Ofwfq – byl jsem ještě dítě, sotva se na to pamatuji. Byli jsme jako obvykle všichni pohromadě, tatínek, maminka, babička Bb‘b, nějací strýcové, kteří přišli na návštěvu, pan Hnw, ten, co se potom stal koněm, a my děti. Nikdo nevěděl, nač jsme vlastně čekali; toť se ví, babička Bb‘b se ještě pamatovala na časy; kdy byla hmota stejnoměrně rozptýlena v prostoru, kdy bylo teplo i světlo; přestože staří ve svém povídání obvykle přehánějí, musely ty staré časy být lepší, nebo alespoň jiné; a nám šlo o to, přežít nějak tuto obrovskou noc.
+> Byla tma tmoucí – potvrdil starý Ofwfq – byl jsem ještě dítě, sotva se na to pamatuji. Byli jsme jako obvykle všichni pohromadě, tatínek, maminka, babička Bb‘b, nějací strýcové, kteří přišli na návštěvu, pan Hnw, ten, co se potom stal koněm, a my děti. Nikdo nevěděl, nač jsme vlastně čekali; toť se ví, babička Bb‘b se ještě pamatovala na časy; kdy byla hmota stejnoměrně rozptýlena v prostoru, kdy bylo teplo i světlo; přestože staří ve svém povídání obvykle přehánějí, musely ty staré časy být lepší, nebo alespoň jiné; a nám šlo o to, přežít nějak tuto obrovskou noc.
 
-Že se něco mění, zpozoroval první můj otec.  
-Podřimoval jsem a probudil mne jeho výkřik:
+> Že se něco mění, zpozoroval první můj otec.  
+> Podřimoval jsem a probudil mne jeho výkřik:
 
-„Pozor! Tady se stačí!“
+> „Pozor! Tady se stačí!“
 
-Hmota mlhoviny, dříve vždycky tekutá, začínala pod námi houstnout.
+> Hmota mlhoviny, dříve vždycky tekutá, začínala pod námi houstnout.
 
 ITALO CALVINO: KOSMICKÉ GROTESKY
 
 Na téma života ve vesmíru se popsalo mnoho stránek a mnoho lesů padlo nadarmo, protože značnou část těchto úvah tvoří spekulace, případně zdánlivě exaktní „rovnice vesmírného života“, do nichž jsou dosazovány zcela libovolné a nejisté hodnoty. Samo nejstručnější vysvětlení, ba sama nejzběžnější exkurze do astronomických a biologických disciplín, o něž opíráme mínění o mnohosti obydlených světů (což je vypůjčený název kdysi mimořádně oblíbeného spisu Camilla Flammariona převzatý opět podle knihy Bernarda de Foutenella z r. 1686) by vydala na rozměrnou knihu. Uvedené argumenty, shrnuté v co nejstručnější formu, nejsou vybrány z periférie zneuznaných a výstředních teorií, aby podepíraly autorovy názory, ale představují shrnutí platných a přijímaných domněnek. Čtenáři rovněž jistě a s potěšením prominou, nezdrží-li se tato kapitola u starších kosmogonických teorií Descartových, Leibnizových či Swedenborgových, ani u úvah, reálněji podložených aplikací gravitační teorie. V každé učebnici astronomie je možné seznámit se s teoriemi mlhovinnými (Kant, Laplace), slapovými (Jeans, Chemberlin-Moulton, Jeffreys), či tří těles (Russel, Lyttleton). Zůstaly trvalými památníky důvtipu tvůrců, zplna spojujících úroveň vědy své doby s úvahami o vzniku vesmíru. Věnujme se teoriím současným.
+
+  
 
 Naše Slunce je naštěstí pro vznik života na Zemi zcela obyčejnou „průměrnou“ hvězdou a jeho vznik není patrně poznamenán žádnou výjimečnou a ojedinělou událostí. Můžeme tento zrod docela dobře rekonstruovat analogiemi až do minulosti asi deseti miliard let.
 

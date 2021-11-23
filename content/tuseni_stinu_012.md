@@ -2,13 +2,15 @@
 title: Přece jen dalekohledy?
 ---
 
-Vlastní fyzika se tehdy ještě nevymanila z prvních počátků,  
-vyjma optiku, jejíž výjimečné pokroky byly vyvolány  
-praktickými potřebami astronomie.
+> Vlastní fyzika se tehdy ještě nevymanila z prvních počátků,  
+> vyjma optiku, jejíž výjimečné pokroky byly vyvolány  
+> praktickými potřebami astronomie.
 
 BEDŘICH ENGELS: DIALEKTIKA PŘÍRODY
 
 V úvodní kapitole o indiciích byla mj. vyvrácena domněnka, že dávná znalost velkých mlhovin a dalších nebeských objektů je sama o sobě důkazem neméně dávné existence dalekohledu.
+
+  
 
 Přesto však existují nepřímé doklady, nasvědčující dávné možnosti použití dalekohledu celá tisíciletí před tvrzením „Julese Verna středověku“, Rogera Bacona, že „… lze průhledná média uspořádat pro oko tak,… že lze vidět věci v dálce… Ba, mohli bychom tak i stáhnout Slunce a Měsíc z oblohy…“ (asi r. 1250), před pověstným nezbedným synkem holandského optika Jana Lippersheye, jenž si prý darebně hrál s otcovými sklíčky a objevil taje jejich kombinací, takže tatíček roku 1604 vytvořil „holandskou trubici“, první dalekohled světa. A navíc že tento dalekohled, jehož existenci předpokládáme, byl obrácen k nebesům celá tisíciletí před památným dnem roku 1609, kdy tak učinil Galileo Galilei.
 
@@ -36,7 +38,7 @@ Někteří autoři, zabývající se nejstaršími dějinami hvězdářství (u�
 
 ![10.jpg](./resources/10_fmt.jpeg)
 
-Buvolí maska z Lagosu pro kult mangam může být ovšem i dokladem astrálních kultů. Takových předmětů nacházíme na celém světě mnoho
+> Buvolí maska z Lagosu pro kult mangam může být ovšem i dokladem astrálních kultů. Takových předmětů nacházíme na celém světě mnoho
 
 Z bájí a pohádek tak starých, že se jejich věk neodvažujeme ani odhadovat, zaznívá motiv prastaré hrůzy lidstva nad ubývajícím Měsícem, který vbrzku z oblohy zmizí a zanechá své děti napospas temnotě, skrývající nejrůznější nebezpečí. Z dob, kdy snad člověk ještě ani neovládl umění rozdělávat a udržovat oheň (připisované dnes v předoasijském kulturním okruhu osmému tisíciletí před n. l.), čiší strach z bezměsíčných nocí, který donedávna při zhasnutí lampy (svědectví P. Gaugina v jeho knize Noa-noa) ochromoval Polynésany až do bezvědomí. Psychologicky je zcela pochopitelné, přáli-li si tehdejší zemědělci mít Lunu – zastoupenou krávou nebo býkem – v ohradě, a zajistit se tak symbolicky proti mocnostem tmy a zmaru. Tak asi vzniklo pastevectví, podle nových výzkumů vždy prvotně sdružené s primitivním zemědělstvím, jedině umožňujícím nashromáždit dostatek píce pro zimní období, a nikoli, jak jsme se dříve domnívali, nejen izolovaně, ale dokonce za přímého rozporu zemědělce-Ábela a lovce a pastevce-Kaina, ničícího obdělaná pole, zatímco jeho revíry a pastviny byly naopak ohroženy rozšiřováním obdělaných ploch…
 
@@ -80,5 +82,7 @@ a podle stejné míry zřídíš kulovitý prostor,
 na vrcholku přístupný světlu.  
 A tam, kde se na opačné straně rozšiřuje,  
 zbuduješ části dvojité a trojité.
+
+  
 
 Templáři byli velkými milovníky nejen peněz a majetku, ale i krypto­grafie a astrologie, především ve spojení s alchymií. Zdá se dost podivné, že – pokud vím – nikdo dosud neinterpretoval nápis z Arginy jako koruptelu konstrukčního návodu ke zhotovení zrcadlového dalekohledu, reflektoru, ačkoli samo umístění nápisu na tzv. alchymické věži naznačuje jeho astronomicko-astrologický význam a zašifrování není nijak zvlášť důmyslné.

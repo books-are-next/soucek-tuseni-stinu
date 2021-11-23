@@ -2,19 +2,21 @@
 title: Zajímavé nálezy
 ---
 
-Tyto hodnoty zavržené kritikou a duchem systému  
-nezapomněly na lekci, jíž se jim dostalo, a mohou dnes  
-protivníka napadnout jeho vlastními zbraněmi.
+> Tyto hodnoty zavržené kritikou a duchem systému  
+> nezapomněly na lekci, jíž se jim dostalo, a mohou dnes  
+> protivníka napadnout jeho vlastními zbraněmi.
 
 ROGER CAILLOIS: MÝTUS A SPOLEČNOST
 
 V Britském muzeu je chováno mnoho lebek neandertálců. Po původním objevu v západním a středním Německu byly pozůstatky neandertálských pralidí, dlouho považované za daleko mladší kosterní zbytky nemocných nebo duševně postižených jedinců, nalezeny i ve Francii, v Belgii, ve Španělsku, v Jugoslávii, v ČSSR, v Maďarsku, v Itálii, v Anglii, v SSSR, v Palestině, na Jávě a ovšem i v pravděpodobné kolébce člověka vůbec, v Africe, v Saldanhe a na slavném nalezišti Broken Hill. Jedna z brokenhillských lebek je pozoruhodná přesným kruhovým otvorem, pronikajícím spánkovou kostí do lebky. Kolem otvoru nejsou pukliny, jež by nevyhnutelně vznikly např. při proražení lebky hrotem špičáku při vykopávkách, nebo dokonce za života neandertálce jakoukoli tehdejší zbraní (v podstatě existovaly jen pěstní klíny, kyje a nejspíše i kostěné dýky). Charakter zranění neodpovídá ostatně takovému mechanismu. Pozoruhodné je, že protější spánková kost lebky chybí, jako by byla vyražena. Tak by tomu bylo při zásahu např. moderní loveckou kulovnicí: hladký vstřel a po zploštění projektilu mohutný otvor výstupu střely.
 
+  
+
 Původcem podivného otvoru nebyl ani vrtavý mlž, houba (Vioa) nebo červ, kteří namnoze rozrušují fosilie, jež se ocitly v moři. Broken Hill byl ostatně vždy na souši. Pozoruhodné je, že místo zranění přesně odpovídá „smrtelné zóně“ – v případě střelné rány musel být neandertálec okamžitě mrtev. Ačkoli jsou známy okolnosti nálezu lebky, nelze zcela vyloučit špatný vtip: dodatečné prostřelení lebky.
 
 ![03.jpg](./resources/03_fmt.jpeg)
 
-Lebka neandertálce z Broken Hillu, perforovaná v oblasti spánkové kosti otvorem vysvětlitelným pouze vstřelem
+> Lebka neandertálce z Broken Hillu, perforovaná v oblasti spánkové kosti otvorem vysvětlitelným pouze vstřelem
 
 Co však říci dalšímu podobnému nálezu, pocházejícímu tentokráte z okolí dnešního Jakutska a uloženému v moskevském Paleontologickém muzeu Akademie věd SSSR?
 
@@ -22,7 +24,7 @@ Je to lebka pratura, rovněž, jak se zdá, zasažená střelou v oblasti „sm
 
 ![04.jpg](./resources/04_fmt.jpeg)
 
-Lebka pratura, uložená v Moskevském přírodovědeckém muzeu. Střelné (?) poranění čelní kosti se počalo hojit
+> Lebka pratura, uložená v Moskevském přírodovědeckém muzeu. Střelné (?) poranění čelní kosti se počalo hojit
 
 Přesné datování obou nálezů radiokarbonovou analýzou není možné – fosilní kosterní zbytky rychle ztrácejí organické látky a kromě toho kosti z naleziště Broken Hillu jsou prostoupeny rozličnými fosforečnany, především zinku a olova. Geologické (stratigrafické) i paleontologické vědomosti však naznačují, že neandertálec i pratur mohli být současníky.
 
@@ -32,7 +34,7 @@ Kdo nebo co zanechalo v pískovci pouště Gobi v Mongolské lidové republice
 
 ![05.jpg](./resources/05_fmt.jpeg)
 
-Podivný „otisk podrážky“, nalezený sovětsko-čínskou expedicí v poušti Gobi
+> Podivný „otisk podrážky“, nalezený sovětsko-čínskou expedicí v poušti Gobi
 
 Otisk je několik desítek nebo set tisíc let starý, nevznikl rozhodně v historických dobách, a obzvláště zajímavým jej činí plochy písku, změněného v pouštní sklo, nalezené v okolí Gobi.
 

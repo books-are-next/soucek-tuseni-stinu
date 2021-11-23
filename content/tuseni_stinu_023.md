@@ -2,13 +2,15 @@
 title: Malý šrapnel, kroužící vesmírem
 ---
 
-Ráno osvítil krvavý, kalný sluneční kotouč rozvaliny, hořící zahrady, zástupy lidí zmučených výstřednostmi, zešílevších, hromady mrtvol. Magacitlové se vrhli k létacím přístrojům, majícím tvar vejce, a začali opouštět Zemi. Odletěli do hvězdného prostoru, do vlasti abstraktního rozumu. Několik set přístrojů odletělo. Rozlehl se čtvrtý, ještě silnější zemní náraz. Od severu se zvedla z popelavé mlhy oceánská vlna a šla po Zemi, ničíc vše živé.
+> Ráno osvítil krvavý, kalný sluneční kotouč rozvaliny, hořící zahrady, zástupy lidí zmučených výstřednostmi, zešílevších, hromady mrtvol. Magacitlové se vrhli k létacím přístrojům, majícím tvar vejce, a začali opouštět Zemi. Odletěli do hvězdného prostoru, do vlasti abstraktního rozumu. Několik set přístrojů odletělo. Rozlehl se čtvrtý, ještě silnější zemní náraz. Od severu se zvedla z popelavé mlhy oceánská vlna a šla po Zemi, ničíc vše živé.
 
-Zvedla se bouře, blesky padaly na Zemi, na obydlí. Vyřinul se lijavec, létaly zbytky vulkanických kamenů. Pod ochranou zdí velikého města pokračovali Magacitlové z vrcholu stupňovité pyramidy, obložené zlatem, v odletu z dýmu a popelu do hvězdného prostoru oceánem padajících vod. Tři nárazy jeden po druhém rozbily zemi Atlantidy. Město Zlatých bran se ponořilo do kypících vln.
+> Zvedla se bouře, blesky padaly na Zemi, na obydlí. Vyřinul se lijavec, létaly zbytky vulkanických kamenů. Pod ochranou zdí velikého města pokračovali Magacitlové z vrcholu stupňovité pyramidy, obložené zlatem, v odletu z dýmu a popelu do hvězdného prostoru oceánem padajících vod. Tři nárazy jeden po druhém rozbily zemi Atlantidy. Město Zlatých bran se ponořilo do kypících vln.
 
 ALEXEJ NIKOLAJEVIČ TOLSTOJ: ZEMĚ ZŮSTALA TAM
 
 Zabýváme-li se dávnými a ztracenými civilizacemi, můžeme s jistotou očekávat otázku, jak došlo k jejich zániku a zda je vůbec možná tak dokonalá likvidace, abychom dnes shromažďovali jen nejasné, nepatrné a ne vždy průkazné střípky indicií.
+
+  
 
 Je to možné a stalo se to mnohokrát i v dobách historických, nám daleko bližších, poskytujících písemné záznamy. S překvapením jsme odkryli teprve nedávno říše Sumerů, Chetitů, Chazarů, pouštní civilizace starého Peru, kvetoucí kultury v oblasti dnešní Sibiře, Harappu a mnoho dalších, ačkoli v žádném z vyjmenovaných případů nešlo o „civilizaci delfínů“, zanechávající jen nemnoho hmotných památek, ale o společenství s rozvinutou materiální civilizací. Takřka každým dnem objevují archeologové další a další dosud neznámé památky zapomenutých civilizačních okruhů, které je leckdy těžko zařadit, ačkoli mohly mít výrazný vliv na dějiny světa. Je např. nesporné, že to byli právě Chazaři, kteří v 7. a 8. století našeho letopočtu význačně přispěli k zaražení arabské expanze, směřující východní čelistí strategických kleští (západní objímala Pyrenejský poloostrov) do nitra Evropy vyzkoušenou cestou kočovných kmenů přes Kavkaz a kolem Kaspického jezera. Nebýt jejich úporného a osudného boje, vyvíjely by se patrně dějiny Evropy zcela jinak.
 
@@ -16,7 +18,7 @@ Takřka každým dnem znovu ověřujeme – s jistým stupněm mrazení – �
 
 ![52.jpg](./resources/52_fmt.jpeg)
 
-Hliněná pečeť z prehistorické mohyly v Karanovu, opatřená – podle mínění autora – anepigrafickými znaky napodobujícími písmo
+> Hliněná pečeť z prehistorické mohyly v Karanovu, opatřená – podle mínění autora – anepigrafickými znaky napodobujícími písmo
 
 Vypočítejme alespoň některé nepříliš povzbuzující možnosti kataklyzmat, jež mohly v minulosti „vygumovat“ všechny stopy dávných civilizací tím spíše, bylo-li jich v materiální oblasti poskrovnu a jestliže civilizační oblast byla – jak očekáváme – rozsahem omezena.
 
@@ -246,7 +248,7 @@ Pěkně utříděné, završené a kompletní fyzice 19. století nebylo nic ne
 
 ![53.jpg](./resources/53_fmt.jpeg)
 
-Vznik Monta Nuova u Pozzuoli roku 1538 sopečným výbuchem
+> Vznik Monta Nuova u Pozzuoli roku 1538 sopečným výbuchem
 
 Charakteristické znaky obrovských a mimořádně ničivých ohni­vých smrští nevysvětlitelného původu jsou (podle Bergiera):
 
@@ -260,7 +262,7 @@ Charakteristické znaky obrovských a mimořádně ničivých ohni­vých smrš
 
 ![54.jpg](./resources/54_fmt.jpeg)
 
-Vzácný a unikátní snímek požáru Chicaga ještě před okamžikem, než se změnil v divoký oheň
+> Vzácný a unikátní snímek požáru Chicaga ještě před okamžikem, než se změnil v divoký oheň
 
 Nejlépe prozkoumanou a co do rozměrů patrně největší divokou ohnivou smrští, prostudovanou řadou historiků, fyziků, požárníků atd., je známý požár, jenž v noci z 8. na 9. října roku 1871 (tedy v době, kdy nelze obviňovat elektroinstalace, hořlavé pohonné látky nebo dokonce radioizotopy), zničil Chicago.
 

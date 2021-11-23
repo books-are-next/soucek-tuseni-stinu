@@ -2,12 +2,14 @@
 title: Zapomenuté lodě
 ---
 
-Vyplujte!  
-Plujte k severu pod Pásem Oriónu!
+> Vyplujte!  
+> Plujte k severu pod Pásem Oriónu!
 
 TAHITSKÁ SÁGA
 
 Lodě jsou vhodným demonstračním materiálem k argumentaci o možné existenci dávných civilizací především proto, že je můžeme souvisle sledovat od prehistorie a protohistorie, kdy vodní toky byly jedinými komunikacemi uprostřed neprostupných a nebezpečných pralesů. Pluly po nich nejdříve prosté kmeny, na nichž seděl obkročmo pionýrský odvážlivec, později se kmeny spojovaly ve vory. Pokrokem byl vydlabaný kmen, tzv. monoxyl, který sám nebo s vahadlem a poháněný vesly nebo plachtou byl schopen i příbřežní mořské plavby. Tam, kde nebylo vhodných stromů, nacházel člověk důvtipné náhrady v nafouklých zvířecích kožích (tzv. kelecích), kruhových plavidlech z proutí, utěsněného smolou (gufách), člunech z rákosových svazků, oválných košících potažených kůží (koraklech) nebo kanoích a kajacích potažených březovou či jinou kůrou nebo koží.
+
+  
 
 Složité lodě, sestavované z jednotlivých částí, je možné datovat asi do roku 5000 před n. l., kdy se taková plavidla počala objevovat na Eufratu a Tigridu. Námořní kýlové lodě vznikaly o 2000 let později ve Středomoří současně s objevem a rozvojem plachet. Jejich obrazem je ještě dnes čínská džunka s plochým dnem.
 
@@ -45,6 +47,8 @@ Ostatně i sama volba Homérova tématu je překvapující; zatímco se ani slo
 
 Jednu ze starověkých lodí máme popsánu až nápadně přesně – loď všech lodí jak rozměry, tak významem – Noemovu archu.
 
+  
+
 Nebylo třeba, aby se před několika lety objevila dosti pošetile argumentující kniha Wernera Kellera A bible má přece pravdu, s podtitulem Vědci dokazují historickou pravdu, aby se stala bestsellerem a aby dosáhla celkového počtu 6 miliónů výtisků v sedmnácti zemích. Již mnoho let žádný rozumný člověk nepochyboval, že celá řada starozákonních historických a místopisných líčení má zcela reálný podklad. Úspěchy izraelské geologie, založené na předběžném studiu a důvtipném výkladu bible, překvapily proto daleko méně než např. Schliemannovy objevy, vycházející z nápadu použít Homérových eposů jako bedekra.
 
 Část historických biblických textů byla uspokojivě prověřena archeology, geology a historiky. Možná, že se v budoucnu podaří verifikovat další části – co to však má společného se zjeveným náboženstvím? Případný objev zbytků Sodomy a Gomory není důkazem, že byly navštíveny anděly vyslanými bohem. – Případné potvrzení historické skutečnosti exodu a historické existence Mojžíše zdržujícího izraelity čtyřicet let na poušti, kterou mohli přejít za několik týdnů, jen proto, aby vymřeli jedinci, „nakažení“ egyptskými rozvratnými myšlenkami mnohobožství, a aby bylo dosaženo jednoty názorů, nijak nedokazuje vesmírnou rozprostřenost kmenového boha izraelitů, který se ve starozákonních textech projevuje jako vrtkavý, nedůtklivý a krutý náčelník kočovného kmene, chránící svou oázu nejen proti všem protivníkům, ale i proti každému, kdo by se mohl protivníkem stát. Reálnost zámku pánů z Růže ještě nedokazuje, že tam obchází paní Perchta.
@@ -64,6 +68,8 @@ padesát loktů širokost jeho a třicet loktů vysokost jeho.
 Okno uděláš v korábu a svrchkem na loket širokým zavřeš jej;  
 dveře také korábu v boku jeho postavíš  
 a pokoje spodní, druhé i třetí sděláš v něm.
+
+  
 
 Mojžíš I., kap. 6
 
@@ -85,6 +91,8 @@ kterou máš postavit!
 udělej koráb s přehradami,  
 natři jej z nitra i zvenčí smolou!
 
+  
+
 Utnapištim poslechl nejen pokynu, ale i technických připomínek, což mu dalo asi dost přemýšlení, takže se k projekci korábu dostal až pátého dne:
 
 Plocha půdorysu byla 13 iků,  
@@ -95,11 +103,15 @@ V peci jsem roztavil šest sarů smůly.
 Tři sta loktů bude délka mé lodi,  
 padesát loktů šířka a třicet loktů výška.
 
+  
+
 Zbytek příběhu se jak vejce vejci podobá dobrodružstvím ctnostného Noema a jeho rodiny. Utnapištim se nalodil i s příbuzenstvem a „vším semenem“, zachránil se, zatímco vody šest dní stoupaly a bouřily, sedmého dne bouře od jihu polevila, zátopa však stoupala, trvala čtyřicet dní a počala opadat teprve po 150 dnech. Utnapištim právě tak jako Noe vypustil havrana, holubici atd., se stejným výsledkem. Vyprávění končí takto:
 
 Otevřel jsem průduch a světlo padlo na mou tvář.  
 Loď se zachytila na vrchu Nizir.  
 Vrch Nizir objal loď a nenechal ji kymácet se.
+
+  
 
 Vzhledem k tomu, že epos o Gilgamešovi je mnohem starší, v bibli může jít o text přejatý z ústního podání, nebo o text, s nímž se Mojžíš za svého pobytu v egyptských chrámech seznámil. Třetí možností je paralelní zpracování pověsti, živé a aktuální jak v Mezopotámii, tak v oblasti Egypta. Ať už je jakákoli verze o přenosu Utnapištimova dobrodružství do Starého zákona správnou, zůstává pozoruhodnou skutečností, že se ve dvou náboženských knihách dozvídáme o 4000 let starých božích pokynech ke stavbě lodi „se spodní, druhou a třetí palubou, korábu s příhradami“, nebo s „pokoji spodními, druhými i třetími“ – což je jinými slovy totéž.
 
@@ -129,7 +141,7 @@ Jeden háček ovšem celá biblicko-utnapištimovská záležitost má: loď 140
 
 ![08.jpg](./resources/08_fmt.jpeg)
 
-Skalní kresba z Wadi Atwani (východně od Nilu) z roku asi 3000 před n. l. znázorňuje rozměrný mořský koráb „útočníků ze západu“
+> Skalní kresba z Wadi Atwani (východně od Nilu) z roku asi 3000 před n. l. znázorňuje rozměrný mořský koráb „útočníků ze západu“
 
 A ještě něco: je poměrně málo známo, že rozměry lodí byly až do novověku omezeny účinností kormidelního mechanismu, který se vyvinul ze záďového vesla a až do podstatného zdokonalení převodem síly z kormidelního kola nebyl schopen zajistit manévrovatelnost větších lodí. Zde je i důvod existence a mimořádně dlouhého přetrvání veslových galér. Jejich výhoda nebyla jen v možnosti plavby za bezvětří, ale především ve schopnosti provádět rychlé bojové obraty pomocí vesel daleko bystřeji než pouhým kormidlem. Legendární archy zcela určitě nebyly galérami – jejich realizace v popsaných rozměrech byla tedy nemyslitelná bez znalostí vyhovujícího kormidelního zařízení.
 
@@ -137,7 +149,7 @@ Jestliže tedy plavidlo, blížící se konstrukcí a velikostí lodím, doporu
 
 ![09.jpg](./resources/09_fmt.jpeg)
 
-Normanská loď maximální velikosti, limitované primitivním kormidelním mechanismem, vlastně pouhým veslem
+> Normanská loď maximální velikosti, limitované primitivním kormidelním mechanismem, vlastně pouhým veslem
 
 Pro konkrétní případ archy, jež dokázala čelit potopě, si dovolím navrhnout mírně vzrušující řešení: jedna z mohutných dopravních lodí ztracené civilizace, po níž pátráme, se plavila prastarou námořní cestou lidstva, Perským zálivem. Vzhledem k délce cesty nebo ke kolonizačním úmyslům posádky vezla ve zcela dostatečných prostorách podpalubí vedle zásob i spárovaná hospodářská zvířata, jež se měla stát jádrem živočišné výroby v cílové oblasti, případně měla sloužit jako nekazící se proviant. Loď se nešťastnou shodou okolností ocitla v pásmu orkánu, jenž způsobil biblickou i Utnapištimovu potopu, a byla vzdutým mořem vržena daleko do vnitrozemí. Podívaná na nevídanou a pro primitivní neolitické pastevce, kteří o moři nejvýše slýchali, obludně obrovitou loď, jež se objevila nad zničeným a vyhubeným územím, na podivně oděnou posádku vyvádějící z nitra lodi „ze všech živočichů všelikého těla po dvém“, musela na místní kmeny působit mocným a nezapomenutelným dojmem a takřka nevyhnutelně stvořit mýtus. K jeho vzniku mohly ostatně přispět i zchytralé konfabulace trosečníků, nucených volky nevolky žít v barbarském prostředí, svrchovaně nepříznivém všem vetřelcům. Pohádka o božském zásahu v jejich prospěch a tedy i o nepochybné božské přízni, byla rozhodně lepším vstupem než suché prohlášení, že jde o smůlou postiženou loď rejdařské firmy XY, nacházející se právě na pravidelné lince z A do B…
 
@@ -160,6 +172,8 @@ Antropologové, paleontologové a snílkové, zabývající se touto problemati
 – Existují nepopiratelné a nápadné obdoby mezi některými znaky mayské a starokrétské kultury, především ceremoniální oděv vládců purpurové barvy, koruna z per, baldachýn a žezlo, nehledě na oděv šlechty, podobající se oděvům mykénské kulturní oblasti. Nápadné shody byly nalezeny i mezi mayskými hieroglyfy a hieroglyfickým písmem (archaickým) fénickým a krétským.
 
 Některá z uvedených tvrzení nelze ovšem pokládat za prokázaná a stavět na nich barvité teorie – jsou to však vesměs názory badatelů nebo vědeckých kolektivů, nikoli snad maniakální výplody „atlantomanů“.
+
+  
 
 Nepochybným výtěžkem těchto zlomkovitých nálezů a úvah se však zdá být přinejmenším nezbytnost připustit dalekosáhlou oceánskou migraci starověkých národů, výměnu kulturních statků a civilizačních vymožeností, zakládání kolonií na březích vzdálených kontinentů a další důsledky rozvinuté námořní dopravy, jež se ještě před několika desítkami let zdály být odsouzeny k nucenému pobytu v říši bájí. A ještě něco nutí nepřeceňovat význam lokalit jednotlivých podivných nálezů. Není možné – nebo lépe řečeno není účelné – zanést do mapy světa místo objevů jednotlivých objektů, jež používáme jako doličného materiálu naší pře, a podle hustoty praporků na mapě usuzovat na tu či onu oblast, kde by se mohla hledaná kultura skrývat. Reliéf mykénské dýky na jednom z megalitů Stonehenge u Salisbury, Feidiova gemma na nákončí meče velkomoravského ozbrojence, římské hlavičky ve Střední Americe, spinely z Cejlonu – nepochybně! – na svatováclavské koruně českých králů, vyrobené kolem roku 1100 a restaurované s použitím původních drahokamů roku 1345, středomořské mušle v paleo­litických hrobech u Erfurtu… Což to nestačí dokázat pošetilost jakýchkoli snah o určení místa mimořádných znalostí podle lokalit nálezů? Vždyť právě to nejcennější, nejzajímavější bylo odváženo nejdále, putovalo, měnilo majitele.
 

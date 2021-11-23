@@ -2,19 +2,21 @@
 title: "Jedno z\_tajemství pyramid"
 ---
 
-Čtvrtého měsíce rozpuku dne 23. se pracovalo.  
-Čtvrtého měsíce rozpuku dne 24. se pracovalo.  
-Čtvrtého měsíce rozpuku dne 25. se pracovalo.  
-Čtvrtého měsíce rozpuku dne 26. se pracovalo.  
-Čtvrtého měsíce rozpuku dne 27. se pracovalo.  
-Čtvrtého měsíce rozpuku dne 28. se pracovalo.  
-Pátého měsíce rozpuku dne 29. byl Rahotep  
-nemocen a Telmonte nebyl v práci,  
-poprav se se svou ženou.
+> Čtvrtého měsíce rozpuku dne 23. se pracovalo.  
+> Čtvrtého měsíce rozpuku dne 24. se pracovalo.  
+> Čtvrtého měsíce rozpuku dne 25. se pracovalo.  
+> Čtvrtého měsíce rozpuku dne 26. se pracovalo.  
+> Čtvrtého měsíce rozpuku dne 27. se pracovalo.  
+> Čtvrtého měsíce rozpuku dne 28. se pracovalo.  
+> Pátého měsíce rozpuku dne 29. byl Rahotep  
+> nemocen a Telmonte nebyl v práci,  
+> poprav se se svou ženou.
 
 ZÁPIS ZE STAVBY PYRAMIDY, PODLE V. J. ŽIŽKY
 
 Spěchám, abych čtenáře uklidnil. Nehodlám psát o mystice čísel, „zašifrované“ ve Velké pyramidě, ani o mnoho diskutovaném způsobu staveb, které někteří ohromení návštěvníci připisovali, vzhledem k nelidským rozměrům velkých pyramid, zásahům bohů, modernější romantikové, nedůvěřující lidským silám, vytrvalosti a důvtipu, nepozemšťanům. Nehodlám se zabývat ani zvláštními vlastnostmi tvaru pyramidy a jejího působení, jež podle soudu pana Bovise mumifikuje vložená těla a podle patentu K. Drbala v lepenkové miniatuře brousí žiletky (což je jistě záslužné).
+
+  
 
 Bylo by jistě o čem psát – osobně považuji za jednu z největších zajímavostí Velké pyramidy, její přesné situování podle světových stran, od něhož se severojižní hrany odchylují pouze o 2′28″, západovýchodní o 5′30″ a 2′30″. Kompasem (jehož znalost u Egypťanů ostatně nepředpokládáme) nelze takové přesnosti měření dosáhnout. Jedinou možností je opětované sledování kulminace jasných hvězd a určení směru, avšak vůdčí duch antické astronomie Klau­dios Ptolemaios, žijící v Alexandrii v letech 90–160 n. l., a tedy skoro 3000 let po předpokládané stavbě pyramid, jemuž byly v tomto synkretickém prostředí k dispozici všechny vymoženosti antické techniky, měřil polohy hvězd s přesností na pouhých 10′ – teprve Tycho Brahe, skvělý pozorovatel, vybavený vynikajícími přístroji (jedním z nich byl např. obrovský Quadrantus muralis Tychonicus) vystupňoval přesnost desetinásobně, takže jeho měření nebyla překonána ani plných 80 let po vynalezení dalekohledu…
 
@@ -24,7 +26,7 @@ Chufévova (Cheopsova) pyramida byla poprvé veřejně (a patrně vůbec poprvé
 
 ![16.jpg](./resources/16_fmt.jpeg)
 
-Proslulé pyramidy v Gíze při pohledu od jihu
+> Proslulé pyramidy v Gíze při pohledu od jihu
 
 Jedna deska byla jako druhá – chalífa tedy poručil hloubit tunel do pyramidy „ostřím se dotýkající nebes“ tak hluboko a tak dlouho, dokud kameníci nenarazí na systém vnitřních prostor. Byla to cesta obtížná a zdlouhavá, rozhodně obtížnější než Strabónova rada, podle níž postačí „vyzvednout kámen na boku pyramidy v nevelké výši, pod nímž je vchod, vedoucí ke hrobu“. Sám chalífa ani netušil, do čeho se pouští. Vápencové desky i kvádry vzdorovaly železným dlátům a musely být trhány ohněm a vodou (v této souvislosti se opět vtírá pochybnost o předpokládaném tempu výstavby pyramid kamennými, dřevěnými a jen výjimečně měděnými nástroji…), takže vyrubání třicetimetrové chodby si vyžádalo řadu měsíců. Dílo by bylo patrně opuštěno, kdyby dělníci jednoho dne, když už všem docházela trpělivost, nezaslechli z nitra pyramidy hluk, jako by se valil do hlubiny balvan. Trvalo několik dalších týdnů, než se vlomili do úzké chodby, součásti pravého labyrintu, jenž je po rozličných obtížích a příhodách dovedl až k… prázdnému žulovému sarkofágu v pohřební komoře. Zklamání bylo tak velké, že prý dobrotivý chalífa (který vyhubil polovinu Koptů, potomků starých Egypťanů) vlastnoručně zakopal v jedné z chodeb poklad, který po „objevení“ rozdal neúnavným dělníkům.
 
@@ -56,7 +58,7 @@ Těžko si představit bezpečnější záruky, že hrobní prostory byly naleze
 
 ![18.jpg](./resources/18_fmt.jpeg)
 
-Džóserova stupňovitá pyramida v Sakkáře, výchozí vzor pro všechny další egyptské pyramidy
+> Džóserova stupňovitá pyramida v Sakkáře, výchozí vzor pro všechny další egyptské pyramidy
 
 Sarkofág byl prázdný.
 
@@ -78,7 +80,7 @@ Odpověď není snadná ani tehdy, považujeme-li pyramidy za gigantické hrobky
 
 ![19.jpg](./resources/19_fmt.jpeg)
 
-Náčelnický hrob (opravdu jen hrob?) ze západní Afriky v pohledu a v řezu
+> Náčelnický hrob (opravdu jen hrob?) ze západní Afriky v pohledu a v řezu
 
 Tato otázka, kladená od nepamětných dob z nejrozmanitějších příčin, nalezla postupně celou řadu odpovědí, naivních, fantastických, důmyslných i zjevně nesmyslných. V historii vývoje poznávání Egypta a jeho dějin byly pyramidy pokládány postupně za kamennou bilanci úspěchů kurtizány Rhodópis, jejíž každý milenec musel přispět jedním kamenem, za památník obrácení krále Súfise (tj. Chuféva) na křesťanskou víru (to napadlo v 8. století n. l. poustevníka Syncella), za obilní sýpky biblického Josefa, za monument vítězství Hyksósů nad Egypťany, za šifrované proroctví o budoucnosti světa, za plastiku dokonalých proporcí nebo konečně za astronomické observatoře.
 
@@ -88,11 +90,11 @@ Mendelsohnovy myšlenky nevznikly u psacího stolu – studoval pyramidy pří
 
 ![20.jpg](./resources/20_fmt.jpeg)
 
-Vyobrazení zikkuratu na asyrském reliéfu z Ninive ze 7. stol. před n. l.
+> Vyobrazení zikkuratu na asyrském reliéfu z Ninive ze 7. stol. před n. l.
 
 ![21.jpg](./resources/21_fmt.jpeg)
 
-Mozaika ze 13. století v benátském kostele sv. Marka považuje pyramidy za biblické Josefovy sýpky
+> Mozaika ze 13. století v benátském kostele sv. Marka považuje pyramidy za biblické Josefovy sýpky
 
 Kromě toho právě v době stavby pyramid byla po pracovních silách v Egyptě poptávka a válečné výpravy – především do Libye – měly jako hlavní cíl přivádět nové otroky.
 
@@ -130,7 +132,7 @@ Není však třeba hledat nové a dosud neznámé prostory, tím méně je pře
 
 ![17.jpg](./resources/17_fmt.jpeg)
 
-Průřez tzv. Velkou pyramidou u Gízy
+> Průřez tzv. Velkou pyramidou u Gízy
 
 Tato kamenná hora, vznikem patřící k dalším obrovským pyramidám faraónů IV. dynastie ve 26.–25. století, jež dali zbudovat Snofrev, Ráchef a Menkauré, představovala tak obrovské zatížení a podle Marxe – „použití značné části obyvatelstva k této práci“, že za Chufévova nástupce, jímž byl pravděpodobně Dedefré, vypuklo první nám známé lidové povstání, motivované sociálními důvody. Musela to být strašlivá bída, která hnala neozbrojený a hladový lid pod meče a kopí skvěle vycvičených sytých faraónových vojáků a pod kosy jejich válečných vozů. Po tomto zjištění jsou směšné pokusy některých autorů líčit postavení egyptských rolníků a dělníků růžovými barvami jako „uspokojivé“ a „důstojné“, případně vymýšlet důvtipné teorie, jak bylo možné vystavět 137 metrů vysokou kamennou horu o délce stran základny 234 metrů a tedy o obsahu 2 600 000 krychlových metrů z 2 250 000 obrovitých kamenných kvádrů jaksi mimochodem a pomocí rafinovaných zdvihadel nebo balancováním kvádrů do výšky desítek metrů na břitech podkládaných kamenů… Zamarovský vypočítal, že by z materiálu Velké pyramidy bylo možné postavit kolem hranic celé ČSSR zeď jeden a půl metru vysokou a půl metru silnou, jejíž materiál by pobral teprve čtyřnásobek železničních nákladních vagónů, jimiž ČSD disponuje.
 

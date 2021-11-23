@@ -2,11 +2,13 @@
 title: Po stopách zelených mužíčků
 ---
 
-Historie lidstva je nepřetržitým bojem světla proti tmě. Proto je nesmyslné přemýšlet o otázce, jaký užitek máme z vědění. Člověk chce znát, a jestliže toto přání ztratí, přestává být člověkem.
+> Historie lidstva je nepřetržitým bojem světla proti tmě. Proto je nesmyslné přemýšlet o otázce, jaký užitek máme z vědění. Člověk chce znát, a jestliže toto přání ztratí, přestává být člověkem.
 
 FRIDTJOF NANSEN
 
 Nejroztomilejší důkaz o obecném proniknutí myšlenky obydlení vesmíru bytostmi, podobnými lidem, podali astronomové cambridžské univerzity v srpnu roku 1967, kdy mladá asistentka radioastronomické sekce slečna Bellová zjistila na registrační pásce radioteleskopu, zaznamenávajícího zdroje kosmického rádiového záření, periodické výchylky. Bylo to podivné, protože nejsilnější emise byly zjišťovány za dne, kdy rádiové vlny aktivují sluneční plazmu mezi Sluncem a Zemí.
+
+  
 
 Po několika týdnech se zdroj ztratil – osmnáct metrů pásky, denně vycházejících z registrační aparatury radioteleskopu, nejevilo žádné zvláštnosti. Teprve v listopadu oznámila Bellová lakonicky: „Vrátil se!“
 
@@ -71,6 +73,8 @@ c 1 c 2
 totiž kontakt
 
 v jedné zeměpisné oblasti jednorázový, několikanásobný, častý a trvalý, v několika oblastech kontakty jednorázové, několikanásobné a trvalé, po celé zemi návštěvu v jednom období, v různých obdobích, často.
+
+  
 
 Hypotéza a 1 a 2 je hypotézou singulárního kontaktu, a tudíž za předpokladu její platnosti by se „důkazy“, zařazené pod I až III musely vztahovat k jednomu jedinému místu nebo oblasti a k jednomu jedinému ohraničenému období, důkazy sub IV–VI by ovšem vyžadovaly složitější a opatrnější přístup badatelů vzhledem k možnosti migrace.
 

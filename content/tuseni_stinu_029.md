@@ -2,11 +2,13 @@
 title: Jak tedy vykalkulovat nepozemšťana
 ---
 
-Na Sirkomě byli sice nepříjemní vojenští velitelé, ale zato tu měli výborná jablka, což se nedalo říci o mnoha jiných planetách. Tam často obojí nestálo zanic.
+> Na Sirkomě byli sice nepříjemní vojenští velitelé, ale zato tu měli výborná jablka, což se nedalo říci o mnoha jiných planetách. Tam často obojí nestálo zanic.
 
 JEAN HOUGRON, ZNAMENÍ PSA
 
 Stejným způsobem jako pan Krauskopf doktora Štědrého se pokusíme vykalkulovat i my možné nepozemšťany. Oproti panu Kraus­kopfovi máme dvě základní nevýhody: chybí nám jeho přesné znalosti všech potřebných okolností, které můžeme spíše jen tušit, a za druhé páně Krauskopfův důvtip. Nicméně se nevzdáváme pokusu.
+
+  
 
 Při pátrání po onom záhadném panu X ze vzdálené planety cizího slunce je zcela nezbytné pečlivě zachovat ucelený řetěz dedukcí, snažících se o co nejobjektivnější a nejstřízlivější analýzu skromných předpokladů, jež jsou nám k dispozici. Cesta za panem X bude poněkud složitá úzkostlivým dodržováním dvou základních pravidel, jež si na pouti za ním vepisujeme na štít:
 
@@ -38,7 +40,7 @@ Neumíme si jinak vysvětlit tendenci vývoje, která na určitém stupni odebra
 
 Zcela jistě nejde o novinku. Řadu účelných reakcí, sloužících zcela zřetelně zachování jedince nebo rodu, jeví i nižší živočichové. Přenos a kódování reakcí, jež se ukazují být užitečnými, u nich však probíhá patrně (vedle fixace v řetězcích DNK) i dalšími způsoby. Tak například zcela nedávno objevilo několik vědeckých týmů, že planarie, krmené rozdrcenými těly jiných ploštěnek, reflexívně navyklých na určitý signál, např. vyhýbat se na ploše stěny akvária drátu pod elektrickým proudem, se „naučily“ vyvarovat se nepříjemnému styku daleko dříve než jejich kanibalsky pozřené předchůdkyně, případně ploštěnky krmené jinou potravou. Po zveřejnění tohoto zajímavého faktu se daly do práce populární časopisy s úvahami o možnosti nahradit pracné získávání vědomostí pilulkami. Nepochybně je to dobrá a realizovatelná myšlenka, pokud by objektem výuky byla mláďata planarií.
 
-V každém případě se zdá být pravděpodobným, že jednou z podmínek vyššího života sama sebe si uvědomujícího a přímého přenášení zkušeností z minulosti bez nejistého mechanismu výběrových genetických pochodů schopného, je trvalá existence buněk centrálního nervového systému, doprovázejících člověka od narození až k smrti. Mozek je sídlem „duše“ – moderněji bychom řekli zásobárnou získaných informací, se schopností tyto informace vyhledávat a účelně používat. Každý orgán těla – nebo bezmála každý – včetně srdce, žláz vnitřní sekrece, ledvin nebo jater, o transfúzích krve nebo plazmy nemluvě, je již dnes možno přinejmenším dočasně transplantovat, aniž by vznikly pochyby, zda takto „složený“ jedinec podržel svou individualitu. Zdá se, že ani transplantace mozku není vyloučena. Transplantace psích hlav byla již provedena. V tomto případě však bude mozek ne transplantátem v plném slova smyslu, ale příjemcem, jemuž bude transplantováno tělo, po zdařilé operaci ovládané novou individualitou, novou vůlí, novými myšlenkami, novými vzpomínkami.
+V každém případě se zdá být pravděpodobným, že jednou z podmínek vyššího života sama sebe si uvědomujícího a přímého přenášení zkušeností z minulosti bez nejistého mechanismu výběrových genetických pochodů schopného, je trvalá existence buněk centrálního nervového systému, doprovázejících člověka od narození až k smrti. Mozek je sídlem „duše“ – moderněji bychom řekli zásobárnou získaných informací, se schopností tyto informace vyhledávat a účelně používat. Každý orgán těla – nebo bezmála každý – včetně srdce, žláz vnitřní sekrece, ledvin nebo jater, o transfúzích krve nebo plazmy nemluvě, je již dnes možno přinejmenším dočasně transplantovat, aniž by vznikly pochyby, zda takto „složený“ jedinec podržel svou individualitu. Zdá se, že ani transplantace mozku není vyloučena. Transplantace psích hlav byla již provedena. V tomto případě však bude mozek ne transplantátem v plném slova smyslu, ale _příjemcem_, jemuž bude transplantováno tělo, po zdařilé operaci ovládané novou individualitou, novou vůlí, novými myšlenkami, novými vzpomínkami.
 
 Máme celou řadu dokladů, že pozemský bílkovinný život ustálil v podstatě jeden jediný typ mikrostruktury a funkce nervové soustavy živočichů, v níž je podráždění převáděno složitým elektrochemickým procesem, jehož popis vybočuje z rámce této knihy. Fyziologové dávají například přednost experimentům s izolovanými nervovými vlákny sépií; jsou několikanásobně silnějšího průřezu než nervová vlákna ostatních živočichů a poskytují tedy jisté technické ulehčení pokusů. Jejich vlastnosti, vodivost podráždění, rychlost vedení atd., ba ani nejjemnější fyziologické pochody, zkoumané novým odvětvím vědy, neurohistochemií, se však nijak výrazně neliší od týchž vlastností nervů člověka nebo jiného, oproti sépiím rozhodně pokročilejšího tvora.
 
@@ -90,7 +92,7 @@ lumek           1 : 400
 
 mravenec    1 : 280
 
-(podle Obenbergera)
+_(podle Obenbergera)_
 
 Jak je vidět, souhlasí poměr váhy těla k váze nervových zauzlin jmenovaných hmyzů nejen s obecnou představou o jejich „chytrosti“ a „inteligenci“, ale i s úsudkem vědců o dokonalosti historicky vypracovaných instinktů.
 
@@ -150,7 +152,7 @@ Obry a trpaslíky se zabývá lidstvo už úctyhodně dávno, ale, jak se zdá,
 
 ![60.jpg](./resources/60_fmt.jpeg)
 
-Rozvaliny Tíwanaku dosud nepromluvily. Mlčí i sochy typově rozlišených tváří
+> Rozvaliny Tíwanaku dosud nepromluvily. Mlčí i sochy typově rozlišených tváří
 
 Ciolkovskij soudí, že kdyby se pozemský život rozvíjel na Měsíci, byli by tamní živočichové šestkrát větší a měli by přiměřeně větší mozek; naopak na Jupiteru, kde je přitažlivost dvaapůlkrát větší než na naší planetě, by mohly existovat jen trpasličí formy, jinak by živočichové vůbec nemohli odpoutat tělo od povrchu planety.
 
@@ -164,13 +166,13 @@ Již letmý pohled na říši pozemské fauny poučí, že – ať je již tent
 
 ![61.jpg](./resources/61_fmt.jpeg)
 
-Selenita v představě ilustrátora Wellsova románu První lidé na Měsíci
+> Selenita v představě ilustrátora Wellsova románu První lidé na Měsíci
 
 Rozřešení, nebo alespoň jeho náznak by mohl přivést toliko experiment, v jehož možnost nestor kosmonautiky nevěřil. Ani my nejsme dosud schopni přenášet vzorky tvorstva na Jupitera či na Měsíc, zajistit jim existenční podmínky a vyčkávat milióny let, jakým způsobem se budou měnit a utvářet. Nejsme schopni konstruovat pro tak dlouhou dobu centrifugy nebo naopak technické prostředky (letadla, klesající po určité křivce, rakety letící setrvačností), zajišťující snížení tíže nebo dokonce stav beztíže. Naštěstí matička Země provedla tento experiment – jak si nedávno poněkud překvapení exobiologové povšimli – uspokojujícím způsobem a v uspokojivém měřítku za nás. Jde o prověrku nepřímou, ale v omezeném rozsahu našeho zkoumání dostatečnou: o přechody – často opakované – některých živočišných druhů z moře na souš, případně zpět.
 
 ![62.jpg](./resources/62_fmt.jpeg)
 
-Marťané z Wellsovy Války světů naopak přijali podobu ohyzdných hlavonožců s nepříjemnými upířími zvyky
+> Marťané z Wellsovy Války světů naopak přijali podobu ohyzdných hlavonožců s nepříjemnými upířími zvyky
 
 Tréninku pro vesmírné cesty za stavu beztíže, prováděného pod vodní hladinou, se zúčastňují všichni kosmonauté. Nejde ovšem o skutečný stav beztíže – avšak tělo, nadlehčované vztlakem vody, je prakticky zbaveno břemene přitažlivosti a volně se vznáší. Vnitřní orgány zůstávají podrobeny účinkům gravitace dále, avšak ty obvykle „plovou“ v ochranných tělových tekutinách, a jak se zdá, gravitační změny na ně s výjimkou tzv. labyrintu vnitřního ucha nijak zvlášť nepůsobí – alespoň pokud můžeme soudit z pobytů kosmonautů na oběžných drahách. Hlavní tíhu boje s přitažlivostí nese pohybový a podpůrný aparát, u pozemských obratlovců kostra a svalstvo – to jsme se alespoň donedávna (až do uveřejnění prací P. A. Koržujeva a dalších badatelů) domnívali.
 
@@ -210,7 +212,7 @@ ptáci
 
 ![63.jpg](./resources/63_fmt.jpeg)
 
-Mechanické uplatňování snížené gravitace na podobu nepozemšťanů vede k velkovýrobě románových monster selenitů a Marťanů
+> Mechanické uplatňování snížené gravitace na podobu nepozemšťanů vede k velkovýrobě románových monster selenitů a Marťanů
 
 Zatímco tedy prvních pět příček žebříku dobře odpovídá ochraně vodních živočichů před přemáháním gravitace pohybem ve vodě, menším nárokům na plazy, kteří spočívají větší plochou těla na pevné podložce, a bytelnějšímu pohybovému aparátu savců, ptáci zradili na celé čáře. Nejen že jejich kostra není vylehčená a pneumatizovaná; je v celé živočišné říši relativně nejtěžším kosterním aparátem vůbec.
 
@@ -318,7 +320,7 @@ Předpokládajíce vývoj za podmínek podobných podmínkám pozemským, tedy v
 
 Spisovatelé vědeckofantastických románů jsou v této otázce zajedno – až na jedinou výjimku jsem nečetl povídku tohoto druhu, zabydlující vzdálené světy buď pouze rostlinami, nebo pouze živočichy. Také astronomové a exobiologové o souběžné existenci rostlin a živočichů nepochybují, a to ani na Marsu, jehož oživení se téměř z jistoty stalo sporným (i když zdaleka ne vyloučeným) po úspěšném odeslání fotografických snímků kosmickými sondami. Zakladatel sovětské astrobiologie (původně astrobotaniky) N. A. Tichov dokonce předpokládal na Marsu dva druhy rostlin – opadavé a neopadavé dřeviny a jim přiměřenou faunu. Vynikající český planetolog a selenolog Josef Sadil ve své dosud nezastaralé knize Mars byl skromnější: uvažoval o možnosti nižších rostlin podobných lišejníkům, mechům a řasám, dále pak o živočiších podobajících se nejspíše chvostoskokům a želvuškám.
 
-Důležité je pokročit od představ a domněnek, vzniklých prostým srovnáním předpokládaných podmínek nepozemských s pozemskými, k pokusu o důkaz nezbytnosti existence obou říší pro vznik a vývoj vyšších forem živočichů, schopných směřovat v pozdních fázích evoluce k vytvoření civilizace. Jinak řečeno dokázat, že známé úsloví „všechno maso je tráva“ neplatí jen pro třetí planetu systému hvězdy, zvané Slunce.
+Důležité je pokročit od představ a domněnek, vzniklých prostým srovnáním předpokládaných podmínek nepozemských s pozemskými, k pokusu o důkaz _nezbytnosti_ existence obou říší pro vznik a vývoj vyšších forem živočichů, schopných směřovat v pozdních fázích evoluce k vytvoření civilizace. Jinak řečeno dokázat, že známé úsloví „všechno maso je tráva“ neplatí jen pro třetí planetu systému hvězdy, zvané Slunce.
 
 Rabinowitch formuloval roku 1945 v podstatě totéž obsáhleji a méně lapidárně: „Nádrž života se plní jediným potrubím, které čerpá hmotu z nízko položeného moře stabilního anorganického světa k náhorní planině organického života; svou cestu zpět nachází ve stovkách potoků nebo klikatých říček, které při tom, jak spěchají dolů k moři, roztáčejí tisíce koleček života.“
 
@@ -326,9 +328,11 @@ Domnívám se, že nejlépe formulovaným vysvětlením této obecné zásady je
 
 Fotosyntéza je procesem mimořádně složitým – rozhodně složitějším, než jak máme v povědomí ze školních let:
 
-CO2 + H2O = (CH2O) + O2
+> CO2 + H2O = (CH2O) + O2
 
 kysličník uhličitý + voda = organická hmota + kyslík, i když rovnice v této formě vystihuje docela dobře podstatu procesu.
+
+  
 
 Dokazuje to ostatně i výrok Melvina Calvina, jenž byl právě za bádání v oblasti fotosyntézy odměněn Nobelovou cenou, pronesený počátkem šedesátých let: „Badatel na poli fotosyntézy je poutníkem v neznámé zemi, kterou zakrývá hustá mlha. V ranních červáncích může rozeznat jen hrubé obrysy krajiny.“
 
@@ -340,7 +344,7 @@ Rostliny, absorbující sluneční světlo chloroplasty, buňkami, obsahujícím
 
 Kromě toho mají litotrofní („nerosty se živící“) baktérie, kryjící svou energetickou bilanci chemosynteticky, nikoli fotosynteticky, proti zeleným rostlinám podstatnou nevýhodou: neuvolňují kyslík. I když je tedy můžeme ryze teoreticky považovat za další alternativu protějšku živočišstva, prakticky je patrně uplatnění takové kombinace vyloučeno.
 
-Kapacita fotosyntézy je obrovská, takřka nepředstavitelná. Odhaduje se, že na naší planetě vede – včetně oceánů – k roční produkci 140 miliard tun živé hmoty, což odpovídá více než stonásobku spojené váhové produkce světového chemického, hutního a metalurgického průmyslu. Tato živá hmota je základem veškerého dalšího života svou potenciální a bezprostředně využitelnou energií, ekvivalentní (opět téměř nepředstavitelnému) výkonu dvou miliard velkých elektráren.
+Kapacita fotosyntézy je obrovská, takřka nepředstavitelná. Odhaduje se, že na naší planetě vede – včetně oceánů – k roční produkci 140 miliard tun živé hmoty, což odpovídá více než stonásobku spojené váhové produkce světového chemického, hutního a metalurgického průmyslu. Tato živá hmota je základem veškerého dalšího života svou potenciální a bezprostředně využitelnou energií, ekvivalentní (opět téměř nepředstavitelnému) výkonu dvou _miliard_ velkých elektráren.
 
 Rostliny nemohou být ve své funkci prvního článku řetězu života zastoupeny ani jako producenti látek s vysokou energetickou hladinou, ani jako obnovovatelé objemu atmosférického kyslíku, žádným jiným „výrobcem“. Zejména pak ne např. živočichy, obdařenými zeleným pigmentem a schopnými v této podobě hastrmanů – alespoň na stránkách sci-fi – asimilovat neústrojné látky a vlastní fotosyntézou z nich vyrábět sloučeniny na vyšší energetické úrovni a s vyšším stupněm uspořádanosti.
 
@@ -365,6 +369,8 @@ Nelze si ovšem představit rostliny, schopné založit vlastní civilizaci. Kdy
 Je tedy zřejmé, že můžeme považovat pouze živočišný život za schopný vývoje k civilizaci a že základní morfologické formy tohoto života budou se vší pravděpodobností kompaktní, přímo nebo nepřímo odkázané na „předvýrobu“ organických látek fotosyntetizujícími rostlinami. Téměř stejně důležitý je předpoklad, že se vývoj příslušníků nepozemské civilizace, jejíž vlastnosti se snažíme odhadnout, patrně odehrál v prostředí, charakterizovaném porostem rostlin.
 
 V mlhách exobiologických předpokladů se tedy počíná rýsovat suchozemský živočich, dýchající kyslík nebo jeho směs, žijící v atmosféře podobné atmosféře naší, ozařované paprsky podobných vlnových délek a umožňující tak fotosyntézu.
+
+  
 
 Jaké by měl asi smysly?
 

@@ -2,11 +2,13 @@
 title: "Výstražný příklad a\_jeden z\_možných příspěvků řešení = Mars"
 ---
 
-V těchto věcech je třeba postupovat obezřele, neboť člověk se často zmýlí a dopouští se zejména dvou omylů: jedni popírají všecko neobyčejné a druzí překračují rozum a upadají do magie. Je tedy třeba vystříhat se těch početných knih, které obsahují verše, znamení, modlitby, zaklínadla a obětní formule, neboť to jsou knihy ryzí magie, a jiných, kterých je nekonečné množství a jež neobsahují ani sílu umění, ani sílu přírody, ale výmysly kouzelníků. Na druhé straně je však nutno uvážit, že mezi knihami pokládanými za magické jsou takové, které magické vůbec nejsou a obsahují tajemství mudrců… Jestliže někdo nalezne v těchto dílech nějaký postup přirozený nebo umělý, nechť si ho ponechá.
+> V těchto věcech je třeba postupovat obezřele, neboť člověk se často zmýlí a dopouští se zejména dvou omylů: jedni popírají všecko neobyčejné a druzí překračují rozum a upadají do magie. Je tedy třeba vystříhat se těch početných knih, které obsahují verše, znamení, modlitby, zaklínadla a obětní formule, neboť to jsou knihy ryzí magie, a jiných, kterých je nekonečné množství a jež neobsahují ani sílu umění, ani sílu přírody, ale výmysly kouzelníků. Na druhé straně je však nutno uvážit, že mezi knihami pokládanými za magické jsou takové, které magické vůbec nejsou a obsahují tajemství mudrců… Jestliže někdo nalezne v těchto dílech nějaký postup přirozený nebo umělý, nechť si ho ponechá.
 
 ROGER BACON (1214–1294)
 
 Kosmická tělesa, především hvězdy, mění v souladu se svým vývojem spektrum, právě tak jako mění absolutní i ze Země pozorovatelnou (zdánlivou) hvězdnou velikost, vyjádřenou Pogsonovou stupnicí, magnitudu. U některých hvězd byly tyto proměny pozorovány již v epoše vědecké astronomie, o jiných se to dozvídáme z astrologických pramenů, v některých případech se pouze dohadujeme.
+
+  
 
 Před několika desítkami let proběhl v české odborné literatuře dosti temperamentní spor o dávnou barvu Síria, nejjasnější hvězdy oblohy, jehož se u nás zúčastnil prof. Arnošt Dittrich na jedné a prof. Jan Bor na druhé straně. Bor, opíraje se o staré prameny, tvrdil, že Sírius, soudě podle zpráv babylónských, egyptských, řeckých i římských, byl kdysi červený. Svědčí o tom i jeho pojmenování; např. babylónský Šukudu – zářící měď, i rudý šat s ním ztotožněných bohů a bohyň, rudá barva obětin, přinášených Síriovi v Římě 25. dubna každého roku, a konečně i svědectví Ptolemaia, Horatia, Seneky a Aviena. Podobnou změnou – podle Bora – prošel prý i Algol (beta Persei), dnes jasně bílý, ale podle arabského hvězdáře Sufiho ještě rudý.
 
@@ -96,11 +98,11 @@ Smíme se jen dohadovat, jak k takové havárii planetární vegetace může do
 
 ![55.jpg](./resources/55_fmt.jpeg)
 
-Překvapující snímek Marineru 9 dokazující na Marsu v oblasti Tithonius Lacus nepochybné stopy eroze, způsobené nejpravděpodobněji vodou
+> Překvapující snímek Marineru 9 dokazující na Marsu v oblasti Tithonius Lacus nepochybné stopy eroze, způsobené nejpravděpodobněji vodou
 
 ![56.jpg](./resources/56_fmt.jpeg)
 
-Na dalším snímku téže série je několik set kilometrů dlouhá „řeka“, stěží vysvětlitelná jinak než vodní erozí
+> Na dalším snímku téže série je několik set kilometrů dlouhá „řeka“, stěží vysvětlitelná jinak než vodní erozí
 
 Uveďme jen jediný námět, opět s poukazem na naše pozemské znalosti: kdyby podivný a možná, kdo ví, z vesmíru importovaný polysacharidový, nikoli bílkovinný choroboplodný zárodek, způsobující „kuru“ a „scrapie“ si nevybíral výhradně nervový systém ovcí, koz a lidožroutů, ale byl naopak schopen úspěšně parazitovat na jakémkoli bílkovinném hostiteli, jemu chemicky patrně bytostně cizím, hrozilo by celému pozemskému životu, celé živočišné i rostlinné „dekoraci“ smrtelné nebezpečí úplného vyhubení, pokud by včas nevyvinula účinné ochranné látky; a to by bylo při vysoké virulenci a naprosté cizorodosti infekčního agens velice obtížné a spíše nepravděpodobné. A kdo je schopen zaručit, že se takové zárodky ve stavu anabiózy ve vesmíru nevyskytují? Že se nemohou dnes či zítra, i když jako výjimka, opakující se snad po miliónech či miliardách let, ocitnout na naší planetě a zahájit zhoubné dílo, proti němuž by nejhroznější morové epidemie byly nevinné?
 
@@ -136,4 +138,4 @@ Porovnáním obou rubrik shledáme, že astrologické aspekty Venuše jsou ješt
 
 Tolik tedy o katastrofě, která snad postihla v nedávné době sesterskou planetu Mars a proměnila její rostlinnou (přinejmenším) dekoraci. Teď už nezbývá než čekat, až první člověk vystoupí na povrch Marsu a vrátí se s pokladem nasbíraných vzorků, které naši domněnku potvrdí, nebo vyvrátí.
 
-[1](#footnote-35104-1-backlink) Odkaz k závěru textu kapitoly Formy života ve vesmíru. Pozn. red.
+[1](#footnote-35104-1-backlink) Odkaz k závěru textu kapitoly _Formy života ve vesmíru_. _Pozn. red._

@@ -2,16 +2,18 @@
 title: Další otazníky na letové lince
 ---
 
-Toho, jenž hlubiny zřel až k hranici země,  
-jenž poznal všechna moře, opěvat chci.  
-Vše viděl a prozkoumal rovnou měrou,  
-byl nadán moudrostí a znalostí všech věcí.  
-On tajemství zřel, odhalil skryté  
-a zvěst přinesl o tom, co před potopou bylo.
+> Toho, jenž hlubiny zřel až k hranici země,  
+> jenž poznal všechna moře, opěvat chci.  
+> Vše viděl a prozkoumal rovnou měrou,  
+> byl nadán moudrostí a znalostí všech věcí.  
+> On tajemství zřel, odhalil skryté  
+> a zvěst přinesl o tom, co před potopou bylo.
 
 POČÁTEK EPOSU O GILGAMEŠOVI, ASYRSKÁ VERZE
 
 Zdrželi jsme se poněkud u dvou civilizací, jejichž otřes v minulosti předpokládáme, což nám umožňuje povšimnout si zajímavých skutečností na „letové trase“ od Egypta (a možná ještě dále na západ přes Korsiku a Stonehenge až do míst, kde se kdysi vypínal Atlantský hřbet), až k civilizacím Jižní Ameriky, kde naše vyprávění o otřesených civilizacích skončí.
+
+  
 
 Zmínili jsme se o Mohendžodáru a Harappě, dvou opevněných velkoměstech, od sebe vzdálených 600 km, jež se vynořila roku 1922 z hlubin minulosti zcela neočekávaně a jejichž geneze a vývoj dosud nejsou uspokojivě vysvětleny. Postupem let a s dalšími vykopávkami přibyly k oběma velkoměstům další města a vesnice kultury, jež se vyrovná vyspělé kultuře starého Egypta nebo Mezopotámie a jejichž vznik dnes klademe do první poloviny 3. tisíciletí před n. l., tedy do doby současné se sjednocením Egypta a vznikem sumerských městských států. Harappská kultura měla velmi čilé námořní i pozemní styky s blízkými i vzdálenými sousedy, pečetidla byla nalezena dokonce na území dnešního Rumunska.
 
@@ -21,7 +23,7 @@ Na první pohled tedy šlo o kulturu kvetoucí, jejíž surovinová základna, 
 
 ![27.jpg](./resources/27_fmt.jpeg)
 
-Klenutý podzemní kanál v rozvalinách Mohendžodára
+> Klenutý podzemní kanál v rozvalinách Mohendžodára
 
 Zdá se, že se vládní moc v Harappě na sklonku jejího trvání zhroutila, pořádek, násilně udržovaný, se změnil v chaos a stabilita v nejistotu (zakopávání majetku, především šperků).
 
@@ -53,7 +55,7 @@ Domnívám se tak tím spíše, že 160 km odtud leží proslulé „letiště b
 
 ![28.jpg](./resources/28_fmt.jpeg)
 
-Další pozoruhodnost Nazky: souběžné linie, běžící přes hory a doly a spojující dvě náhorní planiny
+> Další pozoruhodnost Nazky: souběžné linie, běžící přes hory a doly a spojující dvě náhorní planiny
 
 Je rovněž dostatečně známé a mnohokrát popsané ve vědecké i populární literatuře, postačí tedy jen stručné shrnutí: při leteckém snímkování příští trasy panamerické dálnice vedoucí přes Valle de Palpa se na fotografiích objevily jakési podivné linie a geometrické obrazce, které byly prohlášeny za incké cesty a zavodňovací příkopy. Roku 1940 se na ně přijel podívat americký archeolog Paul Kosok, zabývající se odhadem hustoty osídlení starého Peru právě podle zavodňovacích zařízení.
 
@@ -63,23 +65,23 @@ Nejzajímavější jsou však stylizované obrazy zvířat, osmdesátimetrových
 
 ![29.jpg](./resources/29_fmt.jpeg)
 
-„Dráhy“ ve Valle de Palpa rozhodně nebyly silnicemi. Význam mnohých z nich nebyl dosud spolehlivě určen
+> „Dráhy“ ve Valle de Palpa rozhodně nebyly silnicemi. Význam mnohých z nich nebyl dosud spolehlivě určen
 
 ![30.jpg](./resources/30_fmt.jpeg)
 
-Tato linie je ovšem jistě astronomická – snímek byl pořízen v den zimního slunovratu 21. prosince. Ještě před 1500 lety byla shoda úplná
+> Tato linie je ovšem jistě astronomická – snímek byl pořízen v den zimního slunovratu 21. prosince. Ještě před 1500 lety byla shoda úplná
 
 ![31.jpg](./resources/31_fmt.jpeg)
 
-Oblasti staré a nové mayské říše
+> Oblasti staré a nové mayské říše
 
 ![32.jpg](./resources/32_fmt.jpeg)
 
-Jedna z obrovských figur: opice napojená na systém podivuhodně geometricky přesný, pracný a záhadný
+> Jedna z obrovských figur: opice napojená na systém podivuhodně geometricky přesný, pracný a záhadný
 
 ![32a.jpg](./resources/32a_fmt.jpeg)
 
-Panamerická dálnice zničila mnoho figur, např. tohoto ještěra dlouhého 180 metrů
+> Panamerická dálnice zničila mnoho figur, např. tohoto ještěra dlouhého 180 metrů
 
 Däniken vidí ve Valle de Palpa letiště nepozemšťanů, kteří diri­govali postup kreseb z letadel nebo je sami např. pomocí energetických paprsků vytvořili zároveň s absolutně přímo probíhajícími dvojitými zářezy, překračujícími údolí i okolní vrchy a zřejmě naznačujícími jakési důležité směry, jež musely být fixovány. V krajním případě připouští Däniken jako důvod vzniku kreseb touhu tehdejších obyvatel, aby se „bohové“ z vesmíru vrátili. Gigantické figury je měly přilákat.
 
@@ -91,7 +93,7 @@ Kromě toho nejsou „strašáci“ z Valle de Palpa jediní: v chilské pouš
 
 ![33.jpg](./resources/33_fmt.jpeg)
 
-Méně známé nálezy z Nazky: několik metrů vysoké skalní reliéfy postav s jakousi svatozáří kolem hlav
+> Méně známé nálezy z Nazky: několik metrů vysoké skalní reliéfy postav s jakousi svatozáří kolem hlav
 
 Pochopitelně – místní obyvatelé Warrauové mají o Valle de Palpa své hezké pověsti o sídle vysoko nad nebesy, odkud jejich praotec sestoupil na zem a nastřílel tam lukem a šípy zvířata, zobrazená na Valle de Palpa. Zdá se však, že impuls k vytváření obrazců, viditelných v celku toliko z výšky, byl značně silný nejen v Peru, ba nejen v Jižní Americe. Na východě Severní Ameriky se setkáváme s tzv. moundy, zemními navršeninami z hlíny nebo z kamene různého tvaru. Zvláštní místo mezi nimi mají tzv. mound-effigies, nacházené většinou ve Wisconsinu, vršené ve tvaru obrovských, obvykle několik set metrů dlouhých zvířat, hadů, medvědů, aligátorů atd. – ale i králíků a jelenů, jejichž tvar je možné přehlédnout teprve z letadla.
 
@@ -105,7 +107,7 @@ V zájmu vědecké poctivosti musíme ovšem uvést i další možné vysvětl
 
 ![34.jpg](./resources/34_fmt.jpeg)
 
-Ukázka podivuhodné sochařské práce dávných obyvatel Marcahuasí: skála změněná v podobu afrického lva
+> Ukázka podivuhodné sochařské práce dávných obyvatel Marcahuasí: skála změněná v podobu afrického lva
 
 Jde o oblast v Peru poblíže Limy v provincii Huarochiri a okrese Casta. Na několika čtverečních kilometrech, jež prozkoumal v letech 1952–1954 dr. Daniel Ruzo, je nejfantastičtější sochařská galerie, pro niž byly (podobně jako Mount Rushmore v USA pro podoby čtyř prezidentů) přetvořeny celé skalní hřbety v plastiky. Španělští kronikáři konkvisty zanechali zprávu, že Inka Tupac Yupanqui znal Marcahuasí i další podobné oblasti, které „… vytvořili bílí lidé z hvězd… stvořili je k svému obrazu a k obrazu cizích národů, které žijí na čtyřech světových stranách…“
 
@@ -113,7 +115,7 @@ Seznámil jsem se s Ruzovým spisem, doprovázeným početnými původními sn�
 
 ![35.jpg](./resources/35_fmt.jpeg)
 
-Ani tisíciletí útoků povětrnosti nesetřela zcela tvary hlavy další velesochy Marcahuasí, tentokráte velblouda
+> Ani tisíciletí útoků povětrnosti nesetřela zcela tvary hlavy další velesochy Marcahuasí, tentokráte velblouda
 
 Opravdu necituji science fiction, pokračuji-li v Ruzových poznatcích: objevil reliéfy, zřetelné toliko v den slunovratu (jaké vědomosti a prostředky museli tvůrci ovládat!), na nichž se objevují předchůdci člověka od opočlověka až k neandertálci, skulptury, proměňující se minutu od minuty postupem slunce způsobem, který je sice odedávna vytouženým, ale naprosto nedosažitelným ideálem tvůrců plastik pod širým nebem.
 
@@ -135,7 +137,7 @@ Přiznám se, že jsem této náladě rovněž podlehl, tím spíše, že můj p
 
 ![40.jpg](./resources/40_fmt.jpeg)
 
-Mapka území, kde byly objeveny rozsáhlé podzemní prostory z incké nebo předincké doby
+> Mapka území, kde byly objeveny rozsáhlé podzemní prostory z incké nebo předincké doby
 
 První otřes mi způsobil známý český amerikanista Miloslav Stingl, když v osobním rozhovoru Dänikenovy nálezy nevyloučil. Zcela bezradný jsem zůstal nad sdělením peruánského archeologa Itala Olbertiho, jenž ve spolupráci s polskými vědci roku 1972 objevil poblíže Sacsayhuamanu tunel, vedoucí od pevnos
 
@@ -189,12 +191,12 @@ V každém případě zde tušíme stín…
 
 ![37.jpg](./resources/37_fmt.jpeg)
 
-Památník Opeřeného hada – hlavní pyramida v mayském městě Chichen Itzá s jedenadevadesáti schody a devíti stupni
+> Památník Opeřeného hada – hlavní pyramida v mayském městě Chichen Itzá s jedenadevadesáti schody a devíti stupni
 
 ![38.jpg](./resources/38_fmt.jpeg)
 
-Na trase „otřesených civilizací“ nacházíme množství létajících bohů, démonů i strojů
+> Na trase „otřesených civilizací“ nacházíme množství létajících bohů, démonů i strojů
 
 ![39.jpg](./resources/39_fmt.jpeg)
 
-Některé objekty jsou těžko vysvětlitelné a jejich označení je výsledkem konvence; tato kamenná mayská plastika byla označena jako „hlava papouška Xochicalco“
+> Některé objekty jsou těžko vysvětlitelné a jejich označení je výsledkem konvence; tato kamenná mayská plastika byla označena jako „hlava papouška Xochicalco“
