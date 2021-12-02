@@ -1,5 +1,6 @@
 ---
 title: ''
+hiddenTitle: true
 ---
 
 > _Synu Davidovi jako budoucí příspěvek  

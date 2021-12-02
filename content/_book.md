@@ -9,13 +9,45 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-23T15:29:42.603Z'
   languageCode: cs
-chapters:
-  - tuseni_stinu_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - tuseni_stinu_002.html
+  - tuseni_stinu_003.html
+  - tuseni_stinu_005.html
+  - tuseni_stinu_006.html
+  - tuseni_stinu_007.html
+  - tuseni_stinu_008.html
+  - tuseni_stinu_009.html
+  - tuseni_stinu_010.html
+  - tuseni_stinu_011.html
+  - tuseni_stinu_012.html
+  - tuseni_stinu_013.html
+  - tuseni_stinu_014.html
+  - tuseni_stinu_015.html
+  - tuseni_stinu_016.html
+  - tuseni_stinu_017.html
+  - tuseni_stinu_018.html
+  - tuseni_stinu_019.html
+  - tuseni_stinu_020.html
+  - tuseni_stinu_021.html
+  - tuseni_stinu_022.html
+  - tuseni_stinu_023.html
+  - tuseni_stinu_024.html
+  - tuseni_stinu_025.html
+  - tuseni_stinu_026.html
+  - tuseni_stinu_027.html
+  - tuseni_stinu_028.html
+  - tuseni_stinu_029.html
+  - tuseni_stinu_030.html
+  - tuseni_stinu_031.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
       - link: tuseni_stinu_005.html
         title: Věnování
+        hiddenTitle: true
       - link: tuseni_stinu_006.html
         title: ÚVODEM
       - link: tuseni_stinu_007.html
@@ -33,7 +65,6 @@ tocBase:
             title: Přece jen dalekohledy?
           - link: tuseni_stinu_013.html
             title: Dávné Hirošimy
-        numberedChildren: false
       - link: tuseni_stinu_014.html
         title: OTŘESENÉ CIVILIZACE
         children:
@@ -45,7 +76,6 @@ tocBase:
             title: Další otazníky na letové lince
           - link: tuseni_stinu_018.html
             title: Kamenná posedlost
-        numberedChildren: false
       - link: tuseni_stinu_019.html
         title: CIVILIZACE DELFÍNŮ
         children:
@@ -61,7 +91,6 @@ tocBase:
             title: Vesmírný projektil
           - link: tuseni_stinu_025.html
             title: Výstražný příklad a jeden z možných příspěvků řešení = Mars
-        numberedChildren: false
       - link: tuseni_stinu_026.html
         title: POČÍTÁME VZOREC NEPOZEMŠŤANA
         children:
@@ -75,13 +104,13 @@ tocBase:
             title: Po stopách zelených mužíčků
           - link: tuseni_stinu_031.html
             title: Proč nepřicházejí?
-        numberedChildren: false
-    numberedChildren: false
+    isSection: true
 static:
   - style
   - scripts
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
