@@ -1,75 +1,28 @@
 {
   "author": "Ludvík Souček",
-  "identifier": "soucek-tuseni-stinu-c558524",
+  "edition": "beletrie",
+  "identifier": "soucek-tuseni-stinu-ca4e35f",
   "languagecode": "cs",
   "modified": "2021-11-23T15:29:42.603Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Tušení stínu",
-  "revision": "c558524",
+  "revision": "ca4e35f",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:06:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378404343
+    "date": "Thu Dec 02 2021 10:49:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638442192782
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 145,
-      "chars": 953,
-      "ideas": 21,
-      "role": "colophon",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 8,
-      "chars": 49,
-      "ideas": 3,
-      "role": "cover",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
-      "toc": [
-        {
-          "index": 1,
-          "level": 1,
-          "name": "Tušení stínu",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "tuseni_stinu_001.html",
+      "title": "Tušení stínu",
+      "file": "tuseni_stinu_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": null,
+      "next": "tuseni_stinu_003.html",
       "toc": [
         {
           "index": 0,
@@ -81,33 +34,15 @@
       ]
     },
     {
-      "title": "",
-      "file": "tuseni_stinu_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Tušení stínu",
       "file": "tuseni_stinu_003.html",
       "words": 7,
       "chars": 54,
       "ideas": 3,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 1,
+      "prev": "tuseni_stinu_002.html",
+      "next": "tuseni_stinu_005.html",
       "toc": [
         {
           "index": 0,
@@ -119,14 +54,15 @@
       ]
     },
     {
-      "title": "",
+      "title": "Tušení stínu",
       "file": "tuseni_stinu_005.html",
       "words": 20,
       "chars": 127,
       "ideas": 4,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 2,
+      "prev": "tuseni_stinu_003.html",
+      "next": "tuseni_stinu_006.html",
       "toc": [
         {
           "index": 0,
@@ -138,14 +74,15 @@
       ]
     },
     {
-      "title": "ÚVODEM",
+      "title": "ÚVODEM • Tušení stínu",
       "file": "tuseni_stinu_006.html",
       "words": 674,
       "chars": 4629,
       "ideas": 14,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 3,
+      "prev": "tuseni_stinu_005.html",
+      "next": "tuseni_stinu_007.html",
       "toc": [
         {
           "index": 0,
@@ -157,14 +94,15 @@
       ]
     },
     {
-      "title": "INDICIE",
+      "title": "INDICIE • Tušení stínu",
       "file": "tuseni_stinu_007.html",
       "words": 39,
       "chars": 283,
       "ideas": 8,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 4,
+      "prev": "tuseni_stinu_006.html",
+      "next": "tuseni_stinu_008.html",
       "toc": [
         {
           "index": 0,
@@ -176,14 +114,15 @@
       ]
     },
     {
-      "title": "Několik nepříjemných skutečností",
+      "title": "Několik nepříjemných skutečností • Tušení stínu",
       "file": "tuseni_stinu_008.html",
       "words": 3903,
       "chars": 27247,
       "ideas": 59,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 5,
+      "prev": "tuseni_stinu_007.html",
+      "next": "tuseni_stinu_009.html",
       "toc": [
         {
           "index": 0,
@@ -195,14 +134,15 @@
       ]
     },
     {
-      "title": "Zajímavé nálezy",
+      "title": "Zajímavé nálezy • Tušení stínu",
       "file": "tuseni_stinu_009.html",
       "words": 3977,
       "chars": 26890,
       "ideas": 68,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 6,
+      "prev": "tuseni_stinu_008.html",
+      "next": "tuseni_stinu_010.html",
       "toc": [
         {
           "index": 0,
@@ -214,14 +154,15 @@
       ]
     },
     {
-      "title": "Podivné mapy a neznámí kartografové",
+      "title": "Podivné mapy a neznámí kartografové • Tušení stínu",
       "file": "tuseni_stinu_010.html",
       "words": 3102,
       "chars": 21154,
       "ideas": 47,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 7,
+      "prev": "tuseni_stinu_009.html",
+      "next": "tuseni_stinu_011.html",
       "toc": [
         {
           "index": 0,
@@ -233,14 +174,15 @@
       ]
     },
     {
-      "title": "Zapomenuté lodě",
+      "title": "Zapomenuté lodě • Tušení stínu",
       "file": "tuseni_stinu_011.html",
       "words": 6018,
       "chars": 40510,
       "ideas": 121,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 8,
+      "prev": "tuseni_stinu_010.html",
+      "next": "tuseni_stinu_012.html",
       "toc": [
         {
           "index": 0,
@@ -252,14 +194,15 @@
       ]
     },
     {
-      "title": "Přece jen dalekohledy?",
+      "title": "Přece jen dalekohledy? • Tušení stínu",
       "file": "tuseni_stinu_012.html",
       "words": 2162,
       "chars": 14850,
       "ideas": 46,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 9,
+      "prev": "tuseni_stinu_011.html",
+      "next": "tuseni_stinu_013.html",
       "toc": [
         {
           "index": 0,
@@ -271,14 +214,15 @@
       ]
     },
     {
-      "title": "Dávné Hirošimy",
+      "title": "Dávné Hirošimy • Tušení stínu",
       "file": "tuseni_stinu_013.html",
       "words": 4653,
       "chars": 31021,
       "ideas": 117,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 10,
+      "prev": "tuseni_stinu_012.html",
+      "next": "tuseni_stinu_014.html",
       "toc": [
         {
           "index": 0,
@@ -290,14 +234,15 @@
       ]
     },
     {
-      "title": "OTŘESENÉ CIVILIZACE",
+      "title": "OTŘESENÉ CIVILIZACE • Tušení stínu",
       "file": "tuseni_stinu_014.html",
       "words": 120,
       "chars": 776,
       "ideas": 3,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 11,
+      "prev": "tuseni_stinu_013.html",
+      "next": "tuseni_stinu_015.html",
       "toc": [
         {
           "index": 0,
@@ -309,14 +254,15 @@
       ]
     },
     {
-      "title": "Jedno z tajemství pyramid",
+      "title": "Jedno z tajemství pyramid • Tušení stínu",
       "file": "tuseni_stinu_015.html",
       "words": 6348,
       "chars": 43442,
       "ideas": 89,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 12,
+      "prev": "tuseni_stinu_014.html",
+      "next": "tuseni_stinu_016.html",
       "toc": [
         {
           "index": 0,
@@ -328,14 +274,15 @@
       ]
     },
     {
-      "title": "Strážci Velikonočního ostrova",
+      "title": "Strážci Velikonočního ostrova • Tušení stínu",
       "file": "tuseni_stinu_016.html",
       "words": 6485,
       "chars": 44022,
       "ideas": 113,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 13,
+      "prev": "tuseni_stinu_015.html",
+      "next": "tuseni_stinu_017.html",
       "toc": [
         {
           "index": 0,
@@ -347,14 +294,15 @@
       ]
     },
     {
-      "title": "Další otazníky na letové lince",
+      "title": "Další otazníky na letové lince • Tušení stínu",
       "file": "tuseni_stinu_017.html",
       "words": 4675,
       "chars": 31315,
       "ideas": 102,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 14,
+      "prev": "tuseni_stinu_016.html",
+      "next": "tuseni_stinu_018.html",
       "toc": [
         {
           "index": 0,
@@ -366,14 +314,15 @@
       ]
     },
     {
-      "title": "Kamenná posedlost",
+      "title": "Kamenná posedlost • Tušení stínu",
       "file": "tuseni_stinu_018.html",
       "words": 2596,
       "chars": 17916,
       "ideas": 60,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 15,
+      "prev": "tuseni_stinu_017.html",
+      "next": "tuseni_stinu_019.html",
       "toc": [
         {
           "index": 0,
@@ -385,14 +334,15 @@
       ]
     },
     {
-      "title": "CIVILIZACE DELFÍNŮ",
+      "title": "CIVILIZACE DELFÍNŮ • Tušení stínu",
       "file": "tuseni_stinu_019.html",
       "words": 73,
       "chars": 435,
       "ideas": 6,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 16,
+      "prev": "tuseni_stinu_018.html",
+      "next": "tuseni_stinu_020.html",
       "toc": [
         {
           "index": 0,
@@ -404,14 +354,15 @@
       ]
     },
     {
-      "title": "Delfíni, mému srdci milí…",
+      "title": "Delfíni, mému srdci milí… • Tušení stínu",
       "file": "tuseni_stinu_020.html",
       "words": 3001,
       "chars": 20877,
       "ideas": 52,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 17,
+      "prev": "tuseni_stinu_019.html",
+      "next": "tuseni_stinu_021.html",
       "toc": [
         {
           "index": 0,
@@ -423,14 +374,15 @@
       ]
     },
     {
-      "title": "Před mnoha tisíci lety",
+      "title": "Před mnoha tisíci lety • Tušení stínu",
       "file": "tuseni_stinu_021.html",
       "words": 4563,
       "chars": 32136,
       "ideas": 67,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 18,
+      "prev": "tuseni_stinu_020.html",
+      "next": "tuseni_stinu_022.html",
       "toc": [
         {
           "index": 0,
@@ -442,14 +394,15 @@
       ]
     },
     {
-      "title": "Na hranicích rozumu",
+      "title": "Na hranicích rozumu • Tušení stínu",
       "file": "tuseni_stinu_022.html",
       "words": 9142,
       "chars": 62404,
       "ideas": 141,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 19,
+      "prev": "tuseni_stinu_021.html",
+      "next": "tuseni_stinu_023.html",
       "toc": [
         {
           "index": 0,
@@ -461,14 +414,15 @@
       ]
     },
     {
-      "title": "Malý šrapnel, kroužící vesmírem",
+      "title": "Malý šrapnel, kroužící vesmírem • Tušení stínu",
       "file": "tuseni_stinu_023.html",
       "words": 3711,
       "chars": 24487,
       "ideas": 140,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 20,
+      "prev": "tuseni_stinu_022.html",
+      "next": "tuseni_stinu_024.html",
       "toc": [
         {
           "index": 0,
@@ -480,14 +434,15 @@
       ]
     },
     {
-      "title": "Vesmírný projektil",
+      "title": "Vesmírný projektil • Tušení stínu",
       "file": "tuseni_stinu_024.html",
       "words": 1598,
       "chars": 10726,
       "ideas": 45,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 21,
+      "prev": "tuseni_stinu_023.html",
+      "next": "tuseni_stinu_025.html",
       "toc": [
         {
           "index": 0,
@@ -499,14 +454,15 @@
       ]
     },
     {
-      "title": "Výstražný příklad a jeden z možných příspěvků řešení = Mars",
+      "title": "Výstražný příklad a jeden z možných příspěvků řešení = Mars • Tušení stínu",
       "file": "tuseni_stinu_025.html",
       "words": 5252,
-      "chars": 35707,
+      "chars": 35708,
       "ideas": 69,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 22,
+      "prev": "tuseni_stinu_024.html",
+      "next": "tuseni_stinu_026.html",
       "toc": [
         {
           "index": 0,
@@ -518,14 +474,15 @@
       ]
     },
     {
-      "title": "POČÍTÁME VZOREC NEPOZEMŠŤANA",
+      "title": "POČÍTÁME VZOREC NEPOZEMŠŤANA • Tušení stínu",
       "file": "tuseni_stinu_026.html",
       "words": 107,
       "chars": 675,
       "ideas": 8,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 23,
+      "prev": "tuseni_stinu_025.html",
+      "next": "tuseni_stinu_027.html",
       "toc": [
         {
           "index": 0,
@@ -537,14 +494,15 @@
       ]
     },
     {
-      "title": "Milióny cizích Zemí",
+      "title": "Milióny cizích Zemí • Tušení stínu",
       "file": "tuseni_stinu_027.html",
       "words": 3016,
       "chars": 20817,
       "ideas": 36,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 24,
+      "prev": "tuseni_stinu_026.html",
+      "next": "tuseni_stinu_028.html",
       "toc": [
         {
           "index": 0,
@@ -556,14 +514,15 @@
       ]
     },
     {
-      "title": "Formy života ve vesmíru",
+      "title": "Formy života ve vesmíru • Tušení stínu",
       "file": "tuseni_stinu_028.html",
       "words": 7976,
       "chars": 55663,
       "ideas": 120,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 25,
+      "prev": "tuseni_stinu_027.html",
+      "next": "tuseni_stinu_029.html",
       "toc": [
         {
           "index": 0,
@@ -575,14 +534,15 @@
       ]
     },
     {
-      "title": "Jak tedy vykalkulovat nepozemšťana",
+      "title": "Jak tedy vykalkulovat nepozemšťana • Tušení stínu",
       "file": "tuseni_stinu_029.html",
       "words": 12416,
       "chars": 86813,
       "ideas": 194,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 26,
+      "prev": "tuseni_stinu_028.html",
+      "next": "tuseni_stinu_030.html",
       "toc": [
         {
           "index": 0,
@@ -594,14 +554,15 @@
       ]
     },
     {
-      "title": "Po stopách zelených mužíčků",
+      "title": "Po stopách zelených mužíčků • Tušení stínu",
       "file": "tuseni_stinu_030.html",
       "words": 1393,
       "chars": 9383,
       "ideas": 55,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 27,
+      "prev": "tuseni_stinu_029.html",
+      "next": "tuseni_stinu_031.html",
       "toc": [
         {
           "index": 0,
@@ -613,14 +574,15 @@
       ]
     },
     {
-      "title": "Proč nepřicházejí?",
+      "title": "Proč nepřicházejí? • Tušení stínu",
       "file": "tuseni_stinu_031.html",
       "words": 4729,
       "chars": 32962,
       "ideas": 67,
-      "role": "other",
-      "order": null,
-      "next": "tuseni_stinu_001.html",
+      "role": "chapter",
+      "order": 28,
+      "prev": "tuseni_stinu_030.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -630,18 +592,38 @@
           "children": []
         }
       ]
+    },
+    {
+      "title": "Tiráž • Tušení stínu",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 953,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "tuseni_stinu_031.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 101909,
-      "chars": 698323,
-      "ideas": 1878
+      "words": 101907,
+      "chars": 698311,
+      "ideas": 1879
     },
     "chapters": {
-      "words": 0,
-      "chars": 0,
-      "ideas": 0
+      "words": 101756,
+      "chars": 697322,
+      "ideas": 1854
     }
   }
 }
