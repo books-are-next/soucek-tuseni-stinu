@@ -1,16 +1,17 @@
 {
   "author": "Ludvík Souček",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "soucek-tuseni-stinu-c8ecc0b",
+  "identifier": "soucek-tuseni-stinu-02359ca",
   "languagecode": "cs",
   "modified": "2021-11-23T15:29:42.603Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Tušení stínu",
-  "revision": "c8ecc0b",
+  "revision": "02359ca",
   "generatedAt": {
-    "date": "Sun May 08 2022 14:53:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652021585291
+    "date": "Sun May 08 2022 14:59:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652021978551
   },
   "documents": [
     {

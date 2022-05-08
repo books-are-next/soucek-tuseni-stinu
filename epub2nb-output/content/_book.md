@@ -4,12 +4,13 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Tušení stínu
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Ludvík Souček
   publisher: Městská knihovna v Praze
   modified: '2021-11-23T15:29:42.603Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
 readingOrder:
@@ -66,7 +67,7 @@ tocBase:
             title: Přece jen dalekohledy?
           - link: tuseni_stinu_013.html
             title: Dávné Hirošimy
-        listType: plain
+        listType: bulleted
       - link: tuseni_stinu_014.html
         title: OTŘESENÉ CIVILIZACE
         children:
@@ -78,7 +79,7 @@ tocBase:
             title: Další otazníky na letové lince
           - link: tuseni_stinu_018.html
             title: Kamenná posedlost
-        listType: plain
+        listType: bulleted
       - link: tuseni_stinu_019.html
         title: CIVILIZACE DELFÍNŮ
         children:
@@ -94,7 +95,7 @@ tocBase:
             title: Vesmírný projektil
           - link: tuseni_stinu_025.html
             title: Výstražný příklad a jeden z možných příspěvků řešení = Mars
-        listType: plain
+        listType: bulleted
       - link: tuseni_stinu_026.html
         title: POČÍTÁME VZOREC NEPOZEMŠŤANA
         children:
@@ -108,7 +109,7 @@ tocBase:
             title: Po stopách zelených mužíčků
           - link: tuseni_stinu_031.html
             title: Proč nepřicházejí?
-        listType: plain
+        listType: bulleted
     isSection: true
     listType: plain
 static:
