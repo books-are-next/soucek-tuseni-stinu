@@ -1,10 +1,11 @@
 ---
 title: Zajímavé nálezy
+contentType: prose
 ---
 
-> Tyto hodnoty zavržené kritikou a duchem systému  
+> _Tyto hodnoty zavržené kritikou a duchem systému  
 > nezapomněly na lekci, jíž se jim dostalo, a mohou dnes  
-> protivníka napadnout jeho vlastními zbraněmi.
+> protivníka napadnout jeho vlastními zbraněmi._
 
 ROGER CAILLOIS: MÝTUS A SPOLEČNOST
 

@@ -1,10 +1,11 @@
 ---
 title: Malý šrapnel, kroužící vesmírem
+contentType: prose
 ---
 
-> Ráno osvítil krvavý, kalný sluneční kotouč rozvaliny, hořící zahrady, zástupy lidí zmučených výstřednostmi, zešílevších, hromady mrtvol. Magacitlové se vrhli k létacím přístrojům, majícím tvar vejce, a začali opouštět Zemi. Odletěli do hvězdného prostoru, do vlasti abstraktního rozumu. Několik set přístrojů odletělo. Rozlehl se čtvrtý, ještě silnější zemní náraz. Od severu se zvedla z popelavé mlhy oceánská vlna a šla po Zemi, ničíc vše živé.
+> _Ráno osvítil krvavý, kalný sluneční kotouč rozvaliny, hořící zahrady, zástupy lidí zmučených výstřednostmi, zešílevších, hromady mrtvol. Magacitlové se vrhli k létacím přístrojům, majícím tvar vejce, a začali opouštět Zemi. Odletěli do hvězdného prostoru, do vlasti abstraktního rozumu. Několik set přístrojů odletělo. Rozlehl se čtvrtý, ještě silnější zemní náraz. Od severu se zvedla z popelavé mlhy oceánská vlna a šla po Zemi, ničíc vše živé._
 
-> Zvedla se bouře, blesky padaly na Zemi, na obydlí. Vyřinul se lijavec, létaly zbytky vulkanických kamenů. Pod ochranou zdí velikého města pokračovali Magacitlové z vrcholu stupňovité pyramidy, obložené zlatem, v odletu z dýmu a popelu do hvězdného prostoru oceánem padajících vod. Tři nárazy jeden po druhém rozbily zemi Atlantidy. Město Zlatých bran se ponořilo do kypících vln.
+> _Zvedla se bouře, blesky padaly na Zemi, na obydlí. Vyřinul se lijavec, létaly zbytky vulkanických kamenů. Pod ochranou zdí velikého města pokračovali Magacitlové z vrcholu stupňovité pyramidy, obložené zlatem, v odletu z dýmu a popelu do hvězdného prostoru oceánem padajících vod. Tři nárazy jeden po druhém rozbily zemi Atlantidy. Město Zlatých bran se ponořilo do kypících vln._
 
 ALEXEJ NIKOLAJEVIČ TOLSTOJ: ZEMĚ ZŮSTALA TAM
 

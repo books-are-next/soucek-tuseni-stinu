@@ -1,15 +1,16 @@
 ---
 title: Milióny cizích Zemí
+contentType: prose
 ---
 
-> Byla tma tmoucí – potvrdil starý Ofwfq – byl jsem ještě dítě, sotva se na to pamatuji. Byli jsme jako obvykle všichni pohromadě, tatínek, maminka, babička Bb‘b, nějací strýcové, kteří přišli na návštěvu, pan Hnw, ten, co se potom stal koněm, a my děti. Nikdo nevěděl, nač jsme vlastně čekali; toť se ví, babička Bb‘b se ještě pamatovala na časy; kdy byla hmota stejnoměrně rozptýlena v prostoru, kdy bylo teplo i světlo; přestože staří ve svém povídání obvykle přehánějí, musely ty staré časy být lepší, nebo alespoň jiné; a nám šlo o to, přežít nějak tuto obrovskou noc.
+> _Byla tma tmoucí – potvrdil starý Ofwfq – byl jsem ještě dítě, sotva se na to pamatuji. Byli jsme jako obvykle všichni pohromadě, tatínek, maminka, babička Bb‘b, nějací strýcové, kteří přišli na návštěvu, pan Hnw, ten, co se potom stal koněm, a my děti. Nikdo nevěděl, nač jsme vlastně čekali; toť se ví, babička Bb‘b se ještě pamatovala na časy; kdy byla hmota stejnoměrně rozptýlena v prostoru, kdy bylo teplo i světlo; přestože staří ve svém povídání obvykle přehánějí, musely ty staré časy být lepší, nebo alespoň jiné; a nám šlo o to, přežít nějak tuto obrovskou noc._
 
-> Že se něco mění, zpozoroval první můj otec.  
-> Podřimoval jsem a probudil mne jeho výkřik:
+> _Že se něco mění, zpozoroval první můj otec.  
+> Podřimoval jsem a probudil mne jeho výkřik:_
 
-> „Pozor! Tady se stačí!“
+> _„Pozor! Tady se stačí!“_
 
-> Hmota mlhoviny, dříve vždycky tekutá, začínala pod námi houstnout.
+> _Hmota mlhoviny, dříve vždycky tekutá, začínala pod námi houstnout._
 
 ITALO CALVINO: KOSMICKÉ GROTESKY
 

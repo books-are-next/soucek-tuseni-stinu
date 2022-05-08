@@ -1,5 +1,6 @@
 ---
 title: CIVILIZACE DELFÍNŮ
+contentType: prose
 ---
 
 Lépe je být ropuchou na skále, plazící se žížalou,  

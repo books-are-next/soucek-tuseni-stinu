@@ -1,8 +1,9 @@
 ---
 title: "Jedno z\_tajemství pyramid"
+contentType: prose
 ---
 
-> Čtvrtého měsíce rozpuku dne 23. se pracovalo.  
+> _Čtvrtého měsíce rozpuku dne 23. se pracovalo.  
 > Čtvrtého měsíce rozpuku dne 24. se pracovalo.  
 > Čtvrtého měsíce rozpuku dne 25. se pracovalo.  
 > Čtvrtého měsíce rozpuku dne 26. se pracovalo.  
@@ -10,7 +11,7 @@ title: "Jedno z\_tajemství pyramid"
 > Čtvrtého měsíce rozpuku dne 28. se pracovalo.  
 > Pátého měsíce rozpuku dne 29. byl Rahotep  
 > nemocen a Telmonte nebyl v práci,  
-> poprav se se svou ženou.
+> poprav se se svou ženou._
 
 ZÁPIS ZE STAVBY PYRAMIDY, PODLE V. J. ŽIŽKY
 

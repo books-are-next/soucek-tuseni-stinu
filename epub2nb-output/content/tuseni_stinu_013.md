@@ -1,11 +1,12 @@
 ---
 title: Dávné Hirošimy
+contentType: prose
 ---
 
-> Všichni souhlasíme, že vaše teorie je šílená.  
+> _Všichni souhlasíme, že vaše teorie je šílená.  
 > Rozcházíme se jen v tom, zda je dostatečně šílená, aby bylo  
 > pravděpodobné, že je pravdivá.  
-> Mám pocit, že tato teorie není dostatečně šílená.
+> Mám pocit, že tato teorie není dostatečně šílená._
 
 NIELS BOHR V DISKUSI K REFERÁTU W. PAULIHO
 

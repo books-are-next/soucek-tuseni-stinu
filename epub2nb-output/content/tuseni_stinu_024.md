@@ -1,9 +1,10 @@
 ---
 title: Vesmírný projektil
+contentType: prose
 ---
 
-> Raději budu věřit, že dva yankeeští profesoři lhou,  
-> než že kameny mohou padat z nebe.
+> _Raději budu věřit, že dva yankeeští profesoři lhou,  
+> než že kameny mohou padat z nebe._
 
 PREZIDENT USA THOMAS JEFFERSON (1743–1826), KDYŽ MU  
 BYLO OZNÁMENO SVĚDECTVÍ DVOU UNIVERZITNÍCH  

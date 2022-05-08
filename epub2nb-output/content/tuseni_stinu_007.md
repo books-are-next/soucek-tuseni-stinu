@@ -1,5 +1,6 @@
 ---
 title: INDICIE
+contentType: prose
 ---
 
 indicie (lat.) 1. obecně: znak, náznak, okolnost budící podezření;  

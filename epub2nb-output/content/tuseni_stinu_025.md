@@ -1,8 +1,9 @@
 ---
 title: "Výstražný příklad a\_jeden z\_možných příspěvků řešení = Mars"
+contentType: prose
 ---
 
-> V těchto věcech je třeba postupovat obezřele, neboť člověk se často zmýlí a dopouští se zejména dvou omylů: jedni popírají všecko neobyčejné a druzí překračují rozum a upadají do magie. Je tedy třeba vystříhat se těch početných knih, které obsahují verše, znamení, modlitby, zaklínadla a obětní formule, neboť to jsou knihy ryzí magie, a jiných, kterých je nekonečné množství a jež neobsahují ani sílu umění, ani sílu přírody, ale výmysly kouzelníků. Na druhé straně je však nutno uvážit, že mezi knihami pokládanými za magické jsou takové, které magické vůbec nejsou a obsahují tajemství mudrců… Jestliže někdo nalezne v těchto dílech nějaký postup přirozený nebo umělý, nechť si ho ponechá.
+> _V těchto věcech je třeba postupovat obezřele, neboť člověk se často zmýlí a dopouští se zejména dvou omylů: jedni popírají všecko neobyčejné a druzí překračují rozum a upadají do magie. Je tedy třeba vystříhat se těch početných knih, které obsahují verše, znamení, modlitby, zaklínadla a obětní formule, neboť to jsou knihy ryzí magie, a jiných, kterých je nekonečné množství a jež neobsahují ani sílu umění, ani sílu přírody, ale výmysly kouzelníků. Na druhé straně je však nutno uvážit, že mezi knihami pokládanými za magické jsou takové, které magické vůbec nejsou a obsahují tajemství mudrců… Jestliže někdo nalezne v těchto dílech nějaký postup přirozený nebo umělý, nechť si ho ponechá._
 
 ROGER BACON (1214–1294)
 

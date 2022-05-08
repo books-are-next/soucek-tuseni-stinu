@@ -1,5 +1,6 @@
 ---
 title: POČÍTÁME VZOREC NEPOZEMŠŤANA
+contentType: prose
 ---
 
 … Pan Krauskopf se naklonil k neznámému pánovi, smekl obřadně klobouk a pravil:

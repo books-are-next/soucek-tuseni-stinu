@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Tušení stínu
@@ -65,6 +66,7 @@ tocBase:
             title: Přece jen dalekohledy?
           - link: tuseni_stinu_013.html
             title: Dávné Hirošimy
+        listType: plain
       - link: tuseni_stinu_014.html
         title: OTŘESENÉ CIVILIZACE
         children:
@@ -76,6 +78,7 @@ tocBase:
             title: Další otazníky na letové lince
           - link: tuseni_stinu_018.html
             title: Kamenná posedlost
+        listType: plain
       - link: tuseni_stinu_019.html
         title: CIVILIZACE DELFÍNŮ
         children:
@@ -91,6 +94,7 @@ tocBase:
             title: Vesmírný projektil
           - link: tuseni_stinu_025.html
             title: Výstražný příklad a jeden z možných příspěvků řešení = Mars
+        listType: plain
       - link: tuseni_stinu_026.html
         title: POČÍTÁME VZOREC NEPOZEMŠŤANA
         children:
@@ -104,7 +108,9 @@ tocBase:
             title: Po stopách zelených mužíčků
           - link: tuseni_stinu_031.html
             title: Proč nepřicházejí?
+        listType: plain
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

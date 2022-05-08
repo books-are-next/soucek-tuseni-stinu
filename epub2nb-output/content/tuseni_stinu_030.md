@@ -1,8 +1,9 @@
 ---
 title: Po stopách zelených mužíčků
+contentType: prose
 ---
 
-> Historie lidstva je nepřetržitým bojem světla proti tmě. Proto je nesmyslné přemýšlet o otázce, jaký užitek máme z vědění. Člověk chce znát, a jestliže toto přání ztratí, přestává být člověkem.
+> _Historie lidstva je nepřetržitým bojem světla proti tmě. Proto je nesmyslné přemýšlet o otázce, jaký užitek máme z vědění. Člověk chce znát, a jestliže toto přání ztratí, přestává být člověkem._
 
 FRIDTJOF NANSEN
 

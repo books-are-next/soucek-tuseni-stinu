@@ -1,18 +1,19 @@
 ---
 title: Kamenná posedlost
+contentType: prose
 ---
 
-> Nevíme, čím ve skutečnosti jsme, dokud nezpracujeme  
-> myšlením průběh činností.
+> _Nevíme, čím ve skutečnosti jsme, dokud nezpracujeme  
+> myšlením průběh činností._
 
 JOHN DEWEY, 1930
 
-> V potřebách shledáváme určitou hierarchii, od základních,  
+> _V potřebách shledáváme určitou hierarchii, od základních,  
 > společných bez výjimky všem lidem (ba i zvířatům), až po ty,  
 > které v určitých společenských uskupeních vyjádřeny být  
 > nemusí. To, co takto obecně platí pro společnost jako celek,  
 > platí obdobně i pro jedince. Každý člověk má svou stupnici  
-> hodnot, kterými přiřazuje jednotlivým potřebám jistou váhu.
+> hodnot, kterými přiřazuje jednotlivým potřebám jistou váhu._
 
 JIŘÍ ŠULC: ČLOVĚK NA POKRAJI SVÝCH SIL, 1971
 

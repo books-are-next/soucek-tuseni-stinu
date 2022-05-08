@@ -1,9 +1,10 @@
 ---
 title: Několik nepříjemných skutečností
+contentType: prose
 ---
 
-> Nelze prokázat větší službu pravdě  
-> než ji očistit od věcí falešných.
+> _Nelze prokázat větší službu pravdě  
+> než ji očistit od věcí falešných._
 
 ISAAC NEWTON
 

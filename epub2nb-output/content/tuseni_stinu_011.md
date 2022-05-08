@@ -1,9 +1,10 @@
 ---
 title: Zapomenuté lodě
+contentType: prose
 ---
 
-> Vyplujte!  
-> Plujte k severu pod Pásem Oriónu!
+> _Vyplujte!  
+> Plujte k severu pod Pásem Oriónu!_
 
 TAHITSKÁ SÁGA
 

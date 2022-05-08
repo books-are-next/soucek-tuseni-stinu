@@ -1,10 +1,11 @@
 ---
 title: Přece jen dalekohledy?
+contentType: prose
 ---
 
-> Vlastní fyzika se tehdy ještě nevymanila z prvních počátků,  
+> _Vlastní fyzika se tehdy ještě nevymanila z prvních počátků,  
 > vyjma optiku, jejíž výjimečné pokroky byly vyvolány  
-> praktickými potřebami astronomie.
+> praktickými potřebami astronomie._
 
 BEDŘICH ENGELS: DIALEKTIKA PŘÍRODY
 
