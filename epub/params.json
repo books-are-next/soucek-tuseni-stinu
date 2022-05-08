@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Tušení stínu",
@@ -25,7 +24,7 @@
       "brAfter": "MLP-dopis-bez1radku--I MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP-text-bez1radku--I ",
       "blockquote": "MLP-citat MLP-dopis--I MLP-venovani MLP-POPIS-OBR-BEZ MLP-text-uprostred ",
       "figure": "MLP-obrazky MLP-obrazky--12-0 ",
-      "em": "MLP-venovani MLP-znak-kurziva-11b\nMLP-znak-kurziva-9b ",
+      "em": "MLP-venovani\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-citat\n",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -36,8 +35,8 @@
         "xhtml": "tuseni_stinu_001.xhtml",
         "id": 0,
         "role": "cover",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -45,21 +44,22 @@
         "xhtml": "tuseni_stinu_004.xhtml",
         "id": 3,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "tuseni_stinu_002.md",
             "xhtml": "tuseni_stinu_002.xhtml",
             "id": 1,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -67,8 +67,8 @@
             "xhtml": "tuseni_stinu_003.xhtml",
             "id": 2,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -76,275 +76,275 @@
             "xhtml": "tuseni_stinu_005.xhtml",
             "id": 4,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
             "title": "Věnování",
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "tuseni_stinu_006.md",
             "xhtml": "tuseni_stinu_006.xhtml",
             "id": 5,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "ÚVODEM"
+            "title": "ÚVODEM",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "tuseni_stinu_007.md",
             "xhtml": "tuseni_stinu_007.xhtml",
             "id": 6,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
+            "title": "INDICIE",
+            "listType": "plain",
             "children": [
               {
                 "filename": "tuseni_stinu_008.md",
                 "xhtml": "tuseni_stinu_008.xhtml",
                 "id": 7,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Několik nepříjemných skutečností"
+                "title": "Několik nepříjemných skutečností",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_009.md",
                 "xhtml": "tuseni_stinu_009.xhtml",
                 "id": 8,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Zajímavé nálezy"
+                "title": "Zajímavé nálezy",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_010.md",
                 "xhtml": "tuseni_stinu_010.xhtml",
                 "id": 9,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Podivné mapy a neznámí kartografové"
+                "title": "Podivné mapy a neznámí kartografové",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_011.md",
                 "xhtml": "tuseni_stinu_011.xhtml",
                 "id": 10,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Zapomenuté lodě"
+                "title": "Zapomenuté lodě",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_012.md",
                 "xhtml": "tuseni_stinu_012.xhtml",
                 "id": 11,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Přece jen dalekohledy?"
+                "title": "Přece jen dalekohledy?",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_013.md",
                 "xhtml": "tuseni_stinu_013.xhtml",
                 "id": 12,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Dávné Hirošimy"
+                "title": "Dávné Hirošimy",
+                "listType": "plain",
+                "children": []
               }
-            ],
-            "title": "INDICIE"
+            ]
           },
           {
             "filename": "tuseni_stinu_014.md",
             "xhtml": "tuseni_stinu_014.xhtml",
             "id": 13,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
+            "title": "OTŘESENÉ CIVILIZACE",
+            "listType": "plain",
             "children": [
               {
                 "filename": "tuseni_stinu_015.md",
                 "xhtml": "tuseni_stinu_015.xhtml",
                 "id": 14,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Jedno z tajemství pyramid"
+                "title": "Jedno z tajemství pyramid",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_016.md",
                 "xhtml": "tuseni_stinu_016.xhtml",
                 "id": 15,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Strážci Velikonočního ostrova"
+                "title": "Strážci Velikonočního ostrova",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_017.md",
                 "xhtml": "tuseni_stinu_017.xhtml",
                 "id": 16,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Další otazníky na letové lince"
+                "title": "Další otazníky na letové lince",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_018.md",
                 "xhtml": "tuseni_stinu_018.xhtml",
                 "id": 17,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Kamenná posedlost"
+                "title": "Kamenná posedlost",
+                "listType": "plain",
+                "children": []
               }
-            ],
-            "title": "OTŘESENÉ CIVILIZACE"
+            ]
           },
           {
             "filename": "tuseni_stinu_019.md",
             "xhtml": "tuseni_stinu_019.xhtml",
             "id": 18,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
+            "title": "CIVILIZACE DELFÍNŮ",
+            "listType": "plain",
             "children": [
               {
                 "filename": "tuseni_stinu_020.md",
                 "xhtml": "tuseni_stinu_020.xhtml",
                 "id": 19,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Delfíni, mému srdci milí…"
+                "title": "Delfíni, mému srdci milí…",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_021.md",
                 "xhtml": "tuseni_stinu_021.xhtml",
                 "id": 20,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Před mnoha tisíci lety"
+                "title": "Před mnoha tisíci lety",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_022.md",
                 "xhtml": "tuseni_stinu_022.xhtml",
                 "id": 21,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Na hranicích rozumu"
+                "title": "Na hranicích rozumu",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_023.md",
                 "xhtml": "tuseni_stinu_023.xhtml",
                 "id": 22,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Malý šrapnel, kroužící vesmírem"
+                "title": "Malý šrapnel, kroužící vesmírem",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_024.md",
                 "xhtml": "tuseni_stinu_024.xhtml",
                 "id": 23,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Vesmírný projektil"
+                "title": "Vesmírný projektil",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_025.md",
                 "xhtml": "tuseni_stinu_025.xhtml",
                 "id": 24,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Výstražný příklad a jeden z možných příspěvků řešení = Mars"
+                "title": "Výstražný příklad a jeden z možných příspěvků řešení = Mars",
+                "listType": "plain",
+                "children": []
               }
-            ],
-            "title": "CIVILIZACE DELFÍNŮ"
+            ]
           },
           {
             "filename": "tuseni_stinu_026.md",
             "xhtml": "tuseni_stinu_026.xhtml",
             "id": 25,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
+            "title": "POČÍTÁME VZOREC NEPOZEMŠŤANA",
+            "listType": "plain",
             "children": [
               {
                 "filename": "tuseni_stinu_027.md",
                 "xhtml": "tuseni_stinu_027.xhtml",
                 "id": 26,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Milióny cizích Zemí"
+                "title": "Milióny cizích Zemí",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_028.md",
                 "xhtml": "tuseni_stinu_028.xhtml",
                 "id": 27,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Formy života ve vesmíru"
+                "title": "Formy života ve vesmíru",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_029.md",
                 "xhtml": "tuseni_stinu_029.xhtml",
                 "id": 28,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Jak tedy vykalkulovat nepozemšťana"
+                "title": "Jak tedy vykalkulovat nepozemšťana",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_030.md",
                 "xhtml": "tuseni_stinu_030.xhtml",
                 "id": 29,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Po stopách zelených mužíčků"
+                "title": "Po stopách zelených mužíčků",
+                "listType": "plain",
+                "children": []
               },
               {
                 "filename": "tuseni_stinu_031.md",
                 "xhtml": "tuseni_stinu_031.xhtml",
                 "id": 30,
                 "role": "chapter",
-                "numberedChildren": false,
                 "inToc": true,
-                "children": [],
-                "title": "Proč nepřicházejí?"
+                "title": "Proč nepřicházejí?",
+                "listType": "plain",
+                "children": []
               }
-            ],
-            "title": "POČÍTÁME VZOREC NEPOZEMŠŤANA"
+            ]
           }
         ]
       },
@@ -353,8 +353,8 @@
         "xhtml": "tuseni_stinu_032.xhtml",
         "id": 31,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       }
     ]
@@ -365,7 +365,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ludvík Souček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-23T16:11:39.049Z"
+      "modified": "2021-12-02T10:48:54.209Z"
     },
     "chapters": [
       {
@@ -423,7 +423,7 @@
         "xhtml": "tuseni_stinu_009.xhtml"
       },
       {
-        "titleSuggest": "Podivné mapy a neznámí kartografové",
+        "titleSuggest": "Podivné mapy a neznámí kartografové",
         "subtitleSuggest": "",
         "filename": "tuseni_stinu_010.md",
         "xhtml": "tuseni_stinu_010.xhtml"
@@ -453,7 +453,7 @@
         "xhtml": "tuseni_stinu_014.xhtml"
       },
       {
-        "titleSuggest": "Jedno z tajemství pyramid",
+        "titleSuggest": "Jedno z tajemství pyramid",
         "subtitleSuggest": "",
         "filename": "tuseni_stinu_015.md",
         "xhtml": "tuseni_stinu_015.xhtml"
@@ -513,7 +513,7 @@
         "xhtml": "tuseni_stinu_024.xhtml"
       },
       {
-        "titleSuggest": "Výstražný příklad a jeden z možných příspěvků řešení = Mars",
+        "titleSuggest": "Výstražný příklad a jeden z možných příspěvků řešení = Mars",
         "subtitleSuggest": "",
         "filename": "tuseni_stinu_025.md",
         "xhtml": "tuseni_stinu_025.xhtml"
@@ -949,7 +949,6 @@
       "user": "books-are-next",
       "repo": "soucek-tuseni-stinu"
     },
-    "generatedAt": 1637683900203
+    "generatedAt": 1638442135564
   }
 }
-
