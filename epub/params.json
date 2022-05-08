@@ -1,12 +1,13 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Tušení stínu",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ludvík Souček",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-23T15:29:42.603Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie"
     },
@@ -99,7 +100,7 @@
             "role": "chapter",
             "inToc": true,
             "title": "INDICIE",
-            "listType": "plain",
+            "listType": "bulleted",
             "children": [
               {
                 "filename": "tuseni_stinu_008.md",
@@ -170,7 +171,7 @@
             "role": "chapter",
             "inToc": true,
             "title": "OTŘESENÉ CIVILIZACE",
-            "listType": "plain",
+            "listType": "bulleted",
             "children": [
               {
                 "filename": "tuseni_stinu_015.md",
@@ -221,7 +222,7 @@
             "role": "chapter",
             "inToc": true,
             "title": "CIVILIZACE DELFÍNŮ",
-            "listType": "plain",
+            "listType": "bulleted",
             "children": [
               {
                 "filename": "tuseni_stinu_020.md",
@@ -292,7 +293,7 @@
             "role": "chapter",
             "inToc": true,
             "title": "POČÍTÁME VZOREC NEPOZEMŠŤANA",
-            "listType": "plain",
+            "listType": "bulleted",
             "children": [
               {
                 "filename": "tuseni_stinu_027.md",
@@ -357,7 +358,8 @@
         "listType": "plain",
         "children": []
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -365,7 +367,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ludvík Souček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T10:48:54.209Z"
+      "modified": "2019-12-17T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -949,6 +951,6 @@
       "user": "books-are-next",
       "repo": "soucek-tuseni-stinu"
     },
-    "generatedAt": 1638442135564
+    "generatedAt": 1652021537814
   }
 }
