@@ -1,10 +1,11 @@
 ---
 title: Formy života ve vesmíru
+contentType: prose
 ---
 
-> Nejzajímavější vlastností života je, že dovede pro sebe využít jak dějů čistě atomárních, tak i dějů makroskopických.
+> _Nejzajímavější vlastností života je, že dovede pro sebe využít jak dějů čistě atomárních, tak i dějů makroskopických._
 
-> V tom je jeho úspěch.
+> _V tom je jeho úspěch._
 
 FERDINAND HERČÍK: OD ATOMU K ŽIVOTU, 1946
 

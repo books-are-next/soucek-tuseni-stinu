@@ -1,13 +1,14 @@
 ---
 title: Další otazníky na letové lince
+contentType: prose
 ---
 
-> Toho, jenž hlubiny zřel až k hranici země,  
+> _Toho, jenž hlubiny zřel až k hranici země,  
 > jenž poznal všechna moře, opěvat chci.  
 > Vše viděl a prozkoumal rovnou měrou,  
 > byl nadán moudrostí a znalostí všech věcí.  
 > On tajemství zřel, odhalil skryté  
-> a zvěst přinesl o tom, co před potopou bylo.
+> a zvěst přinesl o tom, co před potopou bylo._
 
 POČÁTEK EPOSU O GILGAMEŠOVI, ASYRSKÁ VERZE
 

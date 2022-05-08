@@ -1,11 +1,12 @@
 ---
 title: Na hranicích rozumu
+contentType: prose
 ---
 
-> Jsou lidé, jejichž obrazivost a síla myšlenek je velmi silná  
+> _Jsou lidé, jejichž obrazivost a síla myšlenek je velmi silná  
 > a mohou nabýti takové moci, že se mohou duším jiných lidí  
 > ohlašovat a je poučit o svých myšlenkách a přáních na velké  
-> vzdálenosti.
+> vzdálenosti._
 
 AGRIPPA Z NETTESHEIMU, 1531
 

@@ -1,20 +1,21 @@
 ---
 title: Strážci Velikonočního ostrova
+contentType: prose
 ---
 
-> Velikonoční ostrov je nejosamělejší lidské sídliště na světě.  
+> _Velikonoční ostrov je nejosamělejší lidské sídliště na světě.  
 > Nejbližší pevné body, které jeho obyvatelé mohou vidět,  
 > jsou na obloze: Měsíc a hvězdy.  
 > Musili by cestovat dále než kterýkoli jiný kmen na světě, aby  
 > se přesvědčili, že existuje skutečně i jiná pevnina než Měsíc  
 > a hvězdy a že jim leží blíž. Proto žijí tak blízko hvězdám  
-> a znají jich větší počet než měst a zemí v našem světě.
+> a znají jich větší počet než měst a zemí v našem světě._
 
 THOR HEYERDAHL: AKU-AKU
 
-> Ať tomu někdo věří nebo nevěří, Velikonoční ostrov napadly  
+> _Ať tomu někdo věří nebo nevěří, Velikonoční ostrov napadly  
 > síly, které tušíme, které cítíme, natolik jsou dnes přítomné  
-> a silné na tomto kousku země, kterou poznamenal oheň.
+> a silné na tomto kousku země, kterou poznamenal oheň._
 
 FRANCIS MAZIÈRE
 

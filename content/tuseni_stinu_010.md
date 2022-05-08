@@ -1,14 +1,15 @@
 ---
 title: "Podivné mapy a\_neznámí kartografové"
+contentType: prose
 ---
 
-> Již mnoho set let před naším letopočtem byl člověk nucen  
+> _Již mnoho set let před naším letopočtem byl člověk nucen  
 > konat na zemském povrchu různá měření a výsledky  
 > znázorňovat kresbou.  
 > I starověcí kulturní národové – Egypťané, Babylóňané,  
 > Féničané a potom Řekové a Římané – zkoumali povrch  
 > nejen svých, ale i jiných zemí a zhotovovali kresby, které byly  
-> pravzorem dnešních plánů a map.
+> pravzorem dnešních plánů a map._
 
 PROF. DR. G. N. LIOTD
 

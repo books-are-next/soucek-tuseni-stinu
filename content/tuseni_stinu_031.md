@@ -1,12 +1,13 @@
 ---
 title: Proč nepřicházejí?
+contentType: prose
 ---
 
-> Nepořádky začínají hned kousek od prahu. Asteroidy, jejichž dráhy probíhají mezi Zemí a Marsem, jsou v zuboženém stavu. Ty monumentální hory skal kdysi tonuly ve věčné tmě. Dnes jsou elektricky osvětlené, a nadto je znešvařují iniciály a monogramy namáhavě vytesané ve skále. Planetka Eros, oblíbená hlavně flirtujícími párky, se zachvívá pod ranami nejrůznějších, podomácku školených krasopisců, kteří vytloukají památeční nápisy do skalnatého povrchu.
+> _Nepořádky začínají hned kousek od prahu. Asteroidy, jejichž dráhy probíhají mezi Zemí a Marsem, jsou v zuboženém stavu. Ty monumentální hory skal kdysi tonuly ve věčné tmě. Dnes jsou elektricky osvětlené, a nadto je znešvařují iniciály a monogramy namáhavě vytesané ve skále. Planetka Eros, oblíbená hlavně flirtujícími párky, se zachvívá pod ranami nejrůznějších, podomácku školených krasopisců, kteří vytloukají památeční nápisy do skalnatého povrchu._
 
-> Našlo se také několik prohnaných kazisvětů, kteří si tu zřídili půjčovnu kladiv, dlát, a dokonce i pneumatických vrtaček, takže člověk stěží najde i v nejzapadlejší končině nějakou nedotčenou skálu.
+> _Našlo se také několik prohnaných kazisvětů, kteří si tu zřídili půjčovnu kladiv, dlát, a dokonce i pneumatických vrtaček, takže člověk stěží najde i v nejzapadlejší končině nějakou nedotčenou skálu._
 
-> Všude straší nápisy jako „Ať dosvědčí asteroid, že chci pro tvou lásku žít“ nebo „Zde pod touto skálou v skrytu milovali jsme se na meteoritu“, pomalované nevkusnými kresbami srdcí, probodených šípem… Za Síriem jsem se pokoušel počítat ohromné reklamní tabule rozvěšené v mezihvězdném prostoru, které pobízely k pití maďarské hořké, galaktušky, staroměsíční a sputnika wyborowego…
+> _Všude straší nápisy jako „Ať dosvědčí asteroid, že chci pro tvou lásku žít“ nebo „Zde pod touto skálou v skrytu milovali jsme se na meteoritu“, pomalované nevkusnými kresbami srdcí, probodených šípem… Za Síriem jsem se pokoušel počítat ohromné reklamní tabule rozvěšené v mezihvězdném prostoru, které pobízely k pití maďarské hořké, galaktušky, staroměsíční a sputnika wyborowego…_
 
 STANISŁAW LEM: ZACHRAŇME VESMÍR
 

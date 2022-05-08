@@ -1,8 +1,9 @@
 ---
 title: Delfíni, mému srdci milí…
+contentType: prose
 ---
 
-> … Ulož jim zvlášť jednoduchý test, který by dokázala  
+> _… Ulož jim zvlášť jednoduchý test, který by dokázala  
 > nejnepatrnější potrhlá bílá myš, a oni ho dokonale zvržou –  
 > ale neklasickým způsobem. Měli jsme jeden takový test: tři  
 > různé cesty vedly od Skvančovy klece směrem ke druhé kleci,  
@@ -11,7 +12,7 @@ title: Delfíni, mému srdci milí…
 > něj foukne proud chlóru, jakmile se tudy pokusí projít…  
 > Hned podruhé se dal správnou cestou; a pak už to znovu  
 > neopakoval a nevyzkoušel cesty zamořené chlórem. Neudělal  
-> nic… jednoduše si sedl.
+> nic… jednoduše si sedl._
 
 FRANK M. ROBINSON: LABYRINT
 

@@ -1,11 +1,12 @@
 ---
 title: Před mnoha tisíci lety
+contentType: prose
 ---
 
-> Za onoho dne, onoho dávného dne,  
+> _Za onoho dne, onoho dávného dne,  
 > za oné noci, oné vzdálené noci,  
 > onoho roku, onoho dávného roku,  
-> kdy vše potřebné s nádherou vzešlo…
+> kdy vše potřebné s nádherou vzešlo…_
 
 SUMERSKÁ EPICKÁ BÁSEŇ
 

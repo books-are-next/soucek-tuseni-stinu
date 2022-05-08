@@ -1,8 +1,9 @@
 ---
 title: Jak tedy vykalkulovat nepozemšťana
+contentType: prose
 ---
 
-> Na Sirkomě byli sice nepříjemní vojenští velitelé, ale zato tu měli výborná jablka, což se nedalo říci o mnoha jiných planetách. Tam často obojí nestálo zanic.
+> _Na Sirkomě byli sice nepříjemní vojenští velitelé, ale zato tu měli výborná jablka, což se nedalo říci o mnoha jiných planetách. Tam často obojí nestálo zanic._
 
 JEAN HOUGRON, ZNAMENÍ PSA
 
