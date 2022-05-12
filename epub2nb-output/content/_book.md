@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - tuseni_stinu_002.html
+  - promo.html
   - tuseni_stinu_003.html
   - tuseni_stinu_005.html
   - tuseni_stinu_006.html

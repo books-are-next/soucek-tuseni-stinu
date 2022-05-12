@@ -58,7 +58,7 @@
             "filename": "tuseni_stinu_002.md",
             "xhtml": "tuseni_stinu_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -950,6 +950,6 @@
       "user": "books-are-next",
       "repo": "soucek-tuseni-stinu"
     },
-    "generatedAt": 1652021915312
+    "generatedAt": 1652351682880
   }
 }
