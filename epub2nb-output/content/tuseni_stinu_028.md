@@ -11,19 +11,23 @@ FERDINAND HERČÍK: OD ATOMU K ŽIVOTU, 1946
 
 V předchozí kapitole jsme se přesvědčili, že podle slušně doložených a logických předpokladů soudobé astronomie a zejména kosmogonie máme plné právo předpokládat, že ve vesmíru, dosažitelném našemu pozorování a zkoumání optickými nebo radioastronomickými přístroji, je značný počet planetárních systémů, připouštějících vznik života za podmínek podobných pozemským. Pokusme teď stejně střízlivými a opět co nejlépe dokumentovanými pracovními domněnkami dospět alespoň k rámcové představě, jaké formy by tento mimozemský život mohl mít.
 
-  
-
 Celá řada astronomů a tzv. exobiologů různých původních profesí překonává autory science fiction v míře fantazie, s jakou líčí možnosti a tvary mimozemského života, ačkoli k tomu patrně nejsou důvody. Naše Země je obrovskou laboratoří, poskytující nejrůznější prostředí od horkých pramenů až k ledovým vrcholům velehor, od bezvodých pouští až k hlubinám oceánských příkopů. Vytvořila se zde neuvěřitelně pestrá paleta životních forem, z nichž některé nám k našemu údivu ukázal teprve stereoskan, mikroskop, otevírající brány k fantastickému světu hmyzu a prvoků, tak jak skutečně vypadají.
 
 Není důvod domnívat se, že by chemicky přesně určený nerost krystaloval na planetě vzdáleného slunce v jiné soustavě než na Zemi – odporují tomu fyzikální zákony. Právě tak není důvodu domnívat se, že zkušenosti získané v „laboratoři Země“ nelze zobecňovat pro celý kosmos – ovšem s jistou dávkou opatrnosti.
+
+  
 
 ![57.jpg](./resources/57_fmt.jpeg)
 
 > Snímek jednoho z nově objevených a tvarově svrchovaně neobvyklých půdních mikroorganismů, pořízený D. I. Nikitinem
 
+  
+
 ![59.jpg](./resources/59_fmt.jpeg)
 
 > Pro srovnání obvyklé a známé tvary půdních mikroorganismů (A) a některé nové formy objevené D. J. Nikitinem a dalšími (B)
+
+  
 
 ![58.jpg](./resources/58_fmt.jpeg)
 
@@ -39,9 +43,13 @@ Především je nápadné, že průměrný počet atomů daného prvku v jednot
 
 Kromě tohoto poklesu s geometrickou řadou pozorujeme i odchylky, z nichž dvě první se netýkají pouze vzniku atomových jader, ale i obecných úvah o skladbě života:
 
+  
+
 1\. „Železný vrchol“ – tj. výrazné maximum pro atomové hmoty 53–63.
 
 2\. Minimum v oblasti lehkých prvků – daleko rychlejší pokles relativního zastoupení prvků za héliem, než by odpovídalo poklesu s geometrickou řadou. Přímce, odpovídající exponenciální funkci, se čára přibližuje po výrazném zlomu v oblasti uhlíku. Proto jsou uhlík, dusík a kyslík daleko hojněji zastoupeny než lithium, berylium a bór, navzdory nižším atomovým číslům těchto prvků.
+
+  
 
 Vyškrtněme z našeho přehledu zcela nebiogenní hélium, vznikající v obrovském množství při proton-protonové reakci hvězd prvé generace, jež z této reakce čerpaly energii. Také dnes září hvězdy třetí generace, jejichž matečná látka byla již obohacena těžkými prvky, díky přeměně vodíku v hélium tzv. uhlíko-vodíkovým cyklem.
 
@@ -57,6 +65,8 @@ Chemické vlastnosti základních, plastických biogenních prvků jsou zárove�
 
 Pro život závažnými charakteristikami uhlíku jsou:
 
+  
+
 a) jeho malá reaktivita, bránící prudkým reakcím,
 
 b) je schopen slučovat se se všemi biogenními prvky,
@@ -71,6 +81,8 @@ f) mnohé sloučeniny uhlíku uvolňují při štěpení dostatek energie, aby b
 
 g) asymetrické uspořádání uhlíkových atomů v molekule podmiňuje její optickou aktivitu, jež se zdá být jednou z podmínek života, soudě podle svrchovaně vzácného výskytu symetrických sloučenin a látek opticky neaktivních v bioplazmě.
 
+  
+
 V celé soustavě prvků je jen jediný prvek, který by mohl v základním modelu živé hmoty, nám známém (to je třeba mít stále na paměti) ze života pozemského, uhlík zastoupit: křemík. Tento prvek je obsažen především v tuhých obalech některých prvoků a řas, v podpůrných tkáních rostlin, v živočišných tělech v málo aktivních orgánech. Jako biogenní prvek se tedy v „pozemském modelu“ života nijak zvlášť neuplatnil, a to ani jako prvek katalytický. Jeho chemické vlastnosti však stále znovu poutají pozornost exobiologů, snažících se přírodě navrhnout svůj vlastní model života, odlišný od života pozemského.
 
 Vycházejíce z obecného asimilačního plánu, jenž je pro všechny pozemské organismy víceméně shodný, navrhují nahradit ve svém modelu uhlík křemíkem, prvkem uhlíku nejpodobnějším, jehož sloučeniny jsou ještě ke všemu – což tito exobiologové neopomenou zdůraznit – chemicky i fyzikálně odolnější než analogické sloučeniny uhlíku. Většinou ovšem opomenou dodat, že tato odolnost je vykoupena nedostatkem vlastností, vypočítaných uhlíku; především neporovnatelně menším množstvím možností, jež spojování křemíkových atomů dovoluje, horšími předpoklady energeticky výhodných štěpných reakcí atd. – to vše bez základní výhody: zbavení se nutnosti koloidního stavu protoplazmy. Tu by takový křemíkový život dosahoval jen v mezní, teoreticky velmi obtížně konstruované skladbě, jejíž stabilita vůči zevním vlivům, zejména termickým, by byla ještě ke všemu patrně daleko nižší než „obyčejného“ života uhlíkového. Zastánci křemíkového života přehlížejí nebo nepovažují za důležité, že se křemík zřejmě neosvědčil jako plastický biogenní prvek pozemského života, což je tím nápadnější, že jeho množství v živých tkáních (v lidském těle např. tvoří křemík toliko 0,0008 % váhy oproti 20,2 % váhy uhlíku) je v příkrém a ze všech biogenních prvků nejnápadnějším nepoměru k obsahu křemíku v zemské kůře – celkem asi 26 % převážně vázaného na SiO2, tvořící 60 % zemského povrchu. Lze tedy předpokládat, že „křemíkový život“ není, ať už geneticky nebo skladebně, pro pozemské a jim podobné podmínky vhodný a že by se mohl uplatňovat nejvýše v podmínkách svým historickým vývojem a současným stavem od podmínek pozemských podstatně odlišných. Rozhodně je nutné odkázat do říše bájí a na stránky science fiction „křemenné bytosti“, podobné pozemským živočichům, nebo dokonce lidem, tedy v makrostruktuře determinovaným týmiž nebo velmi podobnými podmínkami, jako život nám známý, v mikrostruktuře však naprosto odlišným, se zcela odlišným mechanismem dědičnosti, nevázaným kódem složité struktury, představované v každé buňce nám známých forem života obou říší, živočišné i rostlinné, vlákny kyseliny desoxyribonukleové. Tato vlákna, dlouhá v každé lidské buňce asi 50 cm (!) a svou celkovou délkou u jediného člověka tedy spojující šestsetkrát Slunce se Zemí, uchovávají v každé ze šedesáti bilionů lidských tělových buněk zprávy, jež by v binárním systému (podle odhadu dr. Beadlese) zaplnily tisíc svazků slovníkového formátu. Neméně důležitou vlastností DNK je schopnost rozdělit se podélně dosti složitým procesem ve dvě zcela identické molekuly a předat tak bez zkreslení všechny dědičné informace. Fytopaleontologové se domnívají, že takto podmíněné dělení buněk, mitóza, je staré jako buněčný život sám, ba ještě starší, spadající do éry tzv. euka­riontů, předchůdců dnešních řas, z nichž nejstarší byly objeveny roku 1966 v kalifornském Údolí smrti. Již tyto organismy, staré nejméně miliardu let, byly schopné fotosyntetizovat látky, nezbytné k prvotnímu životu, a odštěpovat z vody kyslík pro vyšší vícebuněčné organismy. Žádné sloučeniny křemíku, schopné zajistit tyto funkce, nebyly dosud zjištěny a nelze je ani teoreticky předpokládat.
@@ -81,9 +93,9 @@ Přesto, že tento problém souvisí s tématem naší knihy jen okrajově, ale
 
 V tomto „bujónu“ se bezpochyby rozvinul život až k formám, podle Ljapunova „kódovaným stavem molekul DNK“ – neboť jinou formu života, jiný model, jiný typ přenosu dědičnosti jsme neobjevili a asi neobjevíme ani v budoucnu. Mohlo k tomu dojít dvěma způsoby: náhodnou shodou okolností, nebo, jak tvrdí marxističtí přírodovědci, v rámci zákonitého zdokonalování a zjemňování materiálního pohybu hmoty až k nejvyšší formě, k životu.
 
-Laboratorní syntéza DNK a RNK (ribonukleové kyseliny, zastávající v buňce jakousi úlohu „pošty“ mezi jadernými strukturami a výkonnými buněčnými organuly, uloženými mimo jádro v cytoplazmě) se zdařila, ovšem v podmínkách, které sotva můžeme v praoceánech očekávat, ačkoli ani to není zcela nemožné vzhledem k obdobím prudkého zvýšení intenzity kosmických paprsků, výbuchům blízkých supernov, výkyvům zemské geotermiky, sopečným výbuchům, záření radioaktivních zemských krbů nebo konečně zásahům tak efektivním, jaké až dosud (a ne se stejným výsledkem) můžeme experimentálně docílit jen nasazením nejmocnějších urychlovačů částic: roku 1963 zaregistrovalo mnoho počítačů kosmických částic a observatoří spršku kosmického záření, vyvolaného jedním jediným atomovým jádrem vodíku, jež k nám přiletělo z kosmu mimo Galaxii, urychleno energií devadesáti trilionů elektronvoltů, tedy miliardkrát větší, než jakou poskytují největší pozemské urychlovače částic…
-
   
+
+Laboratorní syntéza DNK a RNK (ribonukleové kyseliny, zastávající v buňce jakousi úlohu „pošty“ mezi jadernými strukturami a výkonnými buněčnými organuly, uloženými mimo jádro v cytoplazmě) se zdařila, ovšem v podmínkách, které sotva můžeme v praoceánech očekávat, ačkoli ani to není zcela nemožné vzhledem k obdobím prudkého zvýšení intenzity kosmických paprsků, výbuchům blízkých supernov, výkyvům zemské geotermiky, sopečným výbuchům, záření radioaktivních zemských krbů nebo konečně zásahům tak efektivním, jaké až dosud (a ne se stejným výsledkem) můžeme experimentálně docílit jen nasazením nejmocnějších urychlovačů částic: roku 1963 zaregistrovalo mnoho počítačů kosmických částic a observatoří spršku kosmického záření, vyvolaného jedním jediným atomovým jádrem vodíku, jež k nám přiletělo z kosmu mimo Galaxii, urychleno energií devadesáti trilionů elektronvoltů, tedy miliardkrát větší, než jakou poskytují největší pozemské urychlovače částic…
 
 I když předpokládáme nejen obecnou existenci, ale i místní přítomnost potřebných bází, skládajících aminokyseliny, je náhodný vznik „životaschopného života“, tedy života, vybaveného smysluplnou informací, zakódovanou v řetězci DNK, náhodou opravdu výjimečnou, pokud uvažujeme o životě, analogickém jevům, které jako život označujeme.
 
@@ -94,8 +106,6 @@ Každý z těchto genů je zakódován asi 1000 „slovy“ – aminokyselinam
 > 46 × 105
 
 možností. Pravděpodobnost, že vznikne taková kombinace, jejíž bezchybnost a dokonalost je podmínkou smysluplné informace, a tím i života, lze tedy vyjádřit poměrem 1 : 4 – za níž následuje milión nul. Takřka nekonečně malá pravděpodobnost samovolného vzniku prostou náhodnou kombinací a rekombinací vynikne, uvědomíme-li si, že od vzniku života na Zemi uběhl počet vteřin, vyjádřitelný číslem s pouhými 13 nulami. Máme však právo domnívat se, že doba, jež uběhla od vytvoření pozemských podmínek snesitelných životu do objevení se prvních primitivních organismů, byla podstatně kratší, ba až neuvěřitelně krátká.
-
-  
 
 Ostatně, abychom zůstali u příměru použitého na jiném místě: ani samovolné vytvoření potřebných enzymů nezajistilo prvotnímu organismu život – nebyly by totiž schopny reprodukce, a velice brzy, v několika minutách, by došlo k vyrovnání energetických hladin, k smrti buňky. Rovněž sama náhodně vytvořená pentle DNK (což je ještě nepravděpodobnější) by byla bezcenná bez substancí, na nichž by mohla rozvíjet svou činnost. Analogicky: i když připustíme náhodný vznik auta protřepáváním kontejneru naplněného nejrozmanitějšími součástkami, nebude toto auto schopno provozu bez silnic, benzínových rafinérií a pump, gumáren, vyrábějících pneumatiky, atd.
 

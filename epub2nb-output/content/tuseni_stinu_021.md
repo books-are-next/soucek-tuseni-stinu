@@ -12,8 +12,6 @@ SUMERSKÁ EPICKÁ BÁSEŇ
 
 Uvedli jsme v předmluvě, že rozptylování stínů nad dávnou minulostí lidstva je takřka neřešitelným úkolem. Jednou z nejobtížnějších částí tohoto úkolu je rekonstrukce hledané hypotetické civilizace.
 
-  
-
 Nelze použít metody, podle níž roku 1876 entomolog Paul Mayer sestavil hypoteticky nejprimitivnějšího předka všeho hmyzu, Protentomona, totiž sestupu k nejprimitivnějším typům a k embryonálně zakládaným tvarům. Nevíme, zda Protentomon kdy žil, právě tak jako nevíme, zda naše hledání ztracené „civilizace delfínů“ není předem odsouzeno k fiasku, ale žil-li, pravděpodobně se opravdu podobal málo elegantnímu červovitému stvoření Paula Mayera. Veškerá biologická zkušenost to potvrzuje a zároveň umožňuje i tak dalekosáhlé extrapolace se slušnou dávkou pravděpodobnosti. Ne tak zkušenost historická a etnologická. Dávné populace nemusely být (a obvykle nebyly) primitivními v konvenčním smyslu tohoto slova, stejně jako nejsou „primitivní“ příslušníci současných přírodních národů. Jsou jen jiní než my. Jejich mentalita, jejich způsob myšlení jsou daleko spíše esoterické (jak správně poznamenává francouzský archeolog Francis Mazière) než primitivní. Zaměňujíce úroveň technické civilizace a stupeň nadšení, s jakou je přijímána, s obecnou úrovní a s poměrem k životu, dopouštíme se zjednodušení stejně jako fotbalový fanoušek, který každého, kdo niterně neprožívá skutečnost, že dvaadvacet mužů kope do míče, a nezná tyto hrdiny jménem, považuje za debila, neschopného jakéhokoli společenského styku.
 
 Tyto předsudky je třeba přemoci dříve, nežli se pustíme do obecných úvah o možné struktuře a charakteru společnosti hledané civilizace, abychom se vyhnuli omylům. Nevyhnuli se jim mnozí badatelé (a především mnozí neodborníci, ohromení faktografickým materiálem, badateli shromážděným), stojící bezradně nad ne­uvěřitelnými znalostmi přírodních národů, včetně nejzaostalejších. Pygmejští negritové Pinatubo přesně klasifikují 15 druhů netopýrů a 20 druhů mravenců, botanické slovníky nejzaostalejších kmenů mají obvykle kolem 2000, ale i více přesně odlišených výrazů, spojených s botanickými druhy i jejich varietami, a to dokonce jemněji než naše botanika – příkladem jsou např. Hanunóové z filipínského ostrova Mindoro, rozlišující (Conklin): „… svůj lokální botanický svět v nejnižší rovině kontrastního členění na více než 1800 taxa, jež se podle lidového vědění vzájemně vylučují, kdežto botanikové rozdělují touž flóru – podle druhů – na necelých 1300 taxa, definovaných z hlediska vědeckého…“
@@ -27,6 +25,8 @@ Tlak nezbytnosti ovšem nepopíráme, ani význam praxe. V některých případ
 Tato jasná souvislost taxonomické teorie a praxe v celé šíři je však ojedinělou výjimkou. Již dosti dávno bylo zjištěno, že naprostá většina přesně pojmenovaných exemplářů nemá pro místní obyvatele nejen žádný bezprostředně praktický význam, jako jídlo, zdroj léků či jedů apod., ale je i kultovně zcela lhostejná. Rozlišování jednotlivých druhů mravenců a netopýrů, pojmenováni mnoha desítek hvězd, jemné rozlišování odrůd stromů a keřů, jejichž dřevo ani plody nejsou zužitkovány, je pro indiána kmene Hopi, Křováka či negrita prakticky stejně bezcenné jako pro evropského bankovního úředníka. S tím rozdílem, že tento bankovní úředník (přes hlasité zdůrazňování opaku) mívá dosti času sednout si na bobek nad mraveniště nebo zírat ke hvězdám a ukojit svou zvědavost, zatímco přírodní národy sváděly a někde dosud svádějí každou hodinu a každou minutu závod s hladem a mnoho času jim nezbývá.
 
 Musíme rovněž opustit velice pohodlný systém domněnek o ná­hodném původu nejvýznamnějších objevů a vynálezů lidské prehistorie. Náhoda tohoto druhu je (aniž zdůrazňujeme nevelký počet tehdejší lidské populace, nedovolující statistické operace s velkými čísly) téměř stejně nepravděpodobná jako náhodný vznik benzínové pumpy. Po dlouhé řadě let, kdy byla vědci i školními učebnicemi přejímána tvrzení, posvěcená neustálým opakováním, provedlo několik všetečků pokusy. Výsledek byl katastrofální. Bylo zjištěno, že když se do ohniště dostane několik kusů měděné nebo jakékoli jiné rudy, nestane se vůbec nic, a už vůbec není vytaven kov. Nejjednodušší způsob, jak získat roztavenou měď, je tavení jemně zpráškovaného malachitu v dobře uzavřené hliněné nádobě. Získání železa je ještě daleko obtížnější a složitější. Stejně absurdní je domněnka o náhodnosti bleskurychlé aklimatizace kulturních rostlin ve zcela nových podmínkách, o „náhodnosti“ domestikace zvířat, o počátcích keramiky (doporučuji vlastní experiment, jak složité je nalezení vhodného jílu, prostředku k jeho odtučnění, nejvhodnějšího paliva, teploty a doby vypalování, stupně oxidace, atd. atd., aby vznikla třeba nejhrubší nádoba, podněcující k další činnosti), dokonce i o náhodnosti vzniku jemných neolitických technik tak dokonalého zpracování kamene, že se dnes vymyká našim možnostem, a to nejen v megalitických stavbách, ale i např. napodobením mayských rituálních pazourkových čepelí.
+
+  
 
 ![47.jpg](./resources/47_fmt.jpeg)
 
@@ -48,6 +48,8 @@ Využívám této příležitosti, abych se co nejstručněji a velmi zjednodu�
 
 Soudobá genetika předkládá důvěryhodné argumenty tvrzení, že hybnými pákami variability živočichů i rostlin a tím jejich druhového vývoje jsou:
 
+  
+
 1\. mutace,
 
 2\. rekombinace genů,
@@ -57,6 +59,8 @@ Soudobá genetika předkládá důvěryhodné argumenty tvrzení, že hybnými p
 4\. přirozený výběr,
 
 5\. reproduktivní izolace.
+
+  
 
 Mutace nehraje v této sestavě hlavní, řídící, ba ani podstatnou úlohu – mimo jiné proto, že se přibližně pouhá tisícina mutací ukáže v důsledcích progresivní a výhodnou, a to pouze ve spolupráci a za spoluúčasti ostatních jmenovaných faktorů. Daleko větší vliv na dědičné změny mají, jak se zdá, zevní vlivy, umožňující uplatnění optimálním kombinacím tzv. genového fondu a genetické rekombinace.
 

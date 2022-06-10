@@ -13,8 +13,6 @@ STANISŁAW LEM: ZACHRAŇME VESMÍR
 
 Povídka, jejíž úryvek jste si právě přečetli, je ovšem kosmickou groteskou, ale i smrtelně vážně míněné vesmírné science fictions jsou celkem jednotný v názoru, že v době několika set či tisíců, v nejhorším případě desítek tisíců let (což znamená v porovnání s vývojem vesmíru a Země pouhý okamžik) bude blízký i vzdálený vesmír čile frekventován kosmickými koráby pozemšťanů.
 
-  
-
 Vzhledem ke zmíněné bezvýznamnosti doby, hodnocené lidskými měřítky, je s podivem, že se některá z vyspělejších nepozemských civilizací, o jejichž pravděpodobné mnohosti jsme se snažili snést co nejstřízlivější argumenty, neobjevila, nenavštívila zjevně a okázale Zemi a neučinila definitivně zbytečnými nekonečné úvahy o postavení lidstva v kosmu.
 
 Vždyť např. nelze vyloučit, že za šťastnějších okolností mohly i na naší Zemi inteligentní bytosti, vzešlé z vývoje velmi perspektivních permských krytolebců, vypustit kosmické koráby již před 100 milióny lety, ztracenými – smíme-li to tak formulovat – nepodařeným experimentem matičky přírody s praještěry, jehož výsledky jsou dnes více než skromné. Zabránila tomu zřejmě jakási planetární kalamita, jež mohla, ale snad také nemusela nastat. A kdo z nás si dovede představit stav techniky za 100 miliónů let? Můj otec byl pamětníkem prvního auta, prvního letadla, prvního rozhlasového přijímače, počátků televize, prvního filmu, prvního atomového výbuchu, prvních družic a prvního přistání člověka na Měsíci. To vše se vtěsnalo do života jedné jediné generace…
@@ -134,8 +132,6 @@ Shrňme tedy konečně soubor tušení stínu, k němuž jsme dospěli:
 10\. Tyto bytosti navštívily v minulosti, jak se zdá, nejednou naši Zemi. Klíč k některým faktům, které jsme nazvali indiciemi, je třeba hledat ve vzájemné souvislosti těchto návštěv a dávných, většinou ztracených civilizací (kulturních okruhů), vyvíjejících se alespoň zčásti a dočasně pod jejich vlivem.
 
 Kniha Tušení stínu mohla problémy jen naznačit a snad tu a tam v nejhrubějších obrysech nastínit možnosti řešení; rád bych se k problematice dílčích otázek Tušení stínu ještě vrátil podrobnějšími a důkladněji dokumentovanými studiemi.
-
-  
 
 Doufám, že ani v tomto případě všichni přátelé, kteří mne podporovali, pomáhali diskusemi i potřebnou literaturou a především zájmem o toto dílo, neodepřou mi laskavou podporu. Učiním vše pro to, aby jejich pomoc, týkající se objasňování faktů, nebyla spojována s mými závěry jinak než tak, jak je namístě. Obzvláště jsem zavázán odborným lektorům jednotlivých kapitol, dr. Jiřímu Grygarovi, doc. dr. Eriku Kittnarovi, ing. Věnceslavu Patrovskému, prof. dr. ing. Rudolfu Peškovi, dr. Miloslavu Stinglovi, dr. Pavlu Toufarovi a dr. Vojtěchu Zamarovskému.
 

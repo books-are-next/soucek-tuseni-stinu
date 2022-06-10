@@ -10,8 +10,6 @@ ISAAC NEWTON
 
 Po celá dlouhá tisíciletí byl znepokojujícím obzorem člověka les, obklopující a svírající jeho pracně vyklíčená políčka a pastviny, skrývající vlky, loupežníky, hejkaly a jezinky. Člověk byl nucen vyrovnávat se s lesem, a z tohoto ustavičného vyrovnávání vznikla celá naše věda, veškerá civilizace. Popřela hejkaly a jezinky, potlačila loupežníky a zahnala vlky. Les byl zkultivován, zpřístupněn cestami. Dalo to pořádnou práci, a není divu, jsme-li na ni pyšni. Někdy však tato pýcha na vavřínech nesporných úspěchů poněkud přestřeluje, snaží-li se za každou cenu vysvětlit nové jevy způsobem, skvěle osvědčeným ve sporu s jezinkami – např. teoreticky absurdní kulové blesky světélkujícími sovami, sídlícími v trouchnivých stromech, transport soch na Velikonočním ostrově skluzy z kaše maniokových hlíz nebo pravidelnými sopečnými výbuchy, případně nerezavění železného sloupu u Dillí ustavičným šplháním namaštěných plodů hříšné lásky, snažících se tímto iracionálním způsobem dokázat přece jen svůj manželský původ.
 
-  
-
 Úsilí o zadržení a konzervování pěkně útulného lesíčku je zjevné především dnes, kdy se lidstvu definitivně otevřel horizont zbrusu nový s novými hejkaly – vesmír. Nová věda, nové poznání vyrostou v konfrontaci s tímto novým horizontem.
 
 V rozhovoru s H. G. Wellsem na podzim roku 1920 prohlásil V. I. Lenin: „Všechny lidské názory se až dosud utvářely v pozemských měřítcích, opíraly se o předpoklad, že technika nikdy nepřekročí zemskou sféru. Jakmile se však lidstvu podaří vyjít do meziplanetárních prostor, bude třeba přezkoumat a zrevidovat všechny naše názory filozofické, sociální i morální.“

@@ -11,9 +11,9 @@ ROGER CAILLOIS: MÝTUS A SPOLEČNOST
 
 V Britském muzeu je chováno mnoho lebek neandertálců. Po původním objevu v západním a středním Německu byly pozůstatky neandertálských pralidí, dlouho považované za daleko mladší kosterní zbytky nemocných nebo duševně postižených jedinců, nalezeny i ve Francii, v Belgii, ve Španělsku, v Jugoslávii, v ČSSR, v Maďarsku, v Itálii, v Anglii, v SSSR, v Palestině, na Jávě a ovšem i v pravděpodobné kolébce člověka vůbec, v Africe, v Saldanhe a na slavném nalezišti Broken Hill. Jedna z brokenhillských lebek je pozoruhodná přesným kruhovým otvorem, pronikajícím spánkovou kostí do lebky. Kolem otvoru nejsou pukliny, jež by nevyhnutelně vznikly např. při proražení lebky hrotem špičáku při vykopávkách, nebo dokonce za života neandertálce jakoukoli tehdejší zbraní (v podstatě existovaly jen pěstní klíny, kyje a nejspíše i kostěné dýky). Charakter zranění neodpovídá ostatně takovému mechanismu. Pozoruhodné je, že protější spánková kost lebky chybí, jako by byla vyražena. Tak by tomu bylo při zásahu např. moderní loveckou kulovnicí: hladký vstřel a po zploštění projektilu mohutný otvor výstupu střely.
 
-  
-
 Původcem podivného otvoru nebyl ani vrtavý mlž, houba (Vioa) nebo červ, kteří namnoze rozrušují fosilie, jež se ocitly v moři. Broken Hill byl ostatně vždy na souši. Pozoruhodné je, že místo zranění přesně odpovídá „smrtelné zóně“ – v případě střelné rány musel být neandertálec okamžitě mrtev. Ačkoli jsou známy okolnosti nálezu lebky, nelze zcela vyloučit špatný vtip: dodatečné prostřelení lebky.
+
+  
 
 ![03.jpg](./resources/03_fmt.jpeg)
 
@@ -22,6 +22,8 @@ Původcem podivného otvoru nebyl ani vrtavý mlž, houba (Vioa) nebo červ, kte
 Co však říci dalšímu podobnému nálezu, pocházejícímu tentokráte z okolí dnešního Jakutska a uloženému v moskevském Paleontologickém muzeu Akademie věd SSSR?
 
 Je to lebka pratura, rovněž, jak se zdá, zasažená střelou v oblasti „smrtelné zóny“, totiž přesně v ose čelní kosti, jako by střelec čelil útoku mohutného zvířete, nastavujícího mu skloněnou hlavou právě tuto partii lebky. Také v tomto případě nejsou v okolí rány praskliny a činnost vrtavých mlžů je možno vyloučit; lebka je skvěle zachovaná a zcela určitě neležela v moři. Ani chorobný proces, tzv. osteomyelitida, nemůže zanechat takovou stopu, tím méně např. roh konkurujícího samce. Pikantní podrobností v tomto případě je, že se rána, jakkoli pronikla lebkou a zasáhla zřejmě mozkovnu, počala hojit kostní jizvou, svalkem. Není tedy pochyby o jejím datování. Vznikla v době života pratura – přibližně před několika desítkami až stovkami tisíců let, a kdoví zda ne přesně v době, kdy byl zabit i neandertálec v oblasti Broken Hillu. Ráže střely, jež mohla způsobit obě zranění, se zdá odpovídat. Obě mohla být na střeleckém kontě jedné jediné zbraně s podobným účinkem.
+
+  
 
 ![04.jpg](./resources/04_fmt.jpeg)
 
@@ -32,6 +34,8 @@ Přesné datování obou nálezů radiokarbonovou analýzou není možné – f
 Kdo to tehdy chodil po naší planetě, ozbrojen průbojnou palnou zbraní poměrně malé ráže, a tedy značně dokonalou?
 
 Kdo nebo co zanechalo v pískovci pouště Gobi v Mongolské lidové republice otisk, nalezený společnou sovětsko-čínskou expedicí roku 1959? Nepodobá se žádnému fosilnímu reliktu, vědě až dosud známému, nepodobá se ani stopě, kterou může zanechat některý nám známý kráčející, plazící se nebo lezoucí tvor. Zato se velice nápadně podobá otisku profilované podrážky, tzv. traktoru, jaký používají posádky Apolla na Měsíci jako nejpružnější obuvi, zajišťující nejlépe tření a tím pevný postoj za všech okolností.
+
+  
 
 ![05.jpg](./resources/05_fmt.jpeg)
 

@@ -21,8 +21,6 @@ FRANCIS MAZIÈRE
 
 Nepočetní lidé, obývající malý, trojúhelníkový ostrov se stranami 16, 18 a 24 km dlouhými a s plochou sotva 118 km2, vzdálený přes 3200 km od Chile, jemuž od roku 1888 patří, a téměř 3700 km od Tahiti, nejbližšího souseda na západě, lidé vystavení každodenní drsné nutnosti obživit sebe a své děti v oblasti, kde nebylo kromě ptáků jedlých zvířat, lidé osamělí až k šílenství a podle všech předpokladů naprosto bezpeční před jakoukoli invazí a vyrušováním, bezpečnější než tibetští poustevníci ve svých slujích nebo grónští Eskymáci ve svých osamělých iglú, vybudovali fantastické dílo.
 
-  
-
 Neobklopili svůj domovský ostrov kyklopskou zdí, chránící je od moře (ačkoli i takové stavby dokázali), nezbudovali ani citadely, ani mocné loďstvo. Zato „vytvářeli gigantické kamenné sochy v lidské podobě, vysoké jako domy a těžké jako železniční vagóny. Velké množství jich pak odvlekli přes hory i doly a pak je vztyčovali na mohutné zděné terasy, zbudované kolem celého ostrova“ (Heyerdahl).
 
 Více než 600 vztyčených soch obdrželo svá archeologická inventární čísla malovaná s vybraným nevkusem olejovou barvou. Asi 150 jich leží nehotových a zpola vybavených ze skály v jediném lomu, kráteru vyhaslé sopky. Jsou to právě ty největší a nejmonumentálnější, náhle a ve spěchu opuštěné. Nevíme proč. Ale kdyby nedošlo k násilnému přerušení práce, jak dlouho a až kam by bylo plastické šílenství obyvatel (zdá se, že mnoho soch nebylo dosud objeveno) pokračovalo? K opracování všech skal a všech balvanů ostrova v sochy? A proč?
@@ -45,6 +43,8 @@ Potud je třeba korigovat často naivně romantické a až příliš tajuplné 
 
 Jde především o odhad počtu obyvatel v dobách budování kolosů moai. Dnes žije na ostrově asi 1500 obyvatel – podle sčítání v roce 1970 dokonce jen 1200. V patnáctém a šestnáctém století, kdy zřejmě kultura Velikonočního ostrova vrcholila a kdy patrně byly již kolosy moai dávnými památkami, žilo podle údajů prvních evropských mořeplavců na ostrově asi 4000 lidí, což je možno považovat spíše za přehnané. Objevitelé, přinášející svým vládcům nové země, měli politováníhodný, i když lidsky pochopitelný zvyk zveličovat lidnatost a význam zabraných kolonií. Počet 20 000 obyvatel, odhadnutý z početných archeologických nálezů chrámů s tisíci monumenty, je naprosto nepravděpodobný.
 
+  
+
 ![22.jpg](./resources/22_fmt.jpeg)
 
 > Tato „senzace Velikonočního ostrova“, rytina velké lodi na jedné ze soch moai, patrně senzací není. Polynésané nikdy takové koráby nestavěli a kresba byla nepochybně vyryta pod dojmem návštěvy evropských cestovatelů
@@ -56,6 +56,8 @@ Domácích zvířat rovněž nebylo, a „intenzívní zemědělství“, o n�
 To vše jsou jen dohady, jejichž pravděpodobnost není příliš velká. Jistě, přelidnění může ústit a v primitivních společnostech patrně obvykle ústí v agresi, zejména pokud nemůže být řešeno zevním výbojem nebo hromadnou emigrací, vedoucí např. k postupnému osídlení celé Polynésie. Agresivita však končí s dosažením biologicky, v lidském společenství tedy ekonomicky dostatečného zajištění všech členů etnického celku. Není důvod k pokračujícímu vraždění – i když je ovšem nemůžeme vyloučit. Je však velmi pravděpodobné, že kapitáni, zmocňující se na Rapa Nui až do roku 1862 kontingentů otroků pro peruánské guanové doly (což naráželo na odpor světové veřejnosti, burcované tahitským biskupem Tepáno Jaussenem), podstatně ve svém líčení zhoršovali situaci obyvatelstva na domovském ostrově, aby nalezli byť chabou morální omluvu. Nespornou skutečností je, že se po několika letech patnáct domorodců, zbylých z celého tisíce, decimovaného nelidskými podmínkami a neštovicemi takřka do posledního, vrátilo domů, na mořskou výspu. Odmítli podílet se na slastech civilizace.
 
 Je tedy pravděpodobné, že obyvatelstvo Velikonočního ostrova nikdy nepřekročilo počet několika tisíc lidí a že potřeba udržení života za každou cenu v pravém slova smyslu vyžadovala značné úsilí. Docházelo i ke kanibalismu, k zabíjení a pojídání příslušníků cizích rodů. Domnívám se, že přísně tajné rodové jeskyně, chránící především ženy a děti, byly úkrytem ne v čase „válek“, o nichž osobně dost pochybuji, ale před nebezpečím napadení spoluobyvateli, následovaným snědením pod vhodnou rituální záminkou, ve skutečnosti však z hladu…
+
+  
 
 ![23.jpg](./resources/23_fmt.jpeg)
 
@@ -99,6 +101,8 @@ Podivná červená pokrývka hlavy daleko více a sugestivněji při­pomíná 
 
 Muselo to být ohrožení vážné a osudné, byli-li strážci vybudováni v takovém počtu a takové velikosti, i když materiál nepřekvapuje: žádný jiný totiž na ostrově nebyl. Snad sami tvůrci věřili v jejich strašlivou moc – svědčí o tom, že oči byly sochám vytesány, teprve až byly vztyčeny na ahau, jedné z mnoha kamenných plošin podél mořského břehu, zdvíhajících se až čtyři metry nad okolní terén. Rudé přilby na hlavách soch zdůraznily jejich monumentalitu, spíše však měly prohloubit nebezpečný vzhled. Zda prostě neobyčejnou (bojovou?) pokrývkou hlavy, zda skutečně válečně načesaným a nabarveným vlasem, nebo zda (a to nelze vyloučit) oživením vzpomínky na kohosi s přilbou, i když nebyl opatřen zjevnou zbraní, který prokázal svou sílu a možnosti? Těžko říci.
 
+  
+
 ![36.jpg](./resources/36_fmt.jpeg)
 
 > Jedna z obrovských, až třicet tun těžkých olméckých hlav v La Ventě, romantiky nazývaných „kosmonauti“
@@ -123,15 +127,21 @@ Taková teorie pochopitelně připomíná spíše science fiction než vážné 
 
 Dívá se do nebes jako zděšené a zcela zaujaté dítě, věřící pohádkám. „Oficiální“ pozorování byla snad prováděna (jak se domnívá Heyerdahl) z observatoře na svazích sopky Rano-kau, spadající strmou falézou k moři a k Ptačím ostrůvkům. Její stěny byly vyloženy deskami s kresbami a rytinami boha Make-Makeho, v přísné a kolosům moai naprosto cizí stylizaci, tolik podobné postavě ve skafandru jako „Velký marťanský bůh“ Henriho Lhota z Tassíli nebo postavy skalních maleb z Val Camonica. Zdá se však, že nebesa měla uhrančivou moc nad všemi obyvateli ostrova, jehož oči vzhlížely k nebi, fascinovány důvody dávno ztracenými a zapomenutými.
 
+  
+
 ![24.jpg](./resources/24_fmt.jpeg)
 
 > Proslulý „velký marťanský bůh“ z Tassíli, objevený Henrim Lhotem (Lhote ovšem mínil tento název zpola žertovně)
+
+  
 
 ![25.jpg](./resources/25_fmt.jpeg)
 
 > Stejně početné a stejně rozšířené jsou kresby postav s kulatými hlavami a jakýmisi „anténami“. Tyto kresby pocházejí z afrického Sefaru
 
 Chilská vláda se léta starala především o 50 000 ovcí anglické firmy Williamson a Balfour – péče o tělesné a duševní blaho poslední tisícovky domorodců se omezovala na povinné návštěvy mší samozvaného „krále ostrova“, považujícího domorodce za bandu zlodějů a darebáků. Pro početnou rodinu na týden byl příděl 3 kg veterinárně závadné skopoviny, škola na ostrově neexistovala a negramotnost byla stoprocentní. Ostrované sdělili manželce Mazièrově, jejíž polynéský původ jí získal důvěru, některé z článků své víry:
+
+  
 
 … Obyvatelé Jupitera regulovali soulad v kroužení planet…
 
@@ -161,6 +171,8 @@ Chilská vláda se léta starala především o 50 000 ovcí anglické firmy Wi
 
 … Je třeba prorazit kamenným ohněm železnou kůru, aby se přišlo na kov. Ten kov se rýžuje v kamenném a vodním ohni; je nesmírně jemný a může se používat jako tkanivo…
 
+  
+
 Nebudeme rozebírat obsah těchto mýtů a hodnotit jej poznatky dnešní astronomie, resp. kosmonautiky. Jsou nesmírně významné a vzrušující již svou samotnou existencí: není znám jiný příklad, kdy by kosmické mýty izolované společnosti nabyly takové podoby. Jde pochopitelně o synkretické útvary, v jejichž základech je uloženo prastaré astronomické vědění Polynésanů a možná i první migrace z východu, z pevniny a andských kultur. Svou úlohu snad sehrály i rozhovory domorodců např. se světlou postavou temných a smutných dějin ostrova Eugènem Eyraudem a několika málo dalšími, kteří zde nežili pro získání otroků, vlny, případně sexuálních zážitků. Postačí však takové vysvětlení? Jsem přesvědčen, že ani zdaleka ne.
 
 Nebesa, pozorovaná bdělýma očima Mata-ki-te-rangi, odpovídala už dávno před příchodem prvních bělochů. Domorodci Velikonočního ostrova rozhodně nesdíleli mínění ctihodné francouzské Akademie věd o nemožnosti existence meteoritů (nazývaných zde Ure Ti‘-oti‘-o Moana): tři vesmírné střely značného kalibru dopadly v poměrně nedávných dobách na nepatrnou plochu ostrova – poslední z nich v padesátých letech našeho století, přičemž byla zpustošena anakenská pláž.
@@ -170,6 +182,8 @@ Je to náhoda? Astronomové se (patrně právem) zasmějí návrhu na uvedení t
 Domorodé kmeny v okolí nápadných meteoritických impaktů vytvářejí své vysvětlující pověsti – vznikly mezi Evenky u Kamenné Tunguzky, vznikly i mezi indiánskými kmeny, kočujícími v okolí Velkého Barringerova kráteru.
 
 V obou případech sestoupil kmenový bůh ohně a hromu na Zemi. Pověst ostrova ticha, hledícího zděšeně k nebi, je však zvláštní:
+
+  
 
 Za krále Rokoroko he Taua spadlo nebe.  
 Spadlo seshora na zem.  
@@ -204,6 +218,8 @@ Vzájemné kontakty obyvatel Velikonočního ostrova a jihoamerických kultur n
 Domněnku o návštěvě na Velikonočním ostrově, návštěvě, jejíž ozvěna dosud v mentalitě a tvorbě obyvatel doznívá, podporuje ostatně i rozmístění moai. Kromě množství nehotových soch v různém stupni opracování, zanechaných v lomu, jsou všechny dokončené moai seskupeny ve třech kvadrantech, ponechávajíce jeden kvadrant (jihozápadní) zcela volný. Všechny jsou obráceny tváří do vnitrozemí s výjimkou sedmi soch, vztyčených na terase na svahu nad mořem a pohlížejících směrem k západoseverozápadu. Domorodá tradice praví, že se „každá socha dívá na tu část světa, za kterou nese odpovědnost“. Je to ušlechtilé a vznešené vysvětlení, avšak, žel, právě na nejosamělejším a od světa nejodříznutějším ostrově naší planety značně nepravděpodobné.
 
 Připadám si jako barbar a svatokrádežník, odvažuji-li se takového přirovnání, ale nemohu jinak: sochy moai jsou postaveny naprosto přesně v místech, kam by velitel rozmístil své kulomety, očekávaje silný vzdušný výsadek nepřítele, přibližujícího se zhruba od západu.
+
+  
 
 ![26.jpg](./resources/26_fmt.jpeg)
 

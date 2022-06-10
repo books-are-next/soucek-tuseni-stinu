@@ -18,8 +18,6 @@ FRANK M. ROBINSON: LABYRINT
 
 Problematika modelování možných inteligentních ne-lidských by­tostí, s nimiž se snad v budoucnosti setkáme v dálném vesmíru, nebo s nimiž se snad naše Země setkala ve vzdálené i bližší minulosti, je dvojnásobně ulehčena.
 
-  
-
 Prvním ulehčením je obrazotvornost spisovatelů vědeckofan­tastických románů, kteří vynaložili značný um a námahu, aby do svých zápletek uvedli bytosti zbrusu nové a zvláštní, což při obrovité produkci tohoto literárního žánru znamená prakticky nevyčerpatelný thesaurus bytostí od mírně pozměněných lidí přes tvory bizarních tvarů (obzvláště jsou v oblibě chapadla) až k biformienům Jeana Hougrona, vystřelujícím se jako silokřivky čisté energie od hvězdy k hvězdě, a snad ještě dál, k existencím podivnějším a člověku cizejším.
 
 Druhé ulehčení poskytla sama příroda, která vytvořila člověku, alespoň podle mínění některých vědců, mořského partnera, tvora biologicky dosti blízkého, aby tato blízkost umožňovala komunikaci, a zároveň dosti vzdáleného, aby uspokojujícím způsobem modeloval „nepozemšťana“ a umožnil tak prozkoumat veškeré obtíže vzájemného dorozumívání – delfína.
@@ -84,11 +82,15 @@ Rovněž cílevědomé jednání samo o sobě a v souladu se základními ins
 
 Až bude tento předpoklad potvrzen (bude-li kdy), dozvíme se to nejpravděpodobněji formulací, podobnou hodnocení mloků druhu Andrias Scheuchzeri vědeckou komisí v Čapkově Válce s Mloky:
 
+  
+
 1\. Andrias Scheuchzeri, mlok chovaný v londýnské zoo, dovede mluvit, byť i poněkud skřehotavě; disponuje asi čtyřmi sty slovy; říká jen to, co slyšel nebo četl. O samostatném myšlení u něho nelze ovšem mluvit, jeho jazyk je dosti pohyblivý; hlasivky jsme za daných okolností nemohli blíže zkoumat.
 
 2\. Týž mlok dovede číst, ale jenom večerníky novin. Zajímá se o tytéž věci jako průměrný Angličan a reaguje na ně podobným způsobem, to jest ve směru ustálených, obecných názorů. Jeho duševní život – pokud lze o nějakém mluvit – pozůstává právě z představ a mínění toho času běžných.
 
 3\. Jeho inteligenci není naprosto třeba přeceňovat, neboť v žádném ohledu nepřekračuje inteligenci průměrného člověka našich dnů.
+
+  
 
 Je to krutý humor, ještě krutější v politickém kontextu knihy, psané pod hrozbou II. světové války a fašismu. Ale což skutečně neexistují i takové vědecké protokoly, neexistují snad rasističtí antropologové nebo nacionalističtí archeologové, schopní zaměňovat prostotu s primitivismem a originalitu s chorobou?
 

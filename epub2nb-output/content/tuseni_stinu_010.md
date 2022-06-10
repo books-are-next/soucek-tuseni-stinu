@@ -15,8 +15,6 @@ PROF. DR. G. N. LIOTD
 
 Před několika lety vzbudily pozornost čtenářů světového tisku články, obírající se mapami, jejichž autorem byl roku 1413 vysoký důstojník tureckého loďstva Piri Reis a roku 1431 kartograf Orontius Fineus.
 
-  
-
 Bylo to vlastně obnovení zájmu o Reisovu mapu – již dávno před válkou dal tehdejší státní tajemník USA Henry L Stimson přezkoušet, zda Piri Reis nepoužil Kolumbových map, jejichž originály se ztratily a jejichž rekonstrukce by byla významným příspěvkem k dějinám USA. Výsledek byl negativní a zájem kartografů nevelký vzhledem k hrubému zkreslení karibské oblasti i linie pobřeží jižní části Jižní Ameriky. Originál mapy se s formálním vyjádřením díků vrátil do cařihradského archívu muzea Topkapi, aby dál v klidu a bez zájemců odpočíval, jako už několik staletí.
 
 Mapa na první pohled prozrazuje arabské autory z doby vrcholného rozvoje arabské kartografie, zprvu značně handicapované maurskou oblibou geometrizace, nepřipouštějící přesnou kresbu, a snad i nedostatečným cvikem v kreslení a malování, jež korán s výjimkou kaligrafie a ornamentiky výslovně zakazoval. Podle některých názorů byli Arabové ve vědě pouhými řemeslníky, ni­koli tvůrci, a své kartografické znalosti převzali od Řeků. Jejich jedinou, avšak nespornou zásluhou v této oblasti je, že uchovali kartografické poznatky antické vědy, vydávali díla řeckých kartografů a jejich mapy. Arabské mapy sloužily za podklad zhotovování pozdně středověkých a raně novověkých kompasových map, tzv. portolánů, se zanesenou sítí kompasových růžic pro různé body, umožňující plavcům snadnou orientaci a rychlé nalezení vhodného směru k cílovému přístavu. Přesnost těchto map je pozoruhodná a představovaly po několik staletí vrchol kartografického umění – ani zde však nebyli Arabové původními. Kompas i jeho užívání převzali od Číňanů, kteří již v hlubokém starověku ovládali vyměřovací a kartografické práce a ve 2. století n. l. zřídili dokonce zvláštní kartografický úřad. Čínská znalost kompasu se podle některých autorů datuje do 11. století před n. l., podle jiných až do 2. století n. l.
@@ -73,6 +71,8 @@ Kromě těchto osadníků však jsou již nějakou dobu zjišťovány zbytky dal
 
 Prosím čtenáře, aby nepovažoval datování všech právě uvedených událostí do „starší doby kamenné“ za určení kulturního stupně migrujícího obyvatelstva, ale za konvenční zařazení do určitého období života naší planety, kulturně patrně velmi nerovnoměrného. Ještě dnes, v době kosmických letů a dokonalé komunikace, žijí na naší planetě lidé na úrovni zmíněné starší doby kamenné. Vyloučit před několika tisíci lety možnost civilizace, schopné zachytit kartografické podklady, by bylo nevědecké. Předhistorické kartografické kresby nalezl již zeměpisec F. Rödiger roku 1891, dnešní „divoši“ všech kontinentů jsou schopni vynikajícím způsobem pomoci badatelům kresbami podivuhodně přesných „map“, zachycujících i značné plochy, např. povodí řeky Xingú, celého Jakutska (podle takové „mapy“ na březové kůře podnikl 400 verst dlouhou cestu revolucionář Kropotkin roku 1906), nebo severního Grónska, jež si ostatně odlehlostí a nedostupností nezadá s Antarktidou.
 
+  
+
 ![06.jpg](./resources/06_fmt.jpeg)
 
 > Poměrně velmi přesná a podrobná mapa části Grónska, nakreslená roku 1898 zcela negramotným Eskymákem Nakutinem
@@ -86,6 +86,8 @@ Je ostatně dobře, že mapa Piriho Reise byla prokazatelně objevena již roku 
 Společnou prací vědců Zeměpisné společnosti SSSR a Yalovy univerzity v USA byl odhalen podvod: mapa byla skvělým falzifikátem, sestaveným na základě celé řady existujících map, avšak padělatelé se dopustili zásadní chyby: použili totiž i mapy (jak zjistili sovětští kartografové) z roku 1690, uveřejněné teprve v roce 1951. Šlo tedy o mapu starou asi deset let.
 
 Ať už je tomu s Reisovou a Fineovou mapou jakkoli, tohleto jim zcela jistě vyčítat nemůžeme.
+
+  
 
 ![07.jpg](./resources/07_fmt.jpeg)
 
