@@ -3,6 +3,8 @@ title: "Podivné mapy a\_neznámí kartografové"
 contentType: prose
 ---
 
+<section>
+
 > _Již mnoho set let před naším letopočtem byl člověk nucen  
 > konat na zemském povrchu různá měření a výsledky  
 > znázorňovat kresbou.  
@@ -71,7 +73,9 @@ Kromě těchto osadníků však jsou již nějakou dobu zjišťovány zbytky dal
 
 Prosím čtenáře, aby nepovažoval datování všech právě uvedených událostí do „starší doby kamenné“ za určení kulturního stupně migrujícího obyvatelstva, ale za konvenční zařazení do určitého období života naší planety, kulturně patrně velmi nerovnoměrného. Ještě dnes, v době kosmických letů a dokonalé komunikace, žijí na naší planetě lidé na úrovni zmíněné starší doby kamenné. Vyloučit před několika tisíci lety možnost civilizace, schopné zachytit kartografické podklady, by bylo nevědecké. Předhistorické kartografické kresby nalezl již zeměpisec F. Rödiger roku 1891, dnešní „divoši“ všech kontinentů jsou schopni vynikajícím způsobem pomoci badatelům kresbami podivuhodně přesných „map“, zachycujících i značné plochy, např. povodí řeky Xingú, celého Jakutska (podle takové „mapy“ na březové kůře podnikl 400 verst dlouhou cestu revolucionář Kropotkin roku 1906), nebo severního Grónska, jež si ostatně odlehlostí a nedostupností nezadá s Antarktidou.
 
-  
+</section>
+
+<section>
 
 ![06.jpg](./resources/06_fmt.jpeg)
 
@@ -87,8 +91,12 @@ Společnou prací vědců Zeměpisné společnosti SSSR a Yalovy univerzity v 
 
 Ať už je tomu s Reisovou a Fineovou mapou jakkoli, tohleto jim zcela jistě vyčítat nemůžeme.
 
-  
+</section>
+
+<section>
 
 ![07.jpg](./resources/07_fmt.jpeg)
 
 > Cestovní mapa trasy z africké Lindy do Massassi, nakreslená domorodcem Pesa Mbilim roku 1907 pro cestovatele Weula
+
+</section>

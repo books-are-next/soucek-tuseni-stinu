@@ -3,6 +3,8 @@ title: Vesmírný projektil
 contentType: prose
 ---
 
+<section>
+
 > _Raději budu věřit, že dva yankeeští profesoři lhou,  
 > než že kameny mohou padat z nebe._
 
@@ -38,9 +40,9 @@ Rakouský geolog a astronom Otto Muck, který se zabýval podrobně otázkou p�
 
 Zkáza způsobená takovou nebeskou střelou by na pevnině musela být obrovská. Podle upravené tabulky polského astronoma J. Gadomského by průměrné úplné zničení zemského povrchu, závislé ovšem na relativní rychlosti dopadajícího tělesa vzhledem k Zemi a na úhlu dopadu, představovalo:
 
-  
+</section>
 
- 
+<section>
 
 při průměru                65 metrů
 
@@ -78,7 +80,9 @@ polovinu Asie nebo Evropu i severní Afriku a Blízký východ
 
 polovinu povrchu planety
 
-  
+</section>
+
+<section>
 
 Byla to šťastná náhoda, že planetoida dopadla do moře. Jen některé její části, které se při průletu atmosférou strašlivým čelním tlakem odtrhly, byly zbrzděny tak, že „pokropily“ část Severní Ameriky. I tak ovšem znamenala srážka nesmírné zničení širokého okolí. Velké plochy mořského dna se propadly do hloubek 6000–9000 metrů, celé skupiny ostrovů – jak se zdá – zmizely pod hladinou. Mocné vlny se hnaly rychlostí tryskových letadel ke břehům kontinentů a vyvolávaly zde stěží představitelné záplavy.
 
@@ -93,3 +97,5 @@ Zdá se, že jsme nalezli doklad, že srážky Země s planetoidami, jádry kom
 Kromě toho se zdá, že srážky Země s „těžkými kalibry“ mají i další, dosud ne zcela vysvětlené následky. Američtí geologové B. Glass a B. C. Heezen z Kolumbijské univerzity nalezli mezi Jávou a Austrálií na dně Indického oceánu impakty a posléze podle reliéfu dna i astroblém, jehož stáří odhadli na 700 000 let. Průměr tělesa, jež se srazilo se Zemí, byl podle výpočtů asi 300 metrů a hmotnost 150 miliónů tun. Nebyl to tedy zvlášť velký meteorit nebo planetoida (jakkoli doufáme, že nás i takové „lehčí kalibry“ pokud možno ušetří své pozornosti), přesto se však tento impakt, a jak soudí oba vědci, nikoli náhodou, časově shoduje s poslední velkou prokázanou změnou magnetického pole naší Země. Což samo o sobě není pro život na Zemi lhostejné.
 
 Ale o tom v příští kapitole.
+
+</section>

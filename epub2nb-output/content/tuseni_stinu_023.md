@@ -3,6 +3,8 @@ title: Malý šrapnel, kroužící vesmírem
 contentType: prose
 ---
 
+<section>
+
 > _Ráno osvítil krvavý, kalný sluneční kotouč rozvaliny, hořící zahrady, zástupy lidí zmučených výstřednostmi, zešílevších, hromady mrtvol. Magacitlové se vrhli k létacím přístrojům, majícím tvar vejce, a začali opouštět Zemi. Odletěli do hvězdného prostoru, do vlasti abstraktního rozumu. Několik set přístrojů odletělo. Rozlehl se čtvrtý, ještě silnější zemní náraz. Od severu se zvedla z popelavé mlhy oceánská vlna a šla po Zemi, ničíc vše živé._
 
 > _Zvedla se bouře, blesky padaly na Zemi, na obydlí. Vyřinul se lijavec, létaly zbytky vulkanických kamenů. Pod ochranou zdí velikého města pokračovali Magacitlové z vrcholu stupňovité pyramidy, obložené zlatem, v odletu z dýmu a popelu do hvězdného prostoru oceánem padajících vod. Tři nárazy jeden po druhém rozbily zemi Atlantidy. Město Zlatých bran se ponořilo do kypících vln._
@@ -15,7 +17,9 @@ Je to možné a stalo se to mnohokrát i v dobách historických, nám daleko
 
 Takřka každým dnem znovu ověřujeme – s jistým stupněm mrazení – že naše planeta chystala a ještě může chystat zkázu mimořádných rozměrů a že bychom neměli být ukolébáni iracionálním optimismem: nám se to nemůže stát.
 
-  
+</section>
+
+<section>
 
 ![52.jpg](./resources/52_fmt.jpeg)
 
@@ -185,9 +189,9 @@ XI. Arábie a Indický oceán
 
 432
 
-  
+</section>
 
-  
+<section>
 
 Předběžné údaje z dosud nezpracovaných území:
 
@@ -225,7 +229,9 @@ XIX. Atlantský oceán
 
 61
 
-  
+</section>
+
+<section>
 
   
 
@@ -255,7 +261,9 @@ Za mnoho romantičtějších možností uveďme alespoň jednu – „divoký o
 
 Pěkně utříděné, završené a kompletní fyzice 19. století nebylo nic neznámo a tajemství neexistovala – natož aby se snad nějak vázala k něčemu tak banálnímu jako k ohni. Oheň byl prostě svazkem plamenů a plamen hořícím sloupcem plynů nebo par – ještě já jsem se tuto definici ve škole učil. Dnes je oheň za přítomnosti jistých atomů a radikálů pro fyzika plazmou o nízké teplotě, tedy stavem hmoty, jejíž atomy a molekuly jsou smíchány s atomy a molekulami fyzikálně nestabilními, z nichž některé, jak prokázal např. Siegfried Klein, mají mimořádně vysokou teplotu, jakou nacházíme v plazmě tzv. horké. To je samo o sobě pozoruhodné – ovšem spíše pro plazmové fyziky. Podivnější však jsou zvláštní projevy „divokého ohně“, soustřeďující se, jak se zdá, z nevysvětlitelných (nebo lépe řečeno dosud nevysvětlených) příčin především na hustě osídlená místa.
 
-  
+</section>
+
+<section>
 
 ![53.jpg](./resources/53_fmt.jpeg)
 
@@ -263,7 +271,9 @@ Pěkně utříděné, završené a kompletní fyzice 19. století nebylo nic ne
 
 Charakteristické znaky obrovských a mimořádně ničivých ohni­vých smrští nevysvětlitelného původu jsou (podle Bergiera):
 
-  
+</section>
+
+<section>
 
 1\. Podstatně zvýšená teplota atmosféry, vzhledem ke zjištěnému vzniku ultrafialových paprsků nejméně 10 000 až 13 000 K, což je více, než se až dosud podařilo laboratorně dosáhnout jakoukoli chemickou reakcí.
 
@@ -273,7 +283,9 @@ Charakteristické znaky obrovských a mimořádně ničivých ohni­vých smrš
 
 4\. Zvýšená radioaktivita půdy po požáru navzdory nižšímu množství radioaktivních hornin, než by odpovídalo naměřené hladině.
 
-  
+</section>
+
+<section>
 
 ![54.jpg](./resources/54_fmt.jpeg)
 
@@ -302,3 +314,5 @@ Mohutné ohnivé smrště byly zaznamenány ve španělské provincii Almeria ro
 Stalo se tak po výpovědi pilota pokusného rekordního raketoplánu Bell X-15 Joe Walkera, doložené několika fotografickými snímky. Walker ve výši 246 000 stop (74 784 metrů – piloti Bell X-15 dosahují při pokusných letech výšky 100 km a více, což je opravňuje k titulu kosmonaut, udělovanému NASA) se setkal s ohnivou bouří, jež se později rozpadla na pět nebo šest menších ohnivých vírů. Jeho pozorování, k němuž Walker moudře odmítl připojit jakoukoli domněnku, podpořil na tiskové konferenci AP, konané 11. května 1962, kosmonaut John Glenn. Doporučil zkoumání tohoto problému a vyslovil se ve prospěch možnosti existence „koncentrované radiační energie“ ve stratosféře nebo v kosmu. Těžko říci, zda ho k tomu přiměla vlastní zkušenost, domněnky, kolegialita nebo fantazie. Těžko si v souladu s dnešní vědou koncentrovanou radiační energii, nebo dokonce oheň v prázdnotě kosmu představit, i když je ovšem známo, že se při silných slunečních bouřích vytvářejí částice o vysokých energiích, ba i celá oblaka plazmy, letící obrovskými rychlostmi a dosahující v některých případech Země už za půl hodiny.
 
 Ale Chicago přece jen shořelo. Podivně a dosud nevysvětlitelně. Tím podivněji, že se ohnivou smršť nepodařilo vyvolat ani čtyřiceti meteotrony, obrovskými naftovými tryskami, namířenými na Sahaře do jednoho bodu. Vznikl ohnivý sloup, vzdušný vír – a nic víc.
+
+</section>

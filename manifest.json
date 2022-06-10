@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-stinu-a5cd2b6",
-  "revision": "a5cd2b6",
+  "identifier": "soucek-tuseni-stinu-36c10ef",
+  "revision": "36c10ef",
   "readingOrder": [
     "promo.html",
     "tuseni_stinu_003.html",
@@ -43,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:19:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870784166
+    "date": "Fri Jun 10 2022 17:56:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883787703
   },
   "documents": [
     {
@@ -622,9 +622,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 121,
-      "chars": 795,
-      "ideas": 16,
+      "words": 86,
+      "chars": 589,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "tuseni_stinu_031.html",
@@ -642,9 +642,9 @@
   ],
   "totals": {
     "all": {
-      "words": 101883,
-      "chars": 698153,
-      "ideas": 1874
+      "words": 101848,
+      "chars": 697947,
+      "ideas": 1865
     },
     "chapters": {
       "words": 101756,

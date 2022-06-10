@@ -3,6 +3,8 @@ title: Milióny cizích Zemí
 contentType: prose
 ---
 
+<section>
+
 > _Byla tma tmoucí – potvrdil starý Ofwfq – byl jsem ještě dítě, sotva se na to pamatuji. Byli jsme jako obvykle všichni pohromadě, tatínek, maminka, babička Bb‘b, nějací strýcové, kteří přišli na návštěvu, pan Hnw, ten, co se potom stal koněm, a my děti. Nikdo nevěděl, nač jsme vlastně čekali; toť se ví, babička Bb‘b se ještě pamatovala na časy; kdy byla hmota stejnoměrně rozptýlena v prostoru, kdy bylo teplo i světlo; přestože staří ve svém povídání obvykle přehánějí, musely ty staré časy být lepší, nebo alespoň jiné; a nám šlo o to, přežít nějak tuto obrovskou noc._
 
 > _Že se něco mění, zpozoroval první můj otec.  
@@ -71,3 +73,5 @@ Není proto divu, že v naší Galaxii je každý výbuch supernovy – dochá
 Jak je zřejmé, představuje tento kosmogonický názor, respektující chemické složení Slunce a planet a jejich rozdíly, toliko opravenou variantu názoru, že planety nevznikají současně s hvězdami z téhož materiálu, ale po vzniku hvězd a převážně z difúzních mlhovin, odmrštěných do světového prostoru výbuchem supernov. Chronologické údaje se zdají přitakat druhé teorii tím spíše, že radiologické analýzy určily poměrně přesně (zjišťováním izotopů, zejména 129 Xe a 129 J) dobu, jež uplynula mezi vznikem prvků sluneční soustavy a jejich uzavřením ve hmotě planetek, příštích meteoritů. Je to doba poměrně krátká – asi 300 miliónů let. O ně jsme se sice přiblížili předpokládanému datu zrození Slunce, zůstává však stále propast ¾ miliardy let, kdy již Slunce „bylo na světě“, avšak pro planetární soustavu nebyly k dispozici ani základní stavební kameny, atomy těžkých prvků.
 
 Na závěr kapitoly, obírající se pro laika sice poněkud suchopárnými, pro astronoma však vzrušujícími a pro další vývody knihy nezbytnými problémy, můžeme tedy shrnout: naše Slunce je zcela průměrná hvězda, procházející pravidelnými a zákonitými proměnami, vlastními nespočetným hvězdám naší Galaxie, a pokud můžeme soudit a pokud současné kosmogonické teorie nejsou v příkrém rozporu se skutečností, vlastními i hvězdám v celém vesmíru, dostupném našemu pozorování. K těmto zákonitým procesům náleží, alespoň pro jistý typ hvězd, vytvoření planetárního systému. Vzhledem k neustálému opakování se podmínek, nutných ke vzniku planetárních systémů (ať již jsme zastánci kterékoli teorie s výjimkou teorií katastrofických), lze očekávat, že se v naší Galaxii a v celém vesmíru v minulosti vytvořilo, snad dokonce i tvoří a ještě bude vytvořeno nepředstavitelné množství, pro Galaxii řádově miliardy (nejméně), pro pozorovatelný vesmír trilióny planetárních soustav, z nichž mnohé nepochybně poskytují podmínky velice podobné podmínkám sluneční soustavy a tím i naší Země.
+
+</section>

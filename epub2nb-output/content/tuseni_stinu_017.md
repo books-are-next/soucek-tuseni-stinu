@@ -3,6 +3,8 @@ title: Další otazníky na letové lince
 contentType: prose
 ---
 
+<section>
+
 > _Toho, jenž hlubiny zřel až k hranici země,  
 > jenž poznal všechna moře, opěvat chci.  
 > Vše viděl a prozkoumal rovnou měrou,  
@@ -20,7 +22,9 @@ Zmínili jsme se i o výstavnosti obou velkoměst, o dokonalé urbanistické 
 
 Na první pohled tedy šlo o kulturu kvetoucí, jejíž surovinová základna, jak víme z rozborů mědi a určení nalezišť minerálů, sahala až do dnešního Íránu a Afghánistánu, do střední Indie, do Pamíru, Tibetu a Barmy. A přece se nám podařilo, jak se zdá, zachytit civilizaci umírající, zatímco Egypt a Mezopotámie se v téže době dynamicky vyvíjely. Tato stagnace trvala 700–1000 let, jež můžeme díky archeo­logům přehlédnout. Rozkotání obou velkoměst dobyvateli (nebo jejich zničení jiným způsobem, využité pak kmeny indoíránských Árjů, znalých železa, k obsazení země) kolem roku 1750 před n. l. bylo jen epilogem truchlohry. Povšiml si toho i pozorovatel tak citlivý jako C. Lévi-Strauss a označil ubohé příbytky, nalezené poblíže různých pracovišť v Harappě i v Mohendžodáru, za „dělnické kolonie“ a celkový dojem za „deprimující a truchlivý, naznačující hluboký úpadek“. Avšak i bez tohoto významného svědectví je obraz kulturního okruhu Harappy a Mohendžodára (dodnes není jasné, zda šlo o dvě centra jedné jediné říše či dvou oblastí) truchlivý. Tvary nástrojů, ozdobných předmětů a ani zbraní se neměnily a nevyvíjely, stejně jako se nevyvíjela technologie jejich výroby. Některé sošky z různých materiálů jsou tak naturalistické, že byly vysloveny pochybnosti o jejich předřeckém původu, jiné nápadně primitivní. Vnější zdi domů nejsou opatřeny okny – každá rodina žila v klauzuře vlastního příbytku, pokud si jej ovšem mohla dovolit. Celou dohlednou historií těchto měst se táhne důsledný, zjevně mocensky vynucený konzervatismus, spojený s překvapující péčí o tělesnou čistotu, jež se ovšem v krajním případě může stát trýzní – vězňové nacistických koncentračních táborů dobře vědí, co mám na mysli. Autoři sborníku Moudrost a umění starých Indů se domnívají, že důvodem byla teokratická forma vlády, vynucující si náboženskými sankcemi dodržování i nejmalichernějších předpisů. Nelze to vyloučit, ale jak srovnat teokracii s městy bez chrámů? Lze si představit Vatikán bez chrámů?
 
-  
+</section>
+
+<section>
 
 ![27.jpg](./resources/27_fmt.jpeg)
 
@@ -54,7 +58,9 @@ Hypotéza o kaktusu je, jak řečeno, vratká – ale v každém případě j
 
 Domnívám se tak tím spíše, že 160 km odtud leží proslulé „letiště bohů“, Valle de Palpa u Nazky, se svými podivuhodnými kresbami a liniemi.
 
-  
+</section>
+
+<section>
 
 ![28.jpg](./resources/28_fmt.jpeg)
 
@@ -66,31 +72,41 @@ Na první pohled mu bylo zřejmé, že se interpreti leteckých snímků mýlili
 
 Nejzajímavější jsou však stylizované obrazy zvířat, osmdesátimetrových opic, 46 metrů dlouhých pavouků, ještěrů, dravých ryb, jakýchsi nedefinovatelných nestvůrek, jež by mohly, ale nemusely být sépiemi, a především bohatého sortimentu obrovitých dravých ptáků s výhrůžně napřaženými zobany. Některé kresby se opakují, jako by byly do vyprahlé půdy náhorní planiny (je 500 m n. m.) vyraženy razítkem, velkým jako slušné hřiště. Jejich vznik je nejasný – musíme předpokládat, že tvůrci ovládali základy vyměřování a přenášení kreseb pomocí sítě do impozantních rozměrů v terénu; to připouští i Marie Reichová jako sice šílené, ale jediné vysvětlení. To je samo o sobě zajímavé, avšak nás především trápí základní otázka: proč taková námaha?
 
-  
+</section>
+
+<section>
 
 ![29.jpg](./resources/29_fmt.jpeg)
 
 > „Dráhy“ ve Valle de Palpa rozhodně nebyly silnicemi. Význam mnohých z nich nebyl dosud spolehlivě určen
 
-  
+</section>
+
+<section>
 
 ![30.jpg](./resources/30_fmt.jpeg)
 
 > Tato linie je ovšem jistě astronomická – snímek byl pořízen v den zimního slunovratu 21. prosince. Ještě před 1500 lety byla shoda úplná
 
-  
+</section>
+
+<section>
 
 ![31.jpg](./resources/31_fmt.jpeg)
 
 > Oblasti staré a nové mayské říše
 
-  
+</section>
+
+<section>
 
 ![32.jpg](./resources/32_fmt.jpeg)
 
 > Jedna z obrovských figur: opice napojená na systém podivuhodně geometricky přesný, pracný a záhadný
 
-  
+</section>
+
+<section>
 
 ![32a.jpg](./resources/32a_fmt.jpeg)
 
@@ -104,7 +120,9 @@ Myšlenka, že se cosi takového kdysi dávno stalo, má několik podpůrných a
 
 Kromě toho nejsou „strašáci“ z Valle de Palpa jediní: v chilské poušti Tarapacáru byly roku 1968 objeveny podobné kresby, mezi nimi i stometrový obrys lidské postavy, vytvořený z lávových balvanů na výšině 200 metrů vysoké, a na náhorní rovině El Enladrillado další „letiště bohů“, dokonce obklopené amfiteátrem z kamenných bloků o hmotnosti kolem 10 000 kg.
 
-  
+</section>
+
+<section>
 
 ![33.jpg](./resources/33_fmt.jpeg)
 
@@ -120,7 +138,9 @@ Zdá se mi, že musíme připustit otřes místních kultur jakousi událostí, 
 
 V zájmu vědecké poctivosti musíme ovšem uvést i další možné vysvětlení, které však považuji za méně pravděpodobné, i když svrchovaně vzrušující: obrovské podoby zvířat a lidí, nalezené v Novém světě, jsou primitivní a nedokonalou nápodobou podivuhodné a naprosto tajemné kultury Marcahuasí.
 
-  
+</section>
+
+<section>
 
 ![34.jpg](./resources/34_fmt.jpeg)
 
@@ -130,7 +150,9 @@ Jde o oblast v Peru poblíže Limy v provincii Huarochiri a okrese Casta. Na
 
 Seznámil jsem se s Ruzovým spisem, doprovázeným početnými původními snímky. Jako znalec fotografie musím přiznat, že je nepokládám za mystifikaci a vylučuji dodatečné úpravy; dominanty oblasti Marcahuasí totiž tvoří čtyři gigantické hlavy, jedna s indiánskými rysy, druhá se semitskými, třetí s černošskými a čtvrtá zřejmě patřící neznámé rase. Jsou zde sochy želv, ropuch, sov, ryb, milenců, ale také, a to je v Americe prazvláštní, velblouda, býka, lva, gorily a slona, tedy zvířat, která zde buď nežila, nebo dávno vymřela. A k dovršení všeho lze rozeznat v zřejmě otesaných pahorcích podoby stegosaura a toxodona, kteří toto slzavé údolí opustili, jak pevně věříme, před 150 milióny let.
 
-  
+</section>
+
+<section>
 
 ![35.jpg](./resources/35_fmt.jpeg)
 
@@ -154,7 +176,9 @@ Ještě rozsáhlejší a podivuhodnější je systém jeskyň, který objevil r
 
 Přiznám se, že jsem této náladě rovněž podlehl, tím spíše, že můj poměr k Dänikenovým hypotézám je, jak čtenář jistě poznal, značně rezervovaný. Myšlenka na „stovky kilometrů“ podzemních chodeb pod Ecuadorem a Peru se mi zdála vymykat se zdravému rozumu, a argumentům, uvedeným v Dänikenově knize Aussaat und Kosmos (Econ Verlag 1972), jsem prostě nevěřil.
 
-  
+</section>
+
+<section>
 
 ![40.jpg](./resources/40_fmt.jpeg)
 
@@ -210,20 +234,28 @@ Další možností je útěk z ohrožené oblasti a velkorysé „smazání st
 
 V každém případě zde tušíme stín…
 
-  
+</section>
+
+<section>
 
 ![37.jpg](./resources/37_fmt.jpeg)
 
 > Památník Opeřeného hada – hlavní pyramida v mayském městě Chichen Itzá s jedenadevadesáti schody a devíti stupni
 
-  
+</section>
+
+<section>
 
 ![38.jpg](./resources/38_fmt.jpeg)
 
 > Na trase „otřesených civilizací“ nacházíme množství létajících bohů, démonů i strojů
 
-  
+</section>
+
+<section>
 
 ![39.jpg](./resources/39_fmt.jpeg)
 
 > Některé objekty jsou těžko vysvětlitelné a jejich označení je výsledkem konvence; tato kamenná mayská plastika byla označena jako „hlava papouška Xochicalco“
+
+</section>

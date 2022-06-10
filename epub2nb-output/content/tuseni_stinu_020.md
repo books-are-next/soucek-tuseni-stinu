@@ -3,6 +3,8 @@ title: Delfíni, mému srdci milí…
 contentType: prose
 ---
 
+<section>
+
 > _… Ulož jim zvlášť jednoduchý test, který by dokázala  
 > nejnepatrnější potrhlá bílá myš, a oni ho dokonale zvržou –  
 > ale neklasickým způsobem. Měli jsme jeden takový test: tři  
@@ -82,7 +84,9 @@ Rovněž cílevědomé jednání samo o sobě a v souladu se základními ins
 
 Až bude tento předpoklad potvrzen (bude-li kdy), dozvíme se to nejpravděpodobněji formulací, podobnou hodnocení mloků druhu Andrias Scheuchzeri vědeckou komisí v Čapkově Válce s Mloky:
 
-  
+</section>
+
+<section>
 
 1\. Andrias Scheuchzeri, mlok chovaný v londýnské zoo, dovede mluvit, byť i poněkud skřehotavě; disponuje asi čtyřmi sty slovy; říká jen to, co slyšel nebo četl. O samostatném myšlení u něho nelze ovšem mluvit, jeho jazyk je dosti pohyblivý; hlasivky jsme za daných okolností nemohli blíže zkoumat.
 
@@ -90,7 +94,9 @@ Až bude tento předpoklad potvrzen (bude-li kdy), dozvíme se to nejpravděpodo
 
 3\. Jeho inteligenci není naprosto třeba přeceňovat, neboť v žádném ohledu nepřekračuje inteligenci průměrného člověka našich dnů.
 
-  
+</section>
+
+<section>
 
 Je to krutý humor, ještě krutější v politickém kontextu knihy, psané pod hrozbou II. světové války a fašismu. Ale což skutečně neexistují i takové vědecké protokoly, neexistují snad rasističtí antropologové nebo nacionalističtí archeologové, schopní zaměňovat prostotu s primitivismem a originalitu s chorobou?
 
@@ -99,3 +105,5 @@ Možná, že jsou tyto závěry nepodložené. Snad opravdu jsou delfíni jen ro
 A trochu trpký a nepříjemný pocit zůstává: nezklamali jsme tváří v tvář možnosti generální zkoušky styku lidstva s ne-lidskými partnery? Není spočítání zvuků, jež dovedeme lidským uchem rozlišit, a zařízení basketbalových košíků v oceanáriích trochu málo? A co říci vojákům, kteří se nezatěžují úvahami o výšce delfíního IQ, ale jednají? Tam, kde ještě před deseti lety doprovázela každou loď hejna delfínů, je dnes pusto a prázdno. Výtěžky rybolovu delfínů – ano, delfín je běžně v Japonsku, na Nové Guineji, na Šalamounových ostrovech, v Turecku a Latinské Americe zabíjen na maso, dalších 250 000 delfínů ročně se utopí v sítích na tuňáky – ustavičně klesají.
 
 Zatím nezbývá než omluvit se slovy básníka 2. století Aeliana, z jeho knihy Perizoon: „Delfíni, mému srdci milí, buďte shovívaví k lidské hrubosti…“
+
+</section>

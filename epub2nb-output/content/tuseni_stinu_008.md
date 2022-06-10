@@ -3,6 +3,8 @@ title: Několik nepříjemných skutečností
 contentType: prose
 ---
 
+<section>
+
 > _Nelze prokázat větší službu pravdě  
 > než ji očistit od věcí falešných._
 
@@ -117,3 +119,5 @@ Arthur Schopenhauer kdysi vyjádřil myšlenku, že každá teorie musí projít
 Názory, k nimž směřuje tato kniha, se bolestně probojovaly do druhé etapy. Jsou dnes převážně odmítány ne už výsměchem, ale vážnou argumentací.
 
 Bylo by nenahraditelnou škodou připravit se o tuto pracně vybojovanou pozici nového a slibného pohledu do minulosti lidstva. Bylo by nenapravitelnou chybou vyměnit „prvorozenství“ diskuse, k níž jsou konečně tyto názory pozvány, za „mísu čočovice“ jepičích senzací, směšného sektářství a zaslepené horlivosti.
+
+</section>
