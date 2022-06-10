@@ -12,8 +12,6 @@ PROFESORŮ O PÁDU METEORITU
 
 Příčiny podivného vyhynutí mamutů v severní Sibiři a na Aljašce zaměstnávají vědce zvučných jmen, včetně Darwina a Cuviera, značně dlouho. Bylo to opravdu podivné vyhynutí, které nakupilo množství mamutích koster, leckde dokonce dobře zachovaných těl zdechlých zvířat, dobře živených a s letní stravou v žaludcích a mezi zuby. Snaha vysvětlit mamutí hekatombu přirozenými příčinami, např. genetickým přežitím, klimatickými výkyvy a z nich rezultujícími změnami pastvy i významnou účastí člověka-lovce právě v severosibiřských lokalitách, zásobujících po staletí slonovinou evropské i asijské trhy, zklamala. Smrt mamutů byla zřejmě náhlá, a ačkoli nastala v létě, ocitli se mamuti od tohoto okamžiku v „přírodní chladničce“, která je skvěle uchovala po dlouhá tisíciletí.
 
-  
-
 Hledala se tedy vysvětlení další. Zoolog Ivar Sanderson, známý svými odvážnými hypotézami, uvažoval o plynech z vulkánů, které se z horních vrstev atmosféry snášely jako „ledové sloupy vzduchu“, mrazící velikány tundry. Meteorologové však takový fenomén neznají. Sovětský vědec Š. Gasanov se domnívá, že se mamuti propadali do klínovitých trhlin, vznikajících v létě v permafrostu, věčně zmrzlé zemi, a zakrytých jen slabým stropem. Občas v nich dnes na Čukotce mizí i traktory i koně. Je to důvtipná domněnka, avšak poloha nalezených a zachovaných zdechlin jí neodpovídá, nehledě na jiné klimatické podmínky, doprovázející vyhynutí mamutů.
 
 Jednou z hypotéz, které zatím odolávají, je katastrofální vyhubení mamutů dopadem obrovského meteoritu, který se nejpravděpodobněji zřítil do moře, zdvihl do stratosféry obrovské masy vod, jež se ve formě přechlazeného sněhu vrátily na Zemi, zasypaly a zmrazily mamuty a rázem změnily klima tundry, snad i v souvislosti se změnou polohy zemského geoidu vůči rotační ose, vyvolanou nárazem a výbuchem.
@@ -39,6 +37,8 @@ Při geodetickém vyměřování Severní a Jižní Karolíny roku 1931 bylo na
 Rakouský geolog a astronom Otto Muck, který se zabýval podrobně otázkou pádu nebeského tělesa, jež zanechalo stopy dopadu svých částí v obou Karolínách, především vzhledem ke svým atlantologickým výzkumům (část materiálů této kapitoly ostatně čerpám z atlantologické publikace Ludwiga Zajdlera), odhadl váhu planetoidy na bilion tun, průměr asi na 10 km.
 
 Zkáza způsobená takovou nebeskou střelou by na pevnině musela být obrovská. Podle upravené tabulky polského astronoma J. Gadomského by průměrné úplné zničení zemského povrchu, závislé ovšem na relativní rychlosti dopadajícího tělesa vzhledem k Zemi a na úhlu dopadu, představovalo:
+
+  
 
  
 
@@ -77,6 +77,8 @@ polovinu Asie nebo Evropu i severní Afriku a Blízký východ
 17 000 metrů
 
 polovinu povrchu planety
+
+  
 
 Byla to šťastná náhoda, že planetoida dopadla do moře. Jen některé její části, které se při průletu atmosférou strašlivým čelním tlakem odtrhly, byly zbrzděny tak, že „pokropily“ část Severní Ameriky. I tak ovšem znamenala srážka nesmírné zničení širokého okolí. Velké plochy mořského dna se propadly do hloubek 6000–9000 metrů, celé skupiny ostrovů – jak se zdá – zmizely pod hladinou. Mocné vlny se hnaly rychlostí tryskových letadel ke břehům kontinentů a vyvolávaly zde stěží představitelné záplavy.
 

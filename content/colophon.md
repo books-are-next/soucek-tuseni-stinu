@@ -6,12 +6,11 @@ Ludvík Souček
 Tušení stínu  
 Hledání ztracených civilizací  
 Edice Záhady  
-Ilustrace v knize a na obálce z archivu autora  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -25,8 +24,6 @@ Text díla (Ludvík Souček: Tušení stínu), publikovaného [Městskou knihov
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-
-  
 
   
 

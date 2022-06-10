@@ -12,8 +12,6 @@ AGRIPPA Z NETTESHEIMU, 1531
 
 Paul Brunton, který celý život zasvětil zkoumání podstaty východních mystických praktik i praktické mystice, napsal na sklonku života rozsáhlé dvousvazkové dílo, v němž doznává: je třeba konečně říci, že mystika v žádné formě nevede ke „spojení s bohem“, nemá sama o sobě žádný náboženský ani mravní význam. Je jenom zdrojem příjemných pocitů. Lidé, kteří se jí oddávají, touží po těchto příjemných pocitech a usilují o to, aby se opakovaly. Nic víc.
 
-  
-
 Je to strašná deziluze, které se spousty snílků dočkaly od jednoho ze svých uznaných vůdců. Namlouvají si totiž, že se přesvědčují o existenci boha osobně, že si zajišťují věčný život, že se vymykají ostatním lidem, atd. atd.
 
 Je třeba říci to ještě brutálněji (což Brunton neučinil): z fyziologického hlediska je podráždění míšních nervů, vznikající různými mystickými praktikami, ekvivalentní bouři tzv. vegetativního nervového systému, vznikající při orgasmu, i když je ovšem mechanismus jiný. Dosažení těchto stavů, promítajících se ve formě zahalených koruptel do všech náboženství a usnadňovaných používáním jistých psychofarmak rostlinného původu, obvyklým takřka u všech přírodních národů za zvláštních příležitostí a nevedoucím tedy většinou k narkomanii, patří k prastarým znalostem lidstva. Vrcholnou extázi, ať už je nazývána rozličnými školami jakkoli, prožívali stejně šamani pravěkých lovců jako křesťanští světci, hinduističtí „svatí mužové“ i nemnozí trpěliví Evropané, kteří si navzdory krajně nepříznivým okolnostem zcela jiné doby a atmosféry potřebné – a řekněme hned, že pro zdraví duševní i fyzické dost nebezpečné – schopnosti osvojili.
@@ -102,11 +100,15 @@ Zčásti pod vlivem těchto zjištění se obnovila i pokusná práce na kvalit
 
 Puškin pátrá po síle, jež telekinezi působí, a dochází k zajímavým závěrům:
 
+  
+
 1\. psychokineze vyžaduje soustředění, jehož je pokusný objekt schopen nejvýše na 25 vteřin,
 
 2\. reakce je řízena vývojově velmi starými centry mozku, která člověk zdědil ze své dávné minulosti,
 
 3\. psychokinetickou energii by bylo patrně možné zvětšit při působení většího množství disponovaných osob.
+
+  
 
 Nebudeme se zabývat mechanismem psychokineze. Snad zde hraje úlohu praktické uplatnění Dirakových předpovědí v souvislosti s tzv. Pauliho principem: Dirac (objevitel pozitronu a jeden z vedoucích kvantových fyziků, laureát Nobelovy ceny roku 1933) se domníval, že elementární částice, jimiž se zabýváme v našem běžném fyzikálním světě, představují jakýsi přebytek energie, že vakuum není prostorem, v němž by nebylo nic, ale naopak oceánem částic s negativní energií, natěsnaných jedna vedle druhé. To, co vnímáme jako částice, jsou vlastně „díry“ v této energetické hladině. O energii by tedy mohlo být postaráno např. jak pro psychokinezi, tak i pro jiné, dosud nevysvětlené jevy.
 
@@ -120,9 +122,13 @@ Drbal s Rejdákem připouštějí, že patrně jde většinou o masovou sugesc
 
 V levitaci je patrně třeba hledat zdroj celé řady maleb z různých končin světa (Tassíli, Žabbáren, Ázerbájdžán aj.), na nichž jsou nakresleny postavy „v beztížném stavu“, vznášející se zjevně ve vzduchu bez jakékoli opory. Zdá se to pravděpodobnější než Dänikenovy domněnky o vyhlídkových letech výkladů v kosmických korábech nepozemšťanů a s nimi spojenými zkušenostmi se změnami gravitace. Ostatně i kresby „kosmonautů v přilbách s anténami“, totiž postav s hlavami, obklopenými jakousi svatozáří a nalézaných všude po celém světě, by mohly být např. zpodobením či spíše abstrakcí osob s telepatickými nebo jinými paranormálními vlastnostmi.
 
+  
+
 ![49.jpg](./resources/49_fmt.jpeg)
 
 > „Plavci“, skalní kresba z Gilf Kebiru v Libyi z počátku 2. tisíciletí před n. l., připouštějící řadu výkladů
+
+  
 
 ![50.jpg](./resources/50_fmt.jpeg)
 
@@ -131,6 +137,8 @@ V levitaci je patrně třeba hledat zdroj celé řady maleb z různých končin
 Pro úplnost je nutno uvést další možné vysvětlení obrazů a kre­seb postav, levitujících v beztížném stavu, totiž tzv. „létací“ sny, kterými je navštěvována většina z nás a které jsou obvykle vysvětlovány buď jako atavistická druhová vzpomínka na blahý život, strávený hopkováním ve větvích pralesa, nebo – což je pravděpodobnější – pocitem lehkosti v okamžiku usínání, kdy jako první „usíná“ hmat a s ním i pocit styku těla s podložkou.
 
 Mezi zvláštní paranormální schopnosti patří soubor tibetských cviků lung-gom, jenž v obecné formě směřuje k rozličným cílům fyzického i duševního zdokonalení (čímž se značně přibližuje snahám klasického Řecka o harmonii mladíků – kalokagathů). Ve zvláštní podobě pak má propůjčovat schopnost nadnormální rychlosti a lehkosti, umožňující takřka neuvěřitelné denní pochody mimořádně obtížným terénem a v nadmořských výškách, kde Evropanu, neopatřenému kyslíkovým přístrojem, činí obtíže v pravém smyslu slova každý krok. Lung-gom-pa, subjekt, vybavený touto schopností, si dovede podle Tibeťanů „sednout na klas a neohnout ho, nebo se postavit na hromadu ječmene a neshodit ani jediné zrno“. Vrcholem cviků lung-gom je dosažení levitačních schopností; někteří nejinteligentnější zasvěcenci (a tedy lidé vzdělaní a na rozdíl od masy pologramotných mnišských parazitů ve výrocích opatrní) tvrdí, že za jistých okolností se lung-gom-povy nohy přestanou dotýkat půdy a že klouže prostorem značnou rychlostí. Je charakteristické, že právě tito zasvěcenci sice lung-gom uznávají, ale nepřikládají mu žádný význam. Jeho nositele považují za pouhé zřízence zvláštní kategorie, vhodné k obstarávání rychlého spojení mezi vzdálenými kláštery. Tím byla vysvětlena skutečnost, o níž se zmiňují takřka všichni cestovatelé Tibetem: ať jejich karavana cestovala sebeusilovněji a po jediné schůdné cestě, jejich „akta“ je pravidelně předešla, právě tak jako popis pobytu na předchozí zastávce. Pokud nepředpokládáme bezdrátové rádiové spojení (což v minulých stoletích zajisté nepředpokládáme), zbývá na vysvětlenou pouze telegnose, telepatie nebo doručení zprávy běžcem lung-gom-pou. Poslední vysvětlení se zdá být nejpravděpodobnější.
+
+  
 
 ![48.jpg](./resources/48_fmt.jpeg)
 
@@ -241,6 +249,8 @@ Celá řada naprosto spolehlivých a ověřených zpráv však popisuje rituál
 Jednu z posledních obsáhlých zpráv o ohňochodcích podal nedávno v knize Po stopách Bounty známý dánský cestovatel Arne Falk-Rónne z Benqua, drobného ostrůvku v souostroví Fidži. Také zde probíhalo všechno jako jinde na světě – muži zkoušející svou manu, tajemnou vnitřní sílu, chodili za čtyřicetistupňového vedra po rozžhavených kamenech, jež rudě zářily – měly tedy teplotu nejméně 600°C, spíše však více, bylo-li rudé záření viditelné za jasného dne. Občas se na kamenech dokonce zastavili na jedné noze a nepopálené chodidlo druhé nohy ukazovali divákům… Oproti jiným produkcím tohoto druhu musí dokázat ohňochodci z Benqua, že jim nevadí ani kouř: na závěr se pohybují v jámě, kam je naházeno listí a ratolesti, jež na kamenech ihned vzplanou. Žádný nezakašlal.
 
 Všechny zprávy se shodují na mimořádném vzrušení tanečníků, jednajících zřejmě buď pod vlivem omamných drog (čemuž nasvědčuje výrazné rozšíření zornic), nebo v jakémsi transu, do něhož se uvádějí přípravnými tanci a obřady, a bez jakýchkoli známek poškození plosek nohou. V žádném případě nebyla zjištěna nějaká chemická nebo jiná příprava chodidel tanečníků a dnešní věda nezná prostředek, jímž by mohla zabránit těžkým popáleninám i při zcela letmém doteku s rozžhavenými kameny nebo žhavým uhlím. Také nebylo zjištěno mimořádné ztluštění a zrohovatění pokožky na chodidlech, spíše naopak. Teorie od psacího stolu, totiž že pokožka nohou tanečníků je nasycena kyselinou boritou nebo že nadměrné množství požitých tekutin způsobuje rychlé vylučování potu, a tudíž ochlazování chodidel ochrannou vrstvičkou vody, jsou sice důvtipné a skvěle hoví obecné potřebě zlikvidovat všechny nepříjemné otazníky, mají však společnou chybu: kdokoli se pokusil využít je v praxi, utržil již při prvém doteku řádné popáleniny.
+
+  
 
 ![51.jpg](./resources/51_fmt.jpeg)
 

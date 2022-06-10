@@ -19,13 +19,13 @@ JIŘÍ ŠULC: ČLOVĚK NA POKRAJI SVÝCH SIL, 1971
 
 Roku 1968 byla severně od bahamského ostrova Andros při leteckém snímkování náhodně objevena 2–3 metry pod hladinou moře obrovská zeď, dlouhá nejméně 500 metrů, sestavená z přesně opracovaných kamenných kvádrů o průměrné hmotnosti asi 25 000 kg. Stavba, jež nepochybně vznikala na souši, je tak dokonalá a lícování kvádrů tak přesné, že již 10 000 let (jak prokázaly zkoušky pomocí C 14 i další pomocná datování) odolává nejen vlnám, ale i tajfunům a uragánům, které jsou zde doma. Kyklopská stavba nejasného významu je tedy přibližně stejně stará jako pyramida Cuicuilco jihovýchodně od Mexico City, pokrytá lávou sopky Cerro Xitle, jež naposledy promluvila před 8–10 000 lety.
 
-  
-
 Nestalo se vlastně nic zvláštního – přibyl jen další doklad k nespočetným již existujícím o mimořádné schopnosti našich dávných předků opracovávat kámen a přesouvat jej na často ohromující vzdálenosti.
 
 Vznik a účel baalbecké terasy jsou neznámé (její původ nemá nic společného s komplexem „propagačních“ římských chrámů monumentálních rozměrů z 2. a 3. století n. l., pro něž sloužila jako základna), tím spíše, že údolí Bekká v pohoří Antilibanonu stěží mohlo nasytit a uhasit žízeň potřebného počtu pracovníků a cesty k němu jsou dodnes nevalné. Do základů byly vloženy obrovské kamenné kvádry o váze několika set tun; největší z nich, tzv. Trilithon, o rozměrech 23,47 m × 4,57 m × 2,27 m, má hmotnost 820 tun. Je tedy padesátkrát hmotnější než kvádry, použité ke stavbě egyptských pyramid, a nejpokročilejší technika starověku, zpodobená na egyptských reliéfech, by k manipulaci s ním vyžadovala soustředění a současné nasazení asi dvaceti tisíc dělníků, což si lze těžko představit. Kvádr byl totiž nejen přesunut z nedalekých lomů, ale vyzdvižen do výše sedmi metrů. Sovětský fyzik Matvěj Agrest napsal doslova: „Transport takového bloku a jeho vyzdvižení do výše sedmi metrů je problém neřešitelný i pro dnešní techniku.“ Něco na tom je – roku 1964 byla do Muzea umění v městě Mexiku dopravena socha boha deště Tlaloka z 50 km vzdáleného Coatlinchanu, vážící „pouze“ 170 tun. Transport byl proveden s technickou pomocí USA, trval řadu měsíců a vyžádal si náklad 200 000 dolarů. Hlavní inženýr stavby prohlásil, že to byl výkon na samé hranici možností.
 
 V Baalbeku však je ještě větší kámen, ne zcela vybavený z lomu. Je poněkud skloněný, což patrně zavdalo příčinu k romantickým interpretacím baalbecké terasy jako startovací rampy nepozemšťanů (lidově se nazývá „kámen těhotných“), a jeho hmotnost je asi 900 tun. Názorně: kolona pětitunových nákladních automobilů, jedoucích v předepsaných odstupech 50 metrů a naložená částmi „kamene těhotných“, by byla dlouhá 90 km, čelo by tedy bylo v Plzni, zatímco by poslední vozy opouštěly Prahu.
+
+  
 
 ![41.jpg](./resources/41_fmt.jpeg)
 
@@ -37,9 +37,13 @@ Megality jsou nalézány na mnoha místech světa – na všech atlantských b�
 
 Megality, ať už v podobě menhirů (samotných balvanů), dolmenů (umělých jeskyň) či kromlechů (kamenných kruhů s překlady) sloužily zřejmě kultu mrtvých, někde příbřežní navigaci plavců – např. na březích Finistère, kde začíná kanál La Manche, – bohoslužbám pohanských obětních kultů a astronomickým pozorováním, umožňujícím víceméně přesně určit okamžiky slunovratů, a tím i největších slavností roku.
 
+  
+
 ![42.jpg](./resources/42_fmt.jpeg)
 
 > Rozvaliny Černé pagody s mimořádně hmotnými překladovými kvádry, tvořícími vlastní stropy celých prostorných místností
+
+  
 
 ![43.jpg](./resources/43_fmt.jpeg)
 
@@ -51,9 +55,13 @@ Ponechme zatím stranou otázku, proč ta námaha, a ptejme se, jak byl transpo
 
 Takových příkladů bychom mohli jmenovat desítky: kamenné bloky hradby Sacsayhuamanu (ještě se k nim vrátíme), podivuhodná zeď pod hladinou u Androsu, monolitní brána slunce v Tíwanaku, opracované bloky kamene odhadované na desetitisíce tun v různých místech And…
 
+  
+
 ![44.jpg](./resources/44_fmt.jpeg)
 
 > Dolmen v Locmariaqueru, známý pod jménem Stůl kupců, s obrovitým překladovým balvanem
+
+  
 
 ![45.jpg](./resources/45_fmt.jpeg)
 
@@ -74,6 +82,8 @@ O schopnosti našich předků opracovávat kámen rozličným způsobem není s
 O kamenné posedlosti našich dávných předků by bylo ovšem možné popsat ještě tisíce stránek. Spokojme se s jediným posledním příkladem.
 
 Zvýšený zájem o středoamerické a jihoamerické kultury přivedl do pralesů řadu archeologů, mj. i profesora Marcela Hometa, jenž roku 1940 objevil v severní Brazílii, v povodí horního toku Rio Branco gigantické, patrně mnohými generacemi ze skály vytesané kamenné vejce, 100 metrů dlouhé a 30 metrů široké, nazývané místními obyvateli piedra pintada (malovaná skála). Jeho stěny jsou pokryty na ploše 600 m2 symbolickými, zřejmě astronomickými nebo astrologickými kresbami dosud neobjasněného významu. Hometův objev povzbudil další badatele. A záhy prolétla světem (zaměstnaným však tehdy většinou jinými starostmi, a proto celkem nepovšimnuté) zpráva archeoložky Doris Z. Stoneové: ve středoamerickém státě Kostarika jsou na nejpodivnějších a nejneočekávanějších místech stovky a snad tisíce geometricky naprosto přesných kamenných koulí o průměrech od několika decimetrů až po několik metrů. Nejtěžší až dosud objevená koule váží 16 tun a spolu s dalšími byla převezena místními podnikavci jako plastika, zdobící veřejné prostranství v hlavním městě San José.
+
+  
 
 ![46.jpg](./resources/46_fmt.jpeg)
 

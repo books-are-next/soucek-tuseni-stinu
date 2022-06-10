@@ -11,8 +11,6 @@ BEDŘICH ENGELS: DIALEKTIKA PŘÍRODY
 
 V úvodní kapitole o indiciích byla mj. vyvrácena domněnka, že dávná znalost velkých mlhovin a dalších nebeských objektů je sama o sobě důkazem neméně dávné existence dalekohledu.
 
-  
-
 Přesto však existují nepřímé doklady, nasvědčující dávné možnosti použití dalekohledu celá tisíciletí před tvrzením „Julese Verna středověku“, Rogera Bacona, že „… lze průhledná média uspořádat pro oko tak,… že lze vidět věci v dálce… Ba, mohli bychom tak i stáhnout Slunce a Měsíc z oblohy…“ (asi r. 1250), před pověstným nezbedným synkem holandského optika Jana Lippersheye, jenž si prý darebně hrál s otcovými sklíčky a objevil taje jejich kombinací, takže tatíček roku 1604 vytvořil „holandskou trubici“, první dalekohled světa. A navíc že tento dalekohled, jehož existenci předpokládáme, byl obrácen k nebesům celá tisíciletí před památným dnem roku 1609, kdy tak učinil Galileo Galilei.
 
 Velmi silným argumentem pro pradávnou znalost dalekohledu, zasvěcenci (jako obvykle nejpravděpodobněji kněžími) pečlivě utajovaného, není samo vědomí skutečnosti, že se Venuše občas jeví jako srpek, ale všeobecné rozšíření tohoto vědomí a dále znalost proměn jejích fází, které nejsou postižitelné ani výjimečně dokonalým zrakem. Experimenty, provedené hvězdáři, dokázaly, že ani mimořádně ostrozrací lidé, vybraní z tisíců a tisíců, nejsou schopni zachytit spolehlivě fázi Venuše, závisející na okamžité poloze této planety vůči Zemi a Slunci.
@@ -36,6 +34,8 @@ Také krétské uctívání býků je dostatečně známo nejen z báje o Mín
 Není třeba dodávat, že skalnatá a málo úrodná Kréta, jež z existenčních důvodů vytvořila první thalassokracii a bohatla v době slávy námořní válečnou mocí i obchodem, nebyla vhodným místem chovu hovězího dobytka a že býci, chovaní v Knóssu i ostatních palácových sídlech pro skokanské exhibice, byli možná (ne-li pravděpodobně) jedinými exempláři.
 
 Někteří autoři, zabývající se nejstaršími dějinami hvězdářství (u nás to byl např. Josef Sadil), se domnívají, že prvotní impuls k ochočení skotu nebyl užitkový a nemotivovala jej snaha dostat se snadno a kdykoli k masu a mléku, ale rituální, vyplývající z všeobecně rozšířeného zbožnění Měsíce. V rozích skotu spatřovali růžky měsíčního srpku a pojem posvátnosti přenesli z Měsíce i na zvíře.
+
+  
 
 ![10.jpg](./resources/10_fmt.jpeg)
 
@@ -74,6 +74,8 @@ Je-li pravdivé tvrzení, že Chaldejci zobrazovali svého boha, ztotožněného
 Je tedy celá řada dobrých podkladů pro tvrzení, že starověk znal princip i techniku zhotovování dalekohledů, jež byly v dosahu možností sklářského díla, pyšnícího se již nejméně pětitisíciletou tradicí. Otazníkem zůstává, jak dávné civilizace k této znalosti tak záhy dospěly.
 
 Ostatně se zdá, že se znalost dalekohledu tak docela neztratila a že si ji díky přísně tajeným kontaktům s arabskými protivníky a zejména jejich tajnými společnostmi (včetně tzv. hašašínů, vrahů Starce z hory) osvojili a do Evropy přivezli např. templáři. Nasvědčuje tomu – podle mého mínění – mnoho diskutovaný a hledači pokladů všelijak vykládaný nápis na starém sídle komtura velkopřevorství templářů ve Francii na hrádku Arginy na panství Beaujeu. Nápis zní:
+
+  
 
 Zbuduješ tento tajný příbytek,  
 dáš mu tři stonásobky základní míry zdéli,  

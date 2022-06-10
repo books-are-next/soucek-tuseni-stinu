@@ -9,8 +9,6 @@ ROGER BACON (1214–1294)
 
 Kosmická tělesa, především hvězdy, mění v souladu se svým vývojem spektrum, právě tak jako mění absolutní i ze Země pozorovatelnou (zdánlivou) hvězdnou velikost, vyjádřenou Pogsonovou stupnicí, magnitudu. U některých hvězd byly tyto proměny pozorovány již v epoše vědecké astronomie, o jiných se to dozvídáme z astrologických pramenů, v některých případech se pouze dohadujeme.
 
-  
-
 Před několika desítkami let proběhl v české odborné literatuře dosti temperamentní spor o dávnou barvu Síria, nejjasnější hvězdy oblohy, jehož se u nás zúčastnil prof. Arnošt Dittrich na jedné a prof. Jan Bor na druhé straně. Bor, opíraje se o staré prameny, tvrdil, že Sírius, soudě podle zpráv babylónských, egyptských, řeckých i římských, byl kdysi červený. Svědčí o tom i jeho pojmenování; např. babylónský Šukudu – zářící měď, i rudý šat s ním ztotožněných bohů a bohyň, rudá barva obětin, přinášených Síriovi v Římě 25. dubna každého roku, a konečně i svědectví Ptolemaia, Horatia, Seneky a Aviena. Podobnou změnou – podle Bora – prošel prý i Algol (beta Persei), dnes jasně bílý, ale podle arabského hvězdáře Sufiho ještě rudý.
 
 Dittrich kladl Borovy vývody jeden za druhým na lopatky a prohlašoval, že rudá barva starověkého Síria pochází z pozorování jeho heliaktických východů (tzn. současných s východem Slunce), důležitých např. pro egyptský kalendář, a tím pro určení agrotechnických lhůt, atmosférou, takřka ustavičně znečištěnou zvířeným pouštním prachem a pískem, pohlcujícím krátkovlnné paprsky. Zdá se, že měl pravdu.
@@ -97,9 +95,13 @@ V podstatě ano. Podivné údobí pozemského permotriasu je toho nepřímým d
 
 Smíme se jen dohadovat, jak k takové havárii planetární vegetace může dojít. Možností je celá řada – především radikální změna biotopu, způsobená např. kontaminací atmosféry chemicky vysoce aktivními složkami z mocných sopečných výbuchů nebo z ohonu některé komety, prudké zvýšení kosmického záření z neznámých příčin nebo např. poruchou či dočasným zmizením ochranného pláště planety (podotýkám, že kosmické sondy SSSR ani USA zatím neobjevily měřitelné magnetické pole Marsu), i celá řada dalších planetárních dějů. Podle snímků kosmických sond se zdá, že Mars byl kdysi vodou daleko bohatší než dnes…
 
+  
+
 ![55.jpg](./resources/55_fmt.jpeg)
 
 > Překvapující snímek Marineru 9 dokazující na Marsu v oblasti Tithonius Lacus nepochybné stopy eroze, způsobené nejpravděpodobněji vodou
+
+  
 
 ![56.jpg](./resources/56_fmt.jpeg)
 
@@ -131,9 +133,13 @@ Závěrem kapitoly poznamenejme, že jsou ustavičně nalézány doklady, svěd�
 
 Pro naše úvahy není bez významu taoistická tabulka astrologické systematiky planet, z níž vyjímáme jen rubriky „konkurujících“ planet Venuše a Marsu:
 
+  
+
 MARS – radost (!) – krev a slezina – srdce – hořkost – oheň – léto – jih
 
 VENUŠE – žal (!) – pokožka a vlas – plíce – břitkost (!) – kov (!) – podzim – sever
+
+  
 
 Porovnáním obou rubrik shledáme, že astrologické aspekty Venuše jsou ještě zřetelně poznamenány jejím nedávno všeobecně uznávaným negativním vlivem i spojením s kovem, zatímco krvavá role Marsu není dosud důsledně dovedena do konce.
 

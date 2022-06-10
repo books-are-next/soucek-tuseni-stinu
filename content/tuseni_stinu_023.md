@@ -11,11 +11,11 @@ ALEXEJ NIKOLAJEVIČ TOLSTOJ: ZEMĚ ZŮSTALA TAM
 
 Zabýváme-li se dávnými a ztracenými civilizacemi, můžeme s jistotou očekávat otázku, jak došlo k jejich zániku a zda je vůbec možná tak dokonalá likvidace, abychom dnes shromažďovali jen nejasné, nepatrné a ne vždy průkazné střípky indicií.
 
-  
-
 Je to možné a stalo se to mnohokrát i v dobách historických, nám daleko bližších, poskytujících písemné záznamy. S překvapením jsme odkryli teprve nedávno říše Sumerů, Chetitů, Chazarů, pouštní civilizace starého Peru, kvetoucí kultury v oblasti dnešní Sibiře, Harappu a mnoho dalších, ačkoli v žádném z vyjmenovaných případů nešlo o „civilizaci delfínů“, zanechávající jen nemnoho hmotných památek, ale o společenství s rozvinutou materiální civilizací. Takřka každým dnem objevují archeologové další a další dosud neznámé památky zapomenutých civilizačních okruhů, které je leckdy těžko zařadit, ačkoli mohly mít výrazný vliv na dějiny světa. Je např. nesporné, že to byli právě Chazaři, kteří v 7. a 8. století našeho letopočtu význačně přispěli k zaražení arabské expanze, směřující východní čelistí strategických kleští (západní objímala Pyrenejský poloostrov) do nitra Evropy vyzkoušenou cestou kočovných kmenů přes Kavkaz a kolem Kaspického jezera. Nebýt jejich úporného a osudného boje, vyvíjely by se patrně dějiny Evropy zcela jinak.
 
 Takřka každým dnem znovu ověřujeme – s jistým stupněm mrazení – že naše planeta chystala a ještě může chystat zkázu mimořádných rozměrů a že bychom neměli být ukolébáni iracionálním optimismem: nám se to nemůže stát.
+
+  
 
 ![52.jpg](./resources/52_fmt.jpeg)
 
@@ -185,6 +185,10 @@ XI. Arábie a Indický oceán
 
 432
 
+  
+
+  
+
 Předběžné údaje z dosud nezpracovaných území:
 
  
@@ -221,6 +225,10 @@ XIX. Atlantský oceán
 
 61
 
+  
+
+  
+
 Celkem tedy asi 800 sopek ohrožuje v historických dobách lidstvo – a objevení se dalších není nikdy vyloučeno. Velmi bezprostředně by o tom patrně dovedl vyprávět rolník Dionisio Polido, jemuž se při nejpokojnějším zaměstnání na světě, orání, vytvořil právě za zády zárodek nadějného vulkánu. Za dva měsíce dorostl v kužel 250 m vysoký a pak brzy v obrovitou sopku Paricutin, jež donutila obyvatele města San Juan de Parangaricutira opustit.
 
 V podstatě každý z těchto velkých výbuchů byl schopen zničit koncentrované sídliště, a to okamžitě smrští žhavých plynů (Martinique), nebo deštěm popela (Pompeje). V nejlepším případě mohl donutit obyvatelstvo v krátké době opustit s holýma rukama své město a ponechat zde vše, co je činilo „nervovým (a zároveň neuralgickým) centrem“ a odlišovalo od satelitních provincií. Také proto se pozornost atlantologů soustřeďuje na sopečná území, kde jsou hledána dávno zničená sídla jejich vytoužené Atlantidy.
@@ -247,11 +255,15 @@ Za mnoho romantičtějších možností uveďme alespoň jednu – „divoký o
 
 Pěkně utříděné, završené a kompletní fyzice 19. století nebylo nic neznámo a tajemství neexistovala – natož aby se snad nějak vázala k něčemu tak banálnímu jako k ohni. Oheň byl prostě svazkem plamenů a plamen hořícím sloupcem plynů nebo par – ještě já jsem se tuto definici ve škole učil. Dnes je oheň za přítomnosti jistých atomů a radikálů pro fyzika plazmou o nízké teplotě, tedy stavem hmoty, jejíž atomy a molekuly jsou smíchány s atomy a molekulami fyzikálně nestabilními, z nichž některé, jak prokázal např. Siegfried Klein, mají mimořádně vysokou teplotu, jakou nacházíme v plazmě tzv. horké. To je samo o sobě pozoruhodné – ovšem spíše pro plazmové fyziky. Podivnější však jsou zvláštní projevy „divokého ohně“, soustřeďující se, jak se zdá, z nevysvětlitelných (nebo lépe řečeno dosud nevysvětlených) příčin především na hustě osídlená místa.
 
+  
+
 ![53.jpg](./resources/53_fmt.jpeg)
 
 > Vznik Monta Nuova u Pozzuoli roku 1538 sopečným výbuchem
 
 Charakteristické znaky obrovských a mimořádně ničivých ohni­vých smrští nevysvětlitelného původu jsou (podle Bergiera):
+
+  
 
 1\. Podstatně zvýšená teplota atmosféry, vzhledem ke zjištěnému vzniku ultrafialových paprsků nejméně 10 000 až 13 000 K, což je více, než se až dosud podařilo laboratorně dosáhnout jakoukoli chemickou reakcí.
 
@@ -260,6 +272,8 @@ Charakteristické znaky obrovských a mimořádně ničivých ohni­vých smrš
 3\. Periodičnost, tendence se opakovat v kratších nebo delších časových intervalech na týchž místech.
 
 4\. Zvýšená radioaktivita půdy po požáru navzdory nižšímu množství radioaktivních hornin, než by odpovídalo naměřené hladině.
+
+  
 
 ![54.jpg](./resources/54_fmt.jpeg)
 
