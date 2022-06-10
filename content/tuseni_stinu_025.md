@@ -3,6 +3,8 @@ title: "Výstražný příklad a\_jeden z\_možných příspěvků řešení = M
 contentType: prose
 ---
 
+<section>
+
 > _V těchto věcech je třeba postupovat obezřele, neboť člověk se často zmýlí a dopouští se zejména dvou omylů: jedni popírají všecko neobyčejné a druzí překračují rozum a upadají do magie. Je tedy třeba vystříhat se těch početných knih, které obsahují verše, znamení, modlitby, zaklínadla a obětní formule, neboť to jsou knihy ryzí magie, a jiných, kterých je nekonečné množství a jež neobsahují ani sílu umění, ani sílu přírody, ale výmysly kouzelníků. Na druhé straně je však nutno uvážit, že mezi knihami pokládanými za magické jsou takové, které magické vůbec nejsou a obsahují tajemství mudrců… Jestliže někdo nalezne v těchto dílech nějaký postup přirozený nebo umělý, nechť si ho ponechá._
 
 ROGER BACON (1214–1294)
@@ -95,13 +97,17 @@ V podstatě ano. Podivné údobí pozemského permotriasu je toho nepřímým d
 
 Smíme se jen dohadovat, jak k takové havárii planetární vegetace může dojít. Možností je celá řada – především radikální změna biotopu, způsobená např. kontaminací atmosféry chemicky vysoce aktivními složkami z mocných sopečných výbuchů nebo z ohonu některé komety, prudké zvýšení kosmického záření z neznámých příčin nebo např. poruchou či dočasným zmizením ochranného pláště planety (podotýkám, že kosmické sondy SSSR ani USA zatím neobjevily měřitelné magnetické pole Marsu), i celá řada dalších planetárních dějů. Podle snímků kosmických sond se zdá, že Mars byl kdysi vodou daleko bohatší než dnes…
 
-  
+</section>
+
+<section>
 
 ![55.jpg](./resources/55_fmt.jpeg)
 
 > Překvapující snímek Marineru 9 dokazující na Marsu v oblasti Tithonius Lacus nepochybné stopy eroze, způsobené nejpravděpodobněji vodou
 
-  
+</section>
+
+<section>
 
 ![56.jpg](./resources/56_fmt.jpeg)
 
@@ -133,16 +139,22 @@ Závěrem kapitoly poznamenejme, že jsou ustavičně nalézány doklady, svěd�
 
 Pro naše úvahy není bez významu taoistická tabulka astrologické systematiky planet, z níž vyjímáme jen rubriky „konkurujících“ planet Venuše a Marsu:
 
-  
+</section>
+
+<section>
 
 MARS – radost (!) – krev a slezina – srdce – hořkost – oheň – léto – jih
 
 VENUŠE – žal (!) – pokožka a vlas – plíce – břitkost (!) – kov (!) – podzim – sever
 
-  
+</section>
+
+<section>
 
 Porovnáním obou rubrik shledáme, že astrologické aspekty Venuše jsou ještě zřetelně poznamenány jejím nedávno všeobecně uznávaným negativním vlivem i spojením s kovem, zatímco krvavá role Marsu není dosud důsledně dovedena do konce.
 
 Tolik tedy o katastrofě, která snad postihla v nedávné době sesterskou planetu Mars a proměnila její rostlinnou (přinejmenším) dekoraci. Teď už nezbývá než čekat, až první člověk vystoupí na povrch Marsu a vrátí se s pokladem nasbíraných vzorků, které naši domněnku potvrdí, nebo vyvrátí.
 
 [^1]: Odkaz k závěru textu kapitoly _Formy života ve vesmíru_. _Pozn. red._
+
+</section>

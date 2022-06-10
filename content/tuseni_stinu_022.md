@@ -3,6 +3,8 @@ title: Na hranicích rozumu
 contentType: prose
 ---
 
+<section>
+
 > _Jsou lidé, jejichž obrazivost a síla myšlenek je velmi silná  
 > a mohou nabýti takové moci, že se mohou duším jiných lidí  
 > ohlašovat a je poučit o svých myšlenkách a přáních na velké  
@@ -100,7 +102,9 @@ Zčásti pod vlivem těchto zjištění se obnovila i pokusná práce na kvalit
 
 Puškin pátrá po síle, jež telekinezi působí, a dochází k zajímavým závěrům:
 
-  
+</section>
+
+<section>
 
 1\. psychokineze vyžaduje soustředění, jehož je pokusný objekt schopen nejvýše na 25 vteřin,
 
@@ -108,7 +112,9 @@ Puškin pátrá po síle, jež telekinezi působí, a dochází k zajímavým 
 
 3\. psychokinetickou energii by bylo patrně možné zvětšit při působení většího množství disponovaných osob.
 
-  
+</section>
+
+<section>
 
 Nebudeme se zabývat mechanismem psychokineze. Snad zde hraje úlohu praktické uplatnění Dirakových předpovědí v souvislosti s tzv. Pauliho principem: Dirac (objevitel pozitronu a jeden z vedoucích kvantových fyziků, laureát Nobelovy ceny roku 1933) se domníval, že elementární částice, jimiž se zabýváme v našem běžném fyzikálním světě, představují jakýsi přebytek energie, že vakuum není prostorem, v němž by nebylo nic, ale naopak oceánem částic s negativní energií, natěsnaných jedna vedle druhé. To, co vnímáme jako částice, jsou vlastně „díry“ v této energetické hladině. O energii by tedy mohlo být postaráno např. jak pro psychokinezi, tak i pro jiné, dosud nevysvětlené jevy.
 
@@ -122,13 +128,17 @@ Drbal s Rejdákem připouštějí, že patrně jde většinou o masovou sugesc
 
 V levitaci je patrně třeba hledat zdroj celé řady maleb z různých končin světa (Tassíli, Žabbáren, Ázerbájdžán aj.), na nichž jsou nakresleny postavy „v beztížném stavu“, vznášející se zjevně ve vzduchu bez jakékoli opory. Zdá se to pravděpodobnější než Dänikenovy domněnky o vyhlídkových letech výkladů v kosmických korábech nepozemšťanů a s nimi spojenými zkušenostmi se změnami gravitace. Ostatně i kresby „kosmonautů v přilbách s anténami“, totiž postav s hlavami, obklopenými jakousi svatozáří a nalézaných všude po celém světě, by mohly být např. zpodobením či spíše abstrakcí osob s telepatickými nebo jinými paranormálními vlastnostmi.
 
-  
+</section>
+
+<section>
 
 ![49.jpg](./resources/49_fmt.jpeg)
 
 > „Plavci“, skalní kresba z Gilf Kebiru v Libyi z počátku 2. tisíciletí před n. l., připouštějící řadu výkladů
 
-  
+</section>
+
+<section>
 
 ![50.jpg](./resources/50_fmt.jpeg)
 
@@ -138,7 +148,9 @@ Pro úplnost je nutno uvést další možné vysvětlení obrazů a kre­seb po
 
 Mezi zvláštní paranormální schopnosti patří soubor tibetských cviků lung-gom, jenž v obecné formě směřuje k rozličným cílům fyzického i duševního zdokonalení (čímž se značně přibližuje snahám klasického Řecka o harmonii mladíků – kalokagathů). Ve zvláštní podobě pak má propůjčovat schopnost nadnormální rychlosti a lehkosti, umožňující takřka neuvěřitelné denní pochody mimořádně obtížným terénem a v nadmořských výškách, kde Evropanu, neopatřenému kyslíkovým přístrojem, činí obtíže v pravém smyslu slova každý krok. Lung-gom-pa, subjekt, vybavený touto schopností, si dovede podle Tibeťanů „sednout na klas a neohnout ho, nebo se postavit na hromadu ječmene a neshodit ani jediné zrno“. Vrcholem cviků lung-gom je dosažení levitačních schopností; někteří nejinteligentnější zasvěcenci (a tedy lidé vzdělaní a na rozdíl od masy pologramotných mnišských parazitů ve výrocích opatrní) tvrdí, že za jistých okolností se lung-gom-povy nohy přestanou dotýkat půdy a že klouže prostorem značnou rychlostí. Je charakteristické, že právě tito zasvěcenci sice lung-gom uznávají, ale nepřikládají mu žádný význam. Jeho nositele považují za pouhé zřízence zvláštní kategorie, vhodné k obstarávání rychlého spojení mezi vzdálenými kláštery. Tím byla vysvětlena skutečnost, o níž se zmiňují takřka všichni cestovatelé Tibetem: ať jejich karavana cestovala sebeusilovněji a po jediné schůdné cestě, jejich „akta“ je pravidelně předešla, právě tak jako popis pobytu na předchozí zastávce. Pokud nepředpokládáme bezdrátové rádiové spojení (což v minulých stoletích zajisté nepředpokládáme), zbývá na vysvětlenou pouze telegnose, telepatie nebo doručení zprávy běžcem lung-gom-pou. Poslední vysvětlení se zdá být nejpravděpodobnější.
 
-  
+</section>
+
+<section>
 
 ![48.jpg](./resources/48_fmt.jpeg)
 
@@ -250,7 +262,9 @@ Jednu z posledních obsáhlých zpráv o ohňochodcích podal nedávno v kniz
 
 Všechny zprávy se shodují na mimořádném vzrušení tanečníků, jednajících zřejmě buď pod vlivem omamných drog (čemuž nasvědčuje výrazné rozšíření zornic), nebo v jakémsi transu, do něhož se uvádějí přípravnými tanci a obřady, a bez jakýchkoli známek poškození plosek nohou. V žádném případě nebyla zjištěna nějaká chemická nebo jiná příprava chodidel tanečníků a dnešní věda nezná prostředek, jímž by mohla zabránit těžkým popáleninám i při zcela letmém doteku s rozžhavenými kameny nebo žhavým uhlím. Také nebylo zjištěno mimořádné ztluštění a zrohovatění pokožky na chodidlech, spíše naopak. Teorie od psacího stolu, totiž že pokožka nohou tanečníků je nasycena kyselinou boritou nebo že nadměrné množství požitých tekutin způsobuje rychlé vylučování potu, a tudíž ochlazování chodidel ochrannou vrstvičkou vody, jsou sice důvtipné a skvěle hoví obecné potřebě zlikvidovat všechny nepříjemné otazníky, mají však společnou chybu: kdokoli se pokusil využít je v praxi, utržil již při prvém doteku řádné popáleniny.
 
-  
+</section>
+
+<section>
 
 ![51.jpg](./resources/51_fmt.jpeg)
 
@@ -291,3 +305,5 @@ Věřím, že budu správně pochopen: rozhodně se nepřimlouvám za založení
 Alespoň tolik na okraj některých zajímavých možností, jež se otevíraly v dávné minulosti netechnickým civilizacím, vytvářejícím svůj vztah k zevnímu prostředí zcela jinými prostředky, než jsou naše, a používajícím snad i jiných a překvapujících metod vyrovnání se s vynořivšími se problémy. Kdoví, zda náš model není alespoň v některých aspektech přípustným i pro civilizace nepozemské. Nikoli pro ty, které se vzdaly, jak se domnívá Lem, dalšího technického rozvoje vůbec a kosmické expanze zvláště. Taková regrese je sociálně i biologicky vyloučená a ještě daleko pošetilejší než hlásání „návratu k přírodě“ – také pro nás jsou tyto cesty navždy uzavřeny a křísit je jako praktické řešení civilizačních otázek by bylo jistě málo slibné. Možná však, že existují vesmírné „civilizace delfínů“, které z nejrůznějších důvodů nemohly zvolit jinou cestu. Kdoví zda se s nimi nesetkáme na planetách vzdálených hvězd, podaří-li se nám je dosáhnout.
 
 Jsem si vědom problémovosti této kapitoly a byl bych rád, aby byla pochopena tak nepředpojatě, jak se s těmito otázkami vyrovnával např. V. I. Lenin ve své knize Materialismus a empiriokriticismus, kde na námitky o mechanickém přístupu materialismu ke vztahu vědomí a skutečnosti odpovídá: „To je ovšem nesmysl. Jako by materialismus něco tvrdil o ‚menší‘ reálnosti vědomí nebo nutně ‚mechanickém‘, a ne elektromagnetickém, nebo _ještě mnohem složitějším obrazu světa jako__ž__to pohybující se hmoty!_“
+
+</section>

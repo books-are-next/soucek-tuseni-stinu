@@ -3,6 +3,8 @@ title: Dávné Hirošimy
 contentType: prose
 ---
 
+<section>
+
 > _Všichni souhlasíme, že vaše teorie je šílená.  
 > Rozcházíme se jen v tom, zda je dostatečně šílená, aby bylo  
 > pravděpodobné, že je pravdivá.  
@@ -40,7 +42,9 @@ Co znamenají tyto vzkazy z dávné minulosti Indie, v nichž bychom mohli ost
 
 A jaký to byl „hrom a blesk, schopný zničit nepřítele v krajině i za hradbami“, který uvádí řecký sofista Flavius Filostratos jako důvod náhlého a strategicky dosti podivného návratu Alexandra Velikého z Indie, jež byla přece vlastním cílem celého tažení? Nebo se opravdu vrátil jen pro nepokoje v týlu bojujících vojsk, jak je dnes všeobecně tvrzeno?
 
-  
+</section>
+
+<section>
 
 ![11.jpg](./resources/11_fmt.jpeg)
 
@@ -62,7 +66,9 @@ Jakousi ilustraci k Vimanika Šastra jsou reliéfy skalního chrámu v Eloře 
 
 „… Bhoma letěl se svým vimanem na mocném paprsku, který zářil jako slunce a jehož hluk se podobal rachotu moře…“
 
-  
+</section>
+
+<section>
 
 ![13.jpg](./resources/13_fmt.jpeg)
 
@@ -82,7 +88,9 @@ Pomocí těchto strojů, prohlašují indické prameny, mohli pozemšťané vyst
 
 Na dobu, kdy ještě nebyl založen Řím a kdy se „řecký zázrak“ skrýval v daleké budoucnosti, je to jistě slušný technický popis reaktivního nebo raketového vzdušného plavidla, jemuž velkoryse promineme mylnou představu, že se výtokový proud z trysek opírá o zem a tím plavidlo nadnáší. Nemusím snad dodávat, že ani tyto překlady citátů nejsou svévolně upravovány a „modernizovány“, i když by ovšem textová kritika, základ historického zkoumání, byla namístě.
 
-  
+</section>
+
+<section>
 
 ![12.jpg](./resources/12_fmt.jpeg)
 
@@ -92,7 +100,9 @@ Ve staroindickém eposu Rámájana nalezneme řadu pasáží, které lze vysvět
 
 Ráma a jeho bratr Lakšman se utkali s démonem:
 
-  
+</section>
+
+<section>
 
 … les porážel – to démon po nich ruce vztáh.  
 Bez hlavy, bez nohou byl, ústa v břiše měl,  
@@ -101,11 +111,15 @@ jak černé mračno vypadal a hromem řval…
 ………  
 V tu chvíli duch se vznesl v záři planoucí…
 
-  
+</section>
+
+<section>
 
 Ráma si zajistil spojenectví dobrého krále opic Hanumana. Král medvědů Hanumana oslovuje:
 
-  
+</section>
+
+<section>
 
 Vstaň, reku, přeskoč moře, zachraň všecky nás!  
 Tvým otcem je bůh větru, on ti sílu dal.  
@@ -113,11 +127,15 @@ Už jako dítě, když jsi slunce uviděl,
 tys myslel, že plod rudý vidíš před sebou,  
 a do nebe jsi skočil celých tři sta mil…
 
-  
+</section>
+
+<section>
 
 Jinde nacházíme verše:
 
-  
+</section>
+
+<section>
 
 Zamával Hanuman svým velkým ocasem,  
 jenž zablýskal se křivolace ve vzduchu.  
@@ -127,7 +145,9 @@ v jeskyních řvali strachem skrytí tvorové,
 v úzkosti hadi oheň z tlamy chrlili  
 a skálu kousali, až jasně vzplanula…
 
-  
+</section>
+
+<section>
 
 V eposu Hanuman spolu s opičím vojskem potřel strašné démony rákšásy i s jejich králem Rávanou a osvobodil krásnou Sítu. V „kosmické“ interpretaci by patrně bylo možné nalézt v eposu vzpomínku na humanoidní návštěvníky z vesmíru a jejich „krále“ – raketoplán.
 
@@ -151,7 +171,9 @@ Hospodin slíbil (v Mojžíšově podání) zahladit Sodomu a Gomoru sírou a 
 
 3\. Popis samotného Hospodinova dopuštění je dosti sugestivní: „… Hle, vystoupil sloup kouře ze země jako sloup kouře z výhně… A dštila na Sodomu a Gomoru síra a oheň… A zničila města tato a celou rovinu a všechny obyvatele měst a kotliny země…“ „Sloup kouře ze země“ má morfologicky dosti blízko ke známému atomovému hřibu.
 
-  
+</section>
+
+<section>
 
 Moderní kritici bible mají celou řadu námitek jak proti biblické příhodě samotné, tak – tím spíše – proti její „kosmické“ interpretaci. Hlavními argumenty je naprosté zmizení obou měst a jejich existence právě jen v 1. Mojžíšově knize. Vyprávění o zničení hříšného města považují za jeden z didaktických mýtů, varujících před božím hněvem a jeho následky jako je potopa a další maléry, jež celkem nerudný a v hněvu ukvapený Hospodin sesílal na lidstvo. Takže se celá diskuse stává bezpředmětnou. Odmítají proto – domnívám se, že právem – psychologickou argumentaci, totiž rozbor jednání osob, jímž nelze dospět k jádru faktů, pouze k jádru psychologie legendy jako útvaru lidové slovesnosti.
 
@@ -187,7 +209,9 @@ Starozákonní líčení neodpovídá poklesu půdy. Jistě i taková katastrof
 
 Odborníci tu vylučují vulkanickou činnost v posledních deseti tisících letech, zemětřesení takové síly je rovněž nepravděpodobné. Ale zato na některých žulových blocích jsou zesklovatělé plochy, jako by tu působil strašlivý žár…
 
-  
+</section>
+
+<section>
 
 ![14.jpg](./resources/14_fmt.jpeg)
 
@@ -205,7 +229,9 @@ Přijmeme-li hypotézu atomových výbuchů nebo dokonce jaderných zbraní v d
 
 Laureát Nobelovy ceny Fréderic Soddy (1877–1956, Nobelova cena roku 1921 za chemii radioaktivních látek a za výzkum vzniku a povahy radioizotopů) napsal ve své knize Výklad rádia: „Domnívám se, že v minulosti existovaly civilizace, které znaly atomovou energii a které špatné používání této energie úplně zničilo.“
 
-  
+</section>
+
+<section>
 
 ![15.jpg](./resources/15_fmt.jpeg)
 
@@ -217,7 +243,9 @@ Pokusíme se o to dvěma směry: první z nich snad naznačuje důsledky, kter
 
 Druhou cestou je pokus o naznačení možností (nikoli o odkrytí nebo snad dokonce „řešení“), skrytých jako koruptela v obrovské a pro jednotlivce naprosto nepřehledné alchymické literatuře.
 
-  
+</section>
+
+<section>
 
 Do samého středu problému vstoupil alchymista, jenž roku 1937 vkročil do pracovny Jacquesa Bergiera, jaderného chemika a asis­tenta profesora Andrého Helbronnera, který po dobrodružné činnosti ve francouzském hnutí odporu, pobytu ve vyhlazovacím koncentračním táboře a obecném uznání po II. světové válce napsal s Pauwelsem knihu Jitro kouzelníků, kam odkazuji čtenáře k podrobnostem. Alchymista Bergierovi sdělil, že laskavostí Helbronnerovou zná obsah jejich společných pokusů s umělou radioaktivitou polonia a pokračoval: „… Smím vás varovat? Práce, kterou podnikáte, je nesmírně nebezpečná. Neohrožuje jenom vás, ale celé lidstvo. Uvolnění jaderné energie je snazší, než se asi domníváte. Umělá radioaktivita může v několika letech zamořit celou atmosféru naší planety. Kromě toho je možné pouhým přidáním několika gramů jistých kovů vyrobit atomové bomby, schopné zničit celá města. Říkám vám to zcela jasně; alchymisté to věděli už dávno.“ Bergier, pyšný na svou moderní laboratoř, se jen pousmál, ale muž pokračoval: „Vím, co chcete říci… Alchymisté neměli ani ponětí o struktuře atomového jádra, neznali elektřinu, neměli žádné detektory, a proto nebyli schopni provádět žádné transmutace či uvolňovat jadernou energii. Nebudu se ani pokoušet přesvědčovat vás, sdělte však, prosím, monsieuru Helbronnerovi alespoň to, že postačí jen jisté geometrické uspořádání mimořádně čistých látek, aby byly uvolněny jaderné síly. Není k tomu třeba ani elektřiny, ani vakuové techniky…“
 
@@ -242,3 +270,5 @@ Anglický atomový fyzik Da Costa Andrade neváhal při svém slavnostním proje
 „Vystoupil jsem tak vysoko jenom proto, že jsem stál na teme­nech obrů…“
 
 Je toto vše opravdu řetěz náhod a nedorozumění?
+
+</section>

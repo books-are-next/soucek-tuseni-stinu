@@ -3,6 +3,8 @@ title: Zapomenuté lodě
 contentType: prose
 ---
 
+<section>
+
 > _Vyplujte!  
 > Plujte k severu pod Pásem Oriónu!_
 
@@ -44,7 +46,9 @@ A neměl ani ponětí o mocné krétské flotile, jejíž koráby byly zcela u
 
 Ostatně i sama volba Homérova tématu je překvapující; zatímco se ani slovem nezmiňuje o dodnes zcela nevysvětlitelném pádu Knóssu a s ním krétské kultury, ovlivňující celou egejskou oblast, věnuje veškerou pozornost trojské válce.
 
-  
+</section>
+
+<section>
 
 Jednu ze starověkých lodí máme popsánu až nápadně přesně – loď všech lodí jak rozměry, tak významem – Noemovu archu.
 
@@ -58,7 +62,9 @@ O arše, na níž byla zachráněna další existence lidstva i veškeré faun
 
 Srovnejme oba texty – nejprve biblický:
 
-  
+</section>
+
+<section>
 
 Učiň sobě koráb z dříví gofer;  
 příhrady sděláš v tom korábu  
@@ -78,7 +84,9 @@ Autoři, naklonění překotným závěrům, z obou těchto fakt vyvo­zují, �
 
 Utnapištim žil v Šurupaku jako věrný a oddaný ctitel boha vod Ea. Když se rada bohů rozhodla lidstvo zlikvidovat potopou (jak je vidět, neznala láska bohů-stvořitelů ke svým dítkám hranic ani tehdy…), Ea Utnapištima varoval:
 
-  
+</section>
+
+<section>
 
 … Strhni svůj dům, postav si loď, opovrhni bohatstvím,  
 hledej raději život!  
@@ -92,11 +100,15 @@ kterou máš postavit!
 udělej koráb s přehradami,  
 natři jej z nitra i zvenčí smolou!
 
-  
+</section>
+
+<section>
 
 Utnapištim poslechl nejen pokynu, ale i technických připomínek, což mu dalo asi dost přemýšlení, takže se k projekci korábu dostal až pátého dne:
 
-  
+</section>
+
+<section>
 
 Plocha půdorysu byla 13 iků,  
 stěny vysoké na deset garů.  
@@ -106,17 +118,23 @@ V peci jsem roztavil šest sarů smůly.
 Tři sta loktů bude délka mé lodi,  
 padesát loktů šířka a třicet loktů výška.
 
-  
+</section>
+
+<section>
 
 Zbytek příběhu se jak vejce vejci podobá dobrodružstvím ctnostného Noema a jeho rodiny. Utnapištim se nalodil i s příbuzenstvem a „vším semenem“, zachránil se, zatímco vody šest dní stoupaly a bouřily, sedmého dne bouře od jihu polevila, zátopa však stoupala, trvala čtyřicet dní a počala opadat teprve po 150 dnech. Utnapištim právě tak jako Noe vypustil havrana, holubici atd., se stejným výsledkem. Vyprávění končí takto:
 
-  
+</section>
+
+<section>
 
 Otevřel jsem průduch a světlo padlo na mou tvář.  
 Loď se zachytila na vrchu Nizir.  
 Vrch Nizir objal loď a nenechal ji kymácet se.
 
-  
+</section>
+
+<section>
 
 Vzhledem k tomu, že epos o Gilgamešovi je mnohem starší, v bibli může jít o text přejatý z ústního podání, nebo o text, s nímž se Mojžíš za svého pobytu v egyptských chrámech seznámil. Třetí možností je paralelní zpracování pověsti, živé a aktuální jak v Mezopotámii, tak v oblasti Egypta. Ať už je jakákoli verze o přenosu Utnapištimova dobrodružství do Starého zákona správnou, zůstává pozoruhodnou skutečností, že se ve dvou náboženských knihách dozvídáme o 4000 let starých božích pokynech ke stavbě lodi „se spodní, druhou a třetí palubou, korábu s příhradami“, nebo s „pokoji spodními, druhými i třetími“ – což je jinými slovy totéž.
 
@@ -144,7 +162,9 @@ TAKOVOU LOĎ UŽ SVĚT NEUVIDÍ.
 
 Jeden háček ovšem celá biblicko-utnapištimovská záležitost má: loď 140 metrů dlouhou – a ani polovičních rozměrů – nebyl zcela jistě schopen postavit člověk civilizační úrovně, neznalé hrnčířského kruhu a kovů. Člověk neolitické kultury, jak se nám zachoval např. v Polynésii až do zcela nedávné minulosti, mohl být (a v Polynésii mimo veškerou pochybnost také byl) zdatným mořeplavcem. Jeho lodě však konstrukčně nepřekročily rámec vorů a velkých kanoí, případně spojených do katamaránu nebo s vahadlem. Této konstrukci archy ovšem odporuje jak její velikost, tak i výslovné údaje obou náboženských textů.
 
-  
+</section>
+
+<section>
 
 ![08.jpg](./resources/08_fmt.jpeg)
 
@@ -154,7 +174,9 @@ A ještě něco: je poměrně málo známo, že rozměry lodí byly až do novo
 
 Jestliže tedy plavidlo, blížící se konstrukcí a velikostí lodím, doporučeným božskou radou Utnapištimovi a Noemu, existovalo (autor je nakloněn tomu věřit), posunuje se tím nejen hranice mořeplavby velkými koráby o několik tisíc let do minulosti, ale objevují se zde i další zřejmé signály mimořádně vysoké civilizační úrovně, jakou nelze očekávat u tehdejších, ostatně vnitrozemských národů, obývajících oblast, postiženou potopou.
 
-  
+</section>
+
+<section>
 
 ![09.jpg](./resources/09_fmt.jpeg)
 
@@ -180,7 +202,9 @@ Antropologové, paleontologové a snílkové, zabývající se touto problemati
 
 – Existují nepopiratelné a nápadné obdoby mezi některými znaky mayské a starokrétské kultury, především ceremoniální oděv vládců purpurové barvy, koruna z per, baldachýn a žezlo, nehledě na oděv šlechty, podobající se oděvům mykénské kulturní oblasti. Nápadné shody byly nalezeny i mezi mayskými hieroglyfy a hieroglyfickým písmem (archaickým) fénickým a krétským.
 
-  
+</section>
+
+<section>
 
 Některá z uvedených tvrzení nelze ovšem pokládat za prokázaná a stavět na nich barvité teorie – jsou to však vesměs názory badatelů nebo vědeckých kolektivů, nikoli snad maniakální výplody „atlantomanů“.
 
@@ -237,3 +261,5 @@ Polynésané s rozpaky připouštějí, že jedno z jejich souhvězdí, slouž
 Závěrem kapitoly se alespoň zmiňme o jedné z archeologických senzací století, plně potvrzující naše domněnky. Jde o průzkum jihořecké jeskyně Franchthi jihovýchodně od Nauplionu v Argolském zálivu, dlouhé 160 a široké 50 metrů. Byla obydlena již v letech 20 000 před n. l. (až dosud se pokládalo dnešní Řecko asi do 7. tisíciletí před n. l. za liduprázdné) a dokazuje, že asi v letech 7500–7000 existovala rozvinutá mořeplavba, ustávající asi po tisíci letech rozkvětu, když byli plavci z Franchthi vytlačeni novým lidem zemědělsko-pasteveckým.
 
 Důkazem mořeplavby a mořského rybolovu jsou hromady kostí tuňáka, který byl tehdy v Egejském moři loven, a obsidiánové nástroje, jejichž materiál pochází nepochybně ze 120 km vzdáleného a tehdy neobydleného ostrova Melu. Po vytlačení nebo vyhubení mořeplavců obsidián mizí, je nahrazen pazourkem a jinými minerály a na místo ryb se do jídelníčku troglodytů z Franchthi dostávají domácí zvířata a obilniny.
+
+</section>

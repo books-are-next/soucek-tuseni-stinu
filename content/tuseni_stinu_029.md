@@ -3,6 +3,8 @@ title: Jak tedy vykalkulovat nepozemšťana
 contentType: prose
 ---
 
+<section>
+
 > _Na Sirkomě byli sice nepříjemní vojenští velitelé, ale zato tu měli výborná jablka, což se nedalo říci o mnoha jiných planetách. Tam často obojí nestálo zanic._
 
 JEAN HOUGRON, ZNAMENÍ PSA
@@ -11,13 +13,17 @@ Stejným způsobem jako pan Krauskopf doktora Štědrého se pokusíme vykalkulo
 
 Při pátrání po onom záhadném panu X ze vzdálené planety cizího slunce je zcela nezbytné pečlivě zachovat ucelený řetěz dedukcí, snažících se o co nejobjektivnější a nejstřízlivější analýzu skromných předpokladů, jež jsou nám k dispozici. Cesta za panem X bude poněkud složitá úzkostlivým dodržováním dvou základních pravidel, jež si na pouti za ním vepisujeme na štít:
 
-  
+</section>
+
+<section>
 
 1\. Respektovat strukturnost života na Zemi i jeho možných analogií ve vesmíru; jejich izolaci, nezbytnou pro detailní úvahy, vyvažovat svrchovaným ohledem na celistvost prostředí;
 
 2\. vyhnout se oddělení jakékoli předpokládané formy života od časového činitele, od historie, která jí protéká a jejímž je výsledkem.
 
-  
+</section>
+
+<section>
 
 Není to snadné – odměnou by mělo být poznání takové úrovně, abychom nebyli odkázáni pouze na fantazii spisovatelů science fiction. Nelze ovšem doufat, že bychom při setkání s nepozemšťanem mohli hrdě prohlásit: „Pane, známe vás! My jsme si vás vykalkulovali.“
 
@@ -25,7 +31,9 @@ Tak dalekosáhlé cíle si autor neklade.
 
 Začneme u ústředního nervového systému:
 
-  
+</section>
+
+<section>
 
 Vedle obecně známých funkcí, jež centrální nervový systém v organismu zastává jako orgán nadřízený veškeré ostatní (např. humorální, hormonální a jiné) koordinaci a korelaci životních pochodů, navrhuji zamyslet se nad problémem, nadhozeným u nás např. Matouškem. Jde o problematiku vědomí souvislosti individua v čase a celistvosti v prostoru.
 
@@ -69,7 +77,9 @@ Třetím předpokladem je přetrvání jistých řídicích a organizujících 
 
 Přijmeme-li tyto předpoklady jako obecné pro vývoj bílkovinného života vůbec a pro existenci inteligentních tvorů zvláště, můžeme postoupit v hledání podoby našeho nepozemšťana opět poněkud dále a vytknout několik závěrů:
 
-  
+</section>
+
+<section>
 
 1\. horní hranice velikosti tvorů, schopných obstát mezi diferencovaným tvorstvem ostatním, je – kromě jiného – určena i rychlostí vedení vzruchu nervovým vláknem;
 
@@ -77,7 +87,9 @@ Přijmeme-li tyto předpoklady jako obecné pro vývoj bílkovinného života v�
 
 3\. princip ekonomie, uplatňovaný v přírodě, aplikován na funkční mechanismy činnosti centrálního nervstva, se zdá být přesvědčujícím argumentem pro soustředění řídicího nervového orgánu na jednom místě těla, takže nedochází ke zbytečnému prodlení vedení nervových impulsů.
 
-  
+</section>
+
+<section>
 
 Pokračujeme však.
 
@@ -95,7 +107,9 @@ Tělové buňky myšky a slona se velikostí nijak zvlášť neliší. Aniž za
 
 Toto zajištění nesouhlasí pouze u obratlovců nebo dokonce u savců – platí, jak se zdá, např. i pro hmyz. Pro porovnání poměr hmoty mozku ke hmotě těla:
 
-  
+</section>
+
+<section>
 
 potápník     1 : 4200
 
@@ -105,7 +119,9 @@ mravenec    1 : 280
 
 _(podle Obenbergera)_
 
-  
+</section>
+
+<section>
 
 Jak je vidět, souhlasí poměr váhy těla k váze nervových zauzlin jmenovaných hmyzů nejen s obecnou představou o jejich „chytrosti“ a „inteligenci“, ale i s úsudkem vědců o dokonalosti historicky vypracovaných instinktů.
 
@@ -163,7 +179,9 @@ Je to výraz toužebného návratu člověka ke zlatému věku, který klade do 
 
 Obry a trpaslíky se zabývá lidstvo už úctyhodně dávno, ale, jak se zdá, teprve všestranný Konstantin Eduardovič Ciolkovskij, otec kosmonautiky, vyslovil ve své studii Biologie trpaslíků a obrů, uveřejněné roku 1925, myšlenku, že určujícím činitelem vzrůstu organismů a do jisté míry i formování jejich tvarů je gravitace, planetární přitažlivost. O možnosti takového vlivu se před ním zmínil roku 1917 D. V. Thompson, ovšem nikoli v souvislosti s vývojovým mechanismem, ale v úrovni hypotetické úvahy: kdyby se Země zvětšila a gravitace vzrostla, podobali by se čtvernožci záhy fosilním krátkonohým ještěrům. Kdyby se naopak zmenšila, stali by se lehkými a aktivnějšími i při menším výdeji energie. Jinými slovy: Thompson se domníval, že naše Země je co do síly gravitace průměrným případem, umožňujícím existenci tvorů obojího typu – což je možné a patrně správné.
 
-  
+</section>
+
+<section>
 
 ![60.jpg](./resources/60_fmt.jpeg)
 
@@ -179,7 +197,9 @@ Zdá se, že bude lépe opustit spekulace a pokusit se zodpovědět základní 
 
 Již letmý pohled na říši pozemské fauny poučí, že – ať je již tento účinek jakýkoli – rozhodně nevede k morfologickému sjednocování tvarů těl živočichů, předvádějící nám nejbizarnější paletu, hodnou obrazotvornosti Hieronyma Bosche. Země umožňuje zcela spokojenou existenci jak žirafám, tak jezevčíkům, myškám i slonům, sekáčům i plošticím. Ani vyhledání „průměrného živočicha“, pokud je takové určení vůbec možné a reálné, nám mnoho nepomůže. Pokusil se o ně chicagský zoolog prof. Ralph Buchsbaum, který zjistil, že „průměrným živočichem“, nalézajícím se někde kolem poloviny cesty od prvoka k člověku a odpovídajícím i průsečíkům počátku a konce dalších vývojových linií, je červ rodu Nereis, ne­určitě připomínající stonožku… Opravňuje nás to snad k domněnce nebo dokonce k tvrzení, že pozemská gravitace modeluje tvory obvykle do podoby červů, plazících se pod tíží přitažlivosti v prachu země? Domnívám se, že ne – provinili bychom se na skřivanech…
 
-  
+</section>
+
+<section>
 
 ![61.jpg](./resources/61_fmt.jpeg)
 
@@ -187,7 +207,9 @@ Již letmý pohled na říši pozemské fauny poučí, že – ať je již tent
 
 Rozřešení, nebo alespoň jeho náznak by mohl přivést toliko experiment, v jehož možnost nestor kosmonautiky nevěřil. Ani my nejsme dosud schopni přenášet vzorky tvorstva na Jupitera či na Měsíc, zajistit jim existenční podmínky a vyčkávat milióny let, jakým způsobem se budou měnit a utvářet. Nejsme schopni konstruovat pro tak dlouhou dobu centrifugy nebo naopak technické prostředky (letadla, klesající po určité křivce, rakety letící setrvačností), zajišťující snížení tíže nebo dokonce stav beztíže. Naštěstí matička Země provedla tento experiment – jak si nedávno poněkud překvapení exobiologové povšimli – uspokojujícím způsobem a v uspokojivém měřítku za nás. Jde o prověrku nepřímou, ale v omezeném rozsahu našeho zkoumání dostatečnou: o přechody – často opakované – některých živočišných druhů z moře na souš, případně zpět.
 
-  
+</section>
+
+<section>
 
 ![62.jpg](./resources/62_fmt.jpeg)
 
@@ -199,7 +221,9 @@ Historie domněnek o překonávání gravitace např. ptáky je jedním z pěk
 
 A pak se vyskytli všeteční a všudypřítomní šťouralové, kteří provedli nejjednodušší věc na světě: kostry a těla rozličných živočichů opravdu zvážili na docela obyčejných vahách. Výsledky byly inspirující:
 
-  
+</section>
+
+<section>
 
 Živočich:
 
@@ -229,9 +253,9 @@ ptáci
 
 14,3
 
-  
+</section>
 
-  
+<section>
 
 ![63.jpg](./resources/63_fmt.jpeg)
 
@@ -287,7 +311,9 @@ Rubner si povšiml zajímavého vztahu délky života ke spotřebě energie: pod
 
 Nepřímým potvrzením této domněnky je i Friedenthalova hypotéza o vzrůstu délky života se vzrůstem inteligence druhu. Friedenthal vyjádřil inteligenci druhu sice schematicky, ale z fyzio­logického hlediska přijatelně kefalizačním faktorem, tj. poměrem váhy mozku k váze celého těla, a došel k zajímavé stupnici:
 
-  
+</section>
+
+<section>
 
   
 
@@ -321,7 +347,9 @@ kůň
 
 100 let
 
-  
+</section>
+
+<section>
 
   
 
@@ -357,11 +385,15 @@ Domnívám se, že nejlépe formulovaným vysvětlením této obecné zásady je
 
 Fotosyntéza je procesem mimořádně složitým – rozhodně složitějším, než jak máme v povědomí ze školních let:
 
-  
+</section>
+
+<section>
 
 > CO2 + H2O = (CH2O) + O2
 
-  
+</section>
+
+<section>
 
 kysličník uhličitý + voda = organická hmota + kyslík, i když rovnice v této formě vystihuje docela dobře podstatu procesu.
 
@@ -399,7 +431,9 @@ Nelze si ovšem představit rostliny, schopné založit vlastní civilizaci. Kdy
 
 Je tedy zřejmé, že můžeme považovat pouze živočišný život za schopný vývoje k civilizaci a že základní morfologické formy tohoto života budou se vší pravděpodobností kompaktní, přímo nebo nepřímo odkázané na „předvýrobu“ organických látek fotosyntetizujícími rostlinami. Téměř stejně důležitý je předpoklad, že se vývoj příslušníků nepozemské civilizace, jejíž vlastnosti se snažíme odhadnout, patrně odehrál v prostředí, charakterizovaném porostem rostlin.
 
-  
+</section>
+
+<section>
 
 V mlhách exobiologických předpokladů se tedy počíná rýsovat suchozemský živočich, dýchající kyslík nebo jeho směs, žijící v atmosféře podobné atmosféře naší, ozařované paprsky podobných vlnových délek a umožňující tak fotosyntézu.
 
@@ -428,3 +462,5 @@ Další odhady by byly příliš odvážné.
 Prosím, aby proto čtenář považoval za pouhé osobní mínění autora, je-li přesvědčen, že laboratoř Země vyzkoušela při vývoji od bezjaderné protobaktérie až ke zpěvákům populární hudby, představujícím, jak se zdá, vrchol biologické evoluce, nejrůznější cesty za všech podmínek, připojujících bílkovinný život, a jako nejperspektivnějšího prověřila člověka s podivuhodně přímou linií předků. Předpokládám, že inteligentní život na planetách po­dobných naší Zemi – a to v dosti širokých mezích – nalezne sídlo v bytosti velmi podobné člověku, bytosti, lišící se od člověka jen nepříliš podstatnými morfologickými znaky. Možná, že se jako Mickey Mouse obejde docela dobře se čtyřmi nebo – jako bájní návštěvníci z nebes, o nichž hovoří andské legendy – se šesti prsty. Není však nejmenší důvod, proč by měl mít šest očí, čtyři ruce nebo věnec chapadel. Nijak by mne nepřekvapilo, kdyby byl vyzbrojen pomocnými orgány krvetvorby, např. parohy, rohy nebo výrůstky jim podobnými, jakými se pyšní např. zmíněná kresba na Velikonočním ostrově s protějškem „tanečníka s jelení hlavou“ v jeskyni Trois Frères ve Francii.
 
 Zkrátka, očekáváme-li návštěvu nepozemšťanů, připravme jim – podle autorova názoru – židle, nikoli vany, bidýlka nebo jiná zařízení pro potvory ze sci-fi.
+
+</section>

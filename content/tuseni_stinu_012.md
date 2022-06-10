@@ -3,6 +3,8 @@ title: Přece jen dalekohledy?
 contentType: prose
 ---
 
+<section>
+
 > _Vlastní fyzika se tehdy ještě nevymanila z prvních počátků,  
 > vyjma optiku, jejíž výjimečné pokroky byly vyvolány  
 > praktickými potřebami astronomie._
@@ -35,7 +37,9 @@ Není třeba dodávat, že skalnatá a málo úrodná Kréta, jež z existenč
 
 Někteří autoři, zabývající se nejstaršími dějinami hvězdářství (u nás to byl např. Josef Sadil), se domnívají, že prvotní impuls k ochočení skotu nebyl užitkový a nemotivovala jej snaha dostat se snadno a kdykoli k masu a mléku, ale rituální, vyplývající z všeobecně rozšířeného zbožnění Měsíce. V rozích skotu spatřovali růžky měsíčního srpku a pojem posvátnosti přenesli z Měsíce i na zvíře.
 
-  
+</section>
+
+<section>
 
 ![10.jpg](./resources/10_fmt.jpeg)
 
@@ -75,7 +79,9 @@ Je tedy celá řada dobrých podkladů pro tvrzení, že starověk znal princip 
 
 Ostatně se zdá, že se znalost dalekohledu tak docela neztratila a že si ji díky přísně tajeným kontaktům s arabskými protivníky a zejména jejich tajnými společnostmi (včetně tzv. hašašínů, vrahů Starce z hory) osvojili a do Evropy přivezli např. templáři. Nasvědčuje tomu – podle mého mínění – mnoho diskutovaný a hledači pokladů všelijak vykládaný nápis na starém sídle komtura velkopřevorství templářů ve Francii na hrádku Arginy na panství Beaujeu. Nápis zní:
 
-  
+</section>
+
+<section>
 
 Zbuduješ tento tajný příbytek,  
 dáš mu tři stonásobky základní míry zdéli,  
@@ -86,6 +92,10 @@ na vrcholku přístupný světlu.
 A tam, kde se na opačné straně rozšiřuje,  
 zbuduješ části dvojité a trojité.
 
-  
+</section>
+
+<section>
 
 Templáři byli velkými milovníky nejen peněz a majetku, ale i krypto­grafie a astrologie, především ve spojení s alchymií. Zdá se dost podivné, že – pokud vím – nikdo dosud neinterpretoval nápis z Arginy jako koruptelu konstrukčního návodu ke zhotovení zrcadlového dalekohledu, reflektoru, ačkoli samo umístění nápisu na tzv. alchymické věži naznačuje jeho astronomicko-astrologický význam a zašifrování není nijak zvlášť důmyslné.
+
+</section>

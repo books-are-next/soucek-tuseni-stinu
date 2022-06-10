@@ -3,6 +3,8 @@ title: Strážci Velikonočního ostrova
 contentType: prose
 ---
 
+<section>
+
 > _Velikonoční ostrov je nejosamělejší lidské sídliště na světě.  
 > Nejbližší pevné body, které jeho obyvatelé mohou vidět,  
 > jsou na obloze: Měsíc a hvězdy.  
@@ -43,7 +45,9 @@ Potud je třeba korigovat často naivně romantické a až příliš tajuplné 
 
 Jde především o odhad počtu obyvatel v dobách budování kolosů moai. Dnes žije na ostrově asi 1500 obyvatel – podle sčítání v roce 1970 dokonce jen 1200. V patnáctém a šestnáctém století, kdy zřejmě kultura Velikonočního ostrova vrcholila a kdy patrně byly již kolosy moai dávnými památkami, žilo podle údajů prvních evropských mořeplavců na ostrově asi 4000 lidí, což je možno považovat spíše za přehnané. Objevitelé, přinášející svým vládcům nové země, měli politováníhodný, i když lidsky pochopitelný zvyk zveličovat lidnatost a význam zabraných kolonií. Počet 20 000 obyvatel, odhadnutý z početných archeologických nálezů chrámů s tisíci monumenty, je naprosto nepravděpodobný.
 
-  
+</section>
+
+<section>
 
 ![22.jpg](./resources/22_fmt.jpeg)
 
@@ -57,7 +61,9 @@ To vše jsou jen dohady, jejichž pravděpodobnost není příliš velká. Jist�
 
 Je tedy pravděpodobné, že obyvatelstvo Velikonočního ostrova nikdy nepřekročilo počet několika tisíc lidí a že potřeba udržení života za každou cenu v pravém slova smyslu vyžadovala značné úsilí. Docházelo i ke kanibalismu, k zabíjení a pojídání příslušníků cizích rodů. Domnívám se, že přísně tajné rodové jeskyně, chránící především ženy a děti, byly úkrytem ne v čase „válek“, o nichž osobně dost pochybuji, ale před nebezpečím napadení spoluobyvateli, následovaným snědením pod vhodnou rituální záminkou, ve skutečnosti však z hladu…
 
-  
+</section>
+
+<section>
 
 ![23.jpg](./resources/23_fmt.jpeg)
 
@@ -101,7 +107,9 @@ Podivná červená pokrývka hlavy daleko více a sugestivněji při­pomíná 
 
 Muselo to být ohrožení vážné a osudné, byli-li strážci vybudováni v takovém počtu a takové velikosti, i když materiál nepřekvapuje: žádný jiný totiž na ostrově nebyl. Snad sami tvůrci věřili v jejich strašlivou moc – svědčí o tom, že oči byly sochám vytesány, teprve až byly vztyčeny na ahau, jedné z mnoha kamenných plošin podél mořského břehu, zdvíhajících se až čtyři metry nad okolní terén. Rudé přilby na hlavách soch zdůraznily jejich monumentalitu, spíše však měly prohloubit nebezpečný vzhled. Zda prostě neobyčejnou (bojovou?) pokrývkou hlavy, zda skutečně válečně načesaným a nabarveným vlasem, nebo zda (a to nelze vyloučit) oživením vzpomínky na kohosi s přilbou, i když nebyl opatřen zjevnou zbraní, který prokázal svou sílu a možnosti? Těžko říci.
 
-  
+</section>
+
+<section>
 
 ![36.jpg](./resources/36_fmt.jpeg)
 
@@ -127,13 +135,17 @@ Taková teorie pochopitelně připomíná spíše science fiction než vážné 
 
 Dívá se do nebes jako zděšené a zcela zaujaté dítě, věřící pohádkám. „Oficiální“ pozorování byla snad prováděna (jak se domnívá Heyerdahl) z observatoře na svazích sopky Rano-kau, spadající strmou falézou k moři a k Ptačím ostrůvkům. Její stěny byly vyloženy deskami s kresbami a rytinami boha Make-Makeho, v přísné a kolosům moai naprosto cizí stylizaci, tolik podobné postavě ve skafandru jako „Velký marťanský bůh“ Henriho Lhota z Tassíli nebo postavy skalních maleb z Val Camonica. Zdá se však, že nebesa měla uhrančivou moc nad všemi obyvateli ostrova, jehož oči vzhlížely k nebi, fascinovány důvody dávno ztracenými a zapomenutými.
 
-  
+</section>
+
+<section>
 
 ![24.jpg](./resources/24_fmt.jpeg)
 
 > Proslulý „velký marťanský bůh“ z Tassíli, objevený Henrim Lhotem (Lhote ovšem mínil tento název zpola žertovně)
 
-  
+</section>
+
+<section>
 
 ![25.jpg](./resources/25_fmt.jpeg)
 
@@ -141,7 +153,9 @@ Dívá se do nebes jako zděšené a zcela zaujaté dítě, věřící pohádk�
 
 Chilská vláda se léta starala především o 50 000 ovcí anglické firmy Williamson a Balfour – péče o tělesné a duševní blaho poslední tisícovky domorodců se omezovala na povinné návštěvy mší samozvaného „krále ostrova“, považujícího domorodce za bandu zlodějů a darebáků. Pro početnou rodinu na týden byl příděl 3 kg veterinárně závadné skopoviny, škola na ostrově neexistovala a negramotnost byla stoprocentní. Ostrované sdělili manželce Mazièrově, jejíž polynéský původ jí získal důvěru, některé z článků své víry:
 
-  
+</section>
+
+<section>
 
 … Obyvatelé Jupitera regulovali soulad v kroužení planet…
 
@@ -171,7 +185,9 @@ Chilská vláda se léta starala především o 50 000 ovcí anglické firmy Wi
 
 … Je třeba prorazit kamenným ohněm železnou kůru, aby se přišlo na kov. Ten kov se rýžuje v kamenném a vodním ohni; je nesmírně jemný a může se používat jako tkanivo…
 
-  
+</section>
+
+<section>
 
 Nebudeme rozebírat obsah těchto mýtů a hodnotit jej poznatky dnešní astronomie, resp. kosmonautiky. Jsou nesmírně významné a vzrušující již svou samotnou existencí: není znám jiný příklad, kdy by kosmické mýty izolované společnosti nabyly takové podoby. Jde pochopitelně o synkretické útvary, v jejichž základech je uloženo prastaré astronomické vědění Polynésanů a možná i první migrace z východu, z pevniny a andských kultur. Svou úlohu snad sehrály i rozhovory domorodců např. se světlou postavou temných a smutných dějin ostrova Eugènem Eyraudem a několika málo dalšími, kteří zde nežili pro získání otroků, vlny, případně sexuálních zážitků. Postačí však takové vysvětlení? Jsem přesvědčen, že ani zdaleka ne.
 
@@ -183,7 +199,9 @@ Domorodé kmeny v okolí nápadných meteoritických impaktů vytvářejí své
 
 V obou případech sestoupil kmenový bůh ohně a hromu na Zemi. Pověst ostrova ticha, hledícího zděšeně k nebi, je však zvláštní:
 
-  
+</section>
+
+<section>
 
 Za krále Rokoroko he Taua spadlo nebe.  
 Spadlo seshora na zem.  
@@ -191,7 +209,9 @@ Lidé křičeli: „Spadlo nebe za času krále Rokoroko he Taua.“
 Nějaký čas se dívalo – počkalo – odešlo a zůstalo nahoře.  
 Znovu si Ronga Riki dal jméno Rangi Topa.
 
-  
+</section>
+
+<section>
 
 Padající nebe, které se dívá, čeká a opět se vrací… Jak asi by si člověk v prelogické fázi vývoje vysvětloval přistání a opětovný start kosmického korábu (nebo letadla), jak by jej popsal? Nějak takhle?
 
@@ -219,7 +239,9 @@ Domněnku o návštěvě na Velikonočním ostrově, návštěvě, jejíž ozv�
 
 Připadám si jako barbar a svatokrádežník, odvažuji-li se takového přirovnání, ale nemohu jinak: sochy moai jsou postaveny naprosto přesně v místech, kam by velitel rozmístil své kulomety, očekávaje silný vzdušný výsadek nepřítele, přibližujícího se zhruba od západu.
 
-  
+</section>
+
+<section>
 
 ![26.jpg](./resources/26_fmt.jpeg)
 
@@ -234,3 +256,5 @@ Zmínili jsme se, že právě u obyvatel Velikonočního ostrova nelze očekáv
 Legendy z Mangarevy i Velikonočního ostrova popisují plavby k zemím, které nemohou být ničím jiným než nejjižnějším cípem Jižní Ameriky, Ohňovou zemí a snad i Antarktidou. Potvrzuje to i Paul Rivet, ředitel pařížského Musée de l’Homme, upozorňující na celou řadu jazykových shod a kulturních podobností mezi Polynésii, Ohňovou zemí, územím rovníkových Aymarů a starým Peru. Alfred Métraux upozornil (jak se zdá, marně), že „obrázkový systém panamských indiánů kmene Cuna má celou sérii symbolů naprosto shodných se symboly z Velikonočního ostrova“. Nebyla dosud prozkoumána možná vnitřní příbuznost australských čuring (čering), posvátných předmětů, sloužících právě tak jako desky rongo-rongo nejspíše k mnemotechnickému vybavení posvátných textů.
 
 Důležité je, že na východ – zakázaný východ pro vetřelce – od Velikonočního ostrova, nazývaného též Te Pito o te Henua, Pupek světa – leží další místo téhož jména poblíže jezera Titicaca, u starobylého a dodnes nedatovaného megalitického města Tíwanaku. A mezi ním a Velikonočním ostrovem je na „letové dráze“ i Valle de Palpa, Údolí bohů se svými strašáky poněkud jiného druhu.
+
+</section>

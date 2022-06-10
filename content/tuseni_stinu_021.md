@@ -3,6 +3,8 @@ title: Před mnoha tisíci lety
 contentType: prose
 ---
 
+<section>
+
 > _Za onoho dne, onoho dávného dne,  
 > za oné noci, oné vzdálené noci,  
 > onoho roku, onoho dávného roku,  
@@ -26,7 +28,9 @@ Tato jasná souvislost taxonomické teorie a praxe v celé šíři je však oj
 
 Musíme rovněž opustit velice pohodlný systém domněnek o ná­hodném původu nejvýznamnějších objevů a vynálezů lidské prehistorie. Náhoda tohoto druhu je (aniž zdůrazňujeme nevelký počet tehdejší lidské populace, nedovolující statistické operace s velkými čísly) téměř stejně nepravděpodobná jako náhodný vznik benzínové pumpy. Po dlouhé řadě let, kdy byla vědci i školními učebnicemi přejímána tvrzení, posvěcená neustálým opakováním, provedlo několik všetečků pokusy. Výsledek byl katastrofální. Bylo zjištěno, že když se do ohniště dostane několik kusů měděné nebo jakékoli jiné rudy, nestane se vůbec nic, a už vůbec není vytaven kov. Nejjednodušší způsob, jak získat roztavenou měď, je tavení jemně zpráškovaného malachitu v dobře uzavřené hliněné nádobě. Získání železa je ještě daleko obtížnější a složitější. Stejně absurdní je domněnka o náhodnosti bleskurychlé aklimatizace kulturních rostlin ve zcela nových podmínkách, o „náhodnosti“ domestikace zvířat, o počátcích keramiky (doporučuji vlastní experiment, jak složité je nalezení vhodného jílu, prostředku k jeho odtučnění, nejvhodnějšího paliva, teploty a doby vypalování, stupně oxidace, atd. atd., aby vznikla třeba nejhrubší nádoba, podněcující k další činnosti), dokonce i o náhodnosti vzniku jemných neolitických technik tak dokonalého zpracování kamene, že se dnes vymyká našim možnostem, a to nejen v megalitických stavbách, ale i např. napodobením mayských rituálních pazourkových čepelí.
 
-  
+</section>
+
+<section>
 
 ![47.jpg](./resources/47_fmt.jpeg)
 
@@ -48,7 +52,9 @@ Využívám této příležitosti, abych se co nejstručněji a velmi zjednodu�
 
 Soudobá genetika předkládá důvěryhodné argumenty tvrzení, že hybnými pákami variability živočichů i rostlin a tím jejich druhového vývoje jsou:
 
-  
+</section>
+
+<section>
 
 1\. mutace,
 
@@ -60,7 +66,9 @@ Soudobá genetika předkládá důvěryhodné argumenty tvrzení, že hybnými p
 
 5\. reproduktivní izolace.
 
-  
+</section>
+
+<section>
 
 Mutace nehraje v této sestavě hlavní, řídící, ba ani podstatnou úlohu – mimo jiné proto, že se přibližně pouhá tisícina mutací ukáže v důsledcích progresivní a výhodnou, a to pouze ve spolupráci a za spoluúčasti ostatních jmenovaných faktorů. Daleko větší vliv na dědičné změny mají, jak se zdá, zevní vlivy, umožňující uplatnění optimálním kombinacím tzv. genového fondu a genetické rekombinace.
 
@@ -137,3 +145,5 @@ Teprve daleko později se tyto ryze užitkové „lovecké rozcvičky“ staly o
 Pro nás je důležité, že znalost „soustředění na nesoustředění“, trvalého odpoutání pozornosti, je základním předpokladem, jak dosáhnout jistého ryze tělesného stavu (tedy nikoli stavu „osvícení“ nebo „jasnozření“). Podle materialistického zkoumání vzniku náboženství, které neodmítá pomoc fyziologie a neurofyziologie, je tento stav jedním ze základních kamenů všech náboženství (ve spojení s kulty a mýty) ve formě mystiky. A nejen to. Je také předpokladem disponování většiny jedinců k aktivní nebo pasívní účasti na třech základních úkazech psychotroniky, telepatii (přenos informace z člověka na člověka dosud neobjasněným neuropsychickým procesem), telegnózi (poznávání objektivních skutečností pomocí specifických schopností mozkomíšní soustavy) a konečně psychokinezi (dosažení měřitelného fyzikálního efektu vysíláním dosud nezjištěné formy energie člověkem). Psychotronika, která se v posledních letech vymanila ze zajetí laických představ o „věštění“, „okultismu“ a podobných nesmyslech a stala se nejspíše jakousi bionikou člověka, je kromě jiného rozhodně schopna zvýšit i sebepoznání člověka.
 
 O to – a o nic jiného – nám jde.
+
+</section>

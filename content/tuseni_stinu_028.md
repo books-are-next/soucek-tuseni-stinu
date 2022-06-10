@@ -3,6 +3,8 @@ title: Formy života ve vesmíru
 contentType: prose
 ---
 
+<section>
+
 > _Nejzajímavější vlastností života je, že dovede pro sebe využít jak dějů čistě atomárních, tak i dějů makroskopických._
 
 > _V tom je jeho úspěch._
@@ -15,19 +17,25 @@ Celá řada astronomů a tzv. exobiologů různých původních profesí překo
 
 Není důvod domnívat se, že by chemicky přesně určený nerost krystaloval na planetě vzdáleného slunce v jiné soustavě než na Zemi – odporují tomu fyzikální zákony. Právě tak není důvodu domnívat se, že zkušenosti získané v „laboratoři Země“ nelze zobecňovat pro celý kosmos – ovšem s jistou dávkou opatrnosti.
 
-  
+</section>
+
+<section>
 
 ![57.jpg](./resources/57_fmt.jpeg)
 
 > Snímek jednoho z nově objevených a tvarově svrchovaně neobvyklých půdních mikroorganismů, pořízený D. I. Nikitinem
 
-  
+</section>
+
+<section>
 
 ![59.jpg](./resources/59_fmt.jpeg)
 
 > Pro srovnání obvyklé a známé tvary půdních mikroorganismů (A) a některé nové formy objevené D. J. Nikitinem a dalšími (B)
 
-  
+</section>
+
+<section>
 
 ![58.jpg](./resources/58_fmt.jpeg)
 
@@ -43,13 +51,17 @@ Především je nápadné, že průměrný počet atomů daného prvku v jednot
 
 Kromě tohoto poklesu s geometrickou řadou pozorujeme i odchylky, z nichž dvě první se netýkají pouze vzniku atomových jader, ale i obecných úvah o skladbě života:
 
-  
+</section>
+
+<section>
 
 1\. „Železný vrchol“ – tj. výrazné maximum pro atomové hmoty 53–63.
 
 2\. Minimum v oblasti lehkých prvků – daleko rychlejší pokles relativního zastoupení prvků za héliem, než by odpovídalo poklesu s geometrickou řadou. Přímce, odpovídající exponenciální funkci, se čára přibližuje po výrazném zlomu v oblasti uhlíku. Proto jsou uhlík, dusík a kyslík daleko hojněji zastoupeny než lithium, berylium a bór, navzdory nižším atomovým číslům těchto prvků.
 
-  
+</section>
+
+<section>
 
 Vyškrtněme z našeho přehledu zcela nebiogenní hélium, vznikající v obrovském množství při proton-protonové reakci hvězd prvé generace, jež z této reakce čerpaly energii. Také dnes září hvězdy třetí generace, jejichž matečná látka byla již obohacena těžkými prvky, díky přeměně vodíku v hélium tzv. uhlíko-vodíkovým cyklem.
 
@@ -65,7 +77,9 @@ Chemické vlastnosti základních, plastických biogenních prvků jsou zárove�
 
 Pro život závažnými charakteristikami uhlíku jsou:
 
-  
+</section>
+
+<section>
 
 a) jeho malá reaktivita, bránící prudkým reakcím,
 
@@ -81,7 +95,9 @@ f) mnohé sloučeniny uhlíku uvolňují při štěpení dostatek energie, aby b
 
 g) asymetrické uspořádání uhlíkových atomů v molekule podmiňuje její optickou aktivitu, jež se zdá být jednou z podmínek života, soudě podle svrchovaně vzácného výskytu symetrických sloučenin a látek opticky neaktivních v bioplazmě.
 
-  
+</section>
+
+<section>
 
 V celé soustavě prvků je jen jediný prvek, který by mohl v základním modelu živé hmoty, nám známém (to je třeba mít stále na paměti) ze života pozemského, uhlík zastoupit: křemík. Tento prvek je obsažen především v tuhých obalech některých prvoků a řas, v podpůrných tkáních rostlin, v živočišných tělech v málo aktivních orgánech. Jako biogenní prvek se tedy v „pozemském modelu“ života nijak zvlášť neuplatnil, a to ani jako prvek katalytický. Jeho chemické vlastnosti však stále znovu poutají pozornost exobiologů, snažících se přírodě navrhnout svůj vlastní model života, odlišný od života pozemského.
 
@@ -93,7 +109,9 @@ Přesto, že tento problém souvisí s tématem naší knihy jen okrajově, ale
 
 V tomto „bujónu“ se bezpochyby rozvinul život až k formám, podle Ljapunova „kódovaným stavem molekul DNK“ – neboť jinou formu života, jiný model, jiný typ přenosu dědičnosti jsme neobjevili a asi neobjevíme ani v budoucnu. Mohlo k tomu dojít dvěma způsoby: náhodnou shodou okolností, nebo, jak tvrdí marxističtí přírodovědci, v rámci zákonitého zdokonalování a zjemňování materiálního pohybu hmoty až k nejvyšší formě, k životu.
 
-  
+</section>
+
+<section>
 
 Laboratorní syntéza DNK a RNK (ribonukleové kyseliny, zastávající v buňce jakousi úlohu „pošty“ mezi jadernými strukturami a výkonnými buněčnými organuly, uloženými mimo jádro v cytoplazmě) se zdařila, ovšem v podmínkách, které sotva můžeme v praoceánech očekávat, ačkoli ani to není zcela nemožné vzhledem k obdobím prudkého zvýšení intenzity kosmických paprsků, výbuchům blízkých supernov, výkyvům zemské geotermiky, sopečným výbuchům, záření radioaktivních zemských krbů nebo konečně zásahům tak efektivním, jaké až dosud (a ne se stejným výsledkem) můžeme experimentálně docílit jen nasazením nejmocnějších urychlovačů částic: roku 1963 zaregistrovalo mnoho počítačů kosmických částic a observatoří spršku kosmického záření, vyvolaného jedním jediným atomovým jádrem vodíku, jež k nám přiletělo z kosmu mimo Galaxii, urychleno energií devadesáti trilionů elektronvoltů, tedy miliardkrát větší, než jakou poskytují největší pozemské urychlovače částic…
 
@@ -256,3 +274,5 @@ Do půlnoci zbývá již jen 7 minut…
 Teprve se na velkém jevišti planety objevuje lidoop a za dvě minuty nato, ve 23.55, začíná vlastní vývoj člověka, objevujícího se v podobě australopitheka (Homo habilis) přesně jednu minutu před půlnocí, jehož fyzický vývoj pokračuje až do antropozoika.
 
 Prosím, neopouštějte ještě promítací síň! V poslední čtvrtině vteřiny (!) se na promítacím plátně mihne celá epocha lidské psychosociální evoluce, v níž je skryto Mohendžodáro, Sumerové, Babylón, pyramidy, Tíwanaku, Řím, Napoleon, Charlie Chaplin a Jurij Gagarin. Prof. Josef Koštíř, z jehož díla uvedenou „filmovou“ chronologii života na naší planetě po úpravách vybírám, sám varuje před nekritickou vírou ve vše, co bylo řečeno, a zdůrazňuje, že jde o dohady, byť i podepřené logikou a experimenty. Buď jak buď, zamyšlení nad naším „filmem“ se mi zdá být téměř stejně radikální terapií velmi virulentního lidského pocitu vícecennosti, jako pohled na hvězdnou oblohu…
+
+</section>

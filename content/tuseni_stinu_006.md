@@ -3,6 +3,8 @@ title: ÚVODEM
 contentType: prose
 ---
 
+<section>
+
 Dějiny vědy za sebou nechaly v tratolišti omylů neskonale více mrtvých nebo smrtelně zraněných hypotéz než domněnek přijatých, ověřených a posléze skládajících uznané teorie. Koneckonců i tyto teorie jsou jen dokladem historicky určené úrovně poznání struktury hmoty, jejích forem a specifických zákonitostí pohybu, jejichž nevyčerpatelnost podmiňuje ustavičnou relativnost našich poznatků a zaručuje jejich vystřídání novými, dokonalejšími, jen velmi málo teorií (mezi nimi například atomová teorie, odrážející dialektickou jednotu přetržitosti hmoty s její nepřetržitostí) se zdá být zatím neotřesitelnými. Tím spíše je třeba opatrnosti při vytváření hypotéz o dávné a nejdávnější minulosti lidstva, neboť tyto domněnky nemohou být, jako např. ve většině přírodních věd, ověřeny pokusně. Přece však odmítáme souhlasit se skeptiky, prohlašujícími historii za bílou tabuli, na niž historik napíše, co se mu zamane – což ovšem nevylučuje rozmanitost a někdy i protikladnost pohledů, určovaných rozličnými hledisky.
 
 Tato kniha usiluje o některé zásadní pohledy do minulosti jako výsledek nikoli sterilních fantazií nebo dalekosáhlých hypotéz, pramenících z povrchních důvodů, z nedostatečně ověřených faktů nebo spekulací, ovlivněných mimorozumovými důvody, ale struktury vědeckých poznatků. Knihu tímto přístupem nezbytně zatíží množství faktů a dokladového materiálu, neodborníkům únavného a odborníkům samozřejmě důvěrně známého. Nebylo však jiné východisko.
@@ -27,3 +29,5 @@ Obávám se, že i my, zasaženi neočekávaným pohledem, rozšiřujícím dí
 
 DR. LUDVÍK SOUČEK  
 1967–1973
+
+</section>

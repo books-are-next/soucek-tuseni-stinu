@@ -3,6 +3,8 @@ title: Kamenná posedlost
 contentType: prose
 ---
 
+<section>
+
 > _Nevíme, čím ve skutečnosti jsme, dokud nezpracujeme  
 > myšlením průběh činností._
 
@@ -25,7 +27,9 @@ Vznik a účel baalbecké terasy jsou neznámé (její původ nemá nic společ
 
 V Baalbeku však je ještě větší kámen, ne zcela vybavený z lomu. Je poněkud skloněný, což patrně zavdalo příčinu k romantickým interpretacím baalbecké terasy jako startovací rampy nepozemšťanů (lidově se nazývá „kámen těhotných“), a jeho hmotnost je asi 900 tun. Názorně: kolona pětitunových nákladních automobilů, jedoucích v předepsaných odstupech 50 metrů a naložená částmi „kamene těhotných“, by byla dlouhá 90 km, čelo by tedy bylo v Plzni, zatímco by poslední vozy opouštěly Prahu.
 
-  
+</section>
+
+<section>
 
 ![41.jpg](./resources/41_fmt.jpeg)
 
@@ -37,13 +41,17 @@ Megality jsou nalézány na mnoha místech světa – na všech atlantských b�
 
 Megality, ať už v podobě menhirů (samotných balvanů), dolmenů (umělých jeskyň) či kromlechů (kamenných kruhů s překlady) sloužily zřejmě kultu mrtvých, někde příbřežní navigaci plavců – např. na březích Finistère, kde začíná kanál La Manche, – bohoslužbám pohanských obětních kultů a astronomickým pozorováním, umožňujícím víceméně přesně určit okamžiky slunovratů, a tím i největších slavností roku.
 
-  
+</section>
+
+<section>
 
 ![42.jpg](./resources/42_fmt.jpeg)
 
 > Rozvaliny Černé pagody s mimořádně hmotnými překladovými kvádry, tvořícími vlastní stropy celých prostorných místností
 
-  
+</section>
+
+<section>
 
 ![43.jpg](./resources/43_fmt.jpeg)
 
@@ -55,13 +63,17 @@ Ponechme zatím stranou otázku, proč ta námaha, a ptejme se, jak byl transpo
 
 Takových příkladů bychom mohli jmenovat desítky: kamenné bloky hradby Sacsayhuamanu (ještě se k nim vrátíme), podivuhodná zeď pod hladinou u Androsu, monolitní brána slunce v Tíwanaku, opracované bloky kamene odhadované na desetitisíce tun v různých místech And…
 
-  
+</section>
+
+<section>
 
 ![44.jpg](./resources/44_fmt.jpeg)
 
 > Dolmen v Locmariaqueru, známý pod jménem Stůl kupců, s obrovitým překladovým balvanem
 
-  
+</section>
+
+<section>
 
 ![45.jpg](./resources/45_fmt.jpeg)
 
@@ -83,7 +95,9 @@ O kamenné posedlosti našich dávných předků by bylo ovšem možné popsat 
 
 Zvýšený zájem o středoamerické a jihoamerické kultury přivedl do pralesů řadu archeologů, mj. i profesora Marcela Hometa, jenž roku 1940 objevil v severní Brazílii, v povodí horního toku Rio Branco gigantické, patrně mnohými generacemi ze skály vytesané kamenné vejce, 100 metrů dlouhé a 30 metrů široké, nazývané místními obyvateli piedra pintada (malovaná skála). Jeho stěny jsou pokryty na ploše 600 m2 symbolickými, zřejmě astronomickými nebo astrologickými kresbami dosud neobjasněného významu. Hometův objev povzbudil další badatele. A záhy prolétla světem (zaměstnaným však tehdy většinou jinými starostmi, a proto celkem nepovšimnuté) zpráva archeoložky Doris Z. Stoneové: ve středoamerickém státě Kostarika jsou na nejpodivnějších a nejneočekávanějších místech stovky a snad tisíce geometricky naprosto přesných kamenných koulí o průměrech od několika decimetrů až po několik metrů. Nejtěžší až dosud objevená koule váží 16 tun a spolu s dalšími byla převezena místními podnikavci jako plastika, zdobící veřejné prostranství v hlavním městě San José.
 
-  
+</section>
+
+<section>
 
 ![46.jpg](./resources/46_fmt.jpeg)
 
@@ -126,3 +140,5 @@ Přejdeme i tedy k pokusu o rekonstrukci takové hypotetické civilizace, vyc
 O ztrátě není sporu – konstatoval ji už Karel Marx ve svém Úvodu ke kritice politické ekonomie: „… všechna mytologie přemáhá, ovládá a utváří přírodní síly v obrazotvornosti a obrazotvorností; mizí tedy se skutečným ovládnutím těchto přírodních sil.“
 
 Buďme nepředpojatí. Nevíme, jak by taková předpokládaná civilizace mohla vypadat, jaké by byly její zvyky a obyčeje. Jisto je jedno: byla by nám velmi, velmi cizí. Jako civilizace delfínů.
+
+</section>

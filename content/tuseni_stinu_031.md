@@ -3,6 +3,8 @@ title: Proč nepřicházejí?
 contentType: prose
 ---
 
+<section>
+
 > _Nepořádky začínají hned kousek od prahu. Asteroidy, jejichž dráhy probíhají mezi Zemí a Marsem, jsou v zuboženém stavu. Ty monumentální hory skal kdysi tonuly ve věčné tmě. Dnes jsou elektricky osvětlené, a nadto je znešvařují iniciály a monogramy namáhavě vytesané ve skále. Planetka Eros, oblíbená hlavně flirtujícími párky, se zachvívá pod ranami nejrůznějších, podomácku školených krasopisců, kteří vytloukají památeční nápisy do skalnatého povrchu._
 
 > _Našlo se také několik prohnaných kazisvětů, kteří si tu zřídili půjčovnu kladiv, dlát, a dokonce i pneumatických vrtaček, takže člověk stěží najde i v nejzapadlejší končině nějakou nedotčenou skálu._
@@ -109,7 +111,9 @@ Předpokládám, že se lidstvo dříve nebo později se všemi obtížemi tohot
 
 Shrňme tedy konečně soubor tušení stínu, k němuž jsme dospěli:
 
-  
+</section>
+
+<section>
 
 1\. V dávné i nepříliš dávné minulosti lidstva nacházíme indicie naznačující, že do jeho sociálního vývoje zasahovaly faktory dosud neznámé nebo neobjasněné.
 
@@ -136,3 +140,5 @@ Kniha Tušení stínu mohla problémy jen naznačit a snad tu a tam v nejhrub
 Doufám, že ani v tomto případě všichni přátelé, kteří mne podporovali, pomáhali diskusemi i potřebnou literaturou a především zájmem o toto dílo, neodepřou mi laskavou podporu. Učiním vše pro to, aby jejich pomoc, týkající se objasňování faktů, nebyla spojována s mými závěry jinak než tak, jak je namístě. Obzvláště jsem zavázán odborným lektorům jednotlivých kapitol, dr. Jiřímu Grygarovi, doc. dr. Eriku Kittnarovi, ing. Věnceslavu Patrovskému, prof. dr. ing. Rudolfu Peškovi, dr. Miloslavu Stinglovi, dr. Pavlu Toufarovi a dr. Vojtěchu Zamarovskému.
 
 L. S.
+
+</section>

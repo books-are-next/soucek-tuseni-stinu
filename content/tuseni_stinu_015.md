@@ -3,6 +3,8 @@ title: "Jedno z\_tajemství pyramid"
 contentType: prose
 ---
 
+<section>
+
 > _Čtvrtého měsíce rozpuku dne 23. se pracovalo.  
 > Čtvrtého měsíce rozpuku dne 24. se pracovalo.  
 > Čtvrtého měsíce rozpuku dne 25. se pracovalo.  
@@ -23,7 +25,9 @@ Avšak o tyto otazníky teď nejde.
 
 Chufévova (Cheopsova) pyramida byla poprvé veřejně (a patrně vůbec poprvé) otevřena roku 820 n. l. synem legendárního Hárúna ar Rašída, arabským chalífou al-Mamúnem, jenž přivedl k úpatí velké Chufévovy pyramidy, tehdy ještě pokryté zářivými vyleštěnými deskami, celou armádu kameníků, architektů a pomocných sil. Leštěný povrch pyramidy byl proveden tak dokonale, že mezi jednotlivé desky nebylo možné zasunout ani hrot damascénské čepele – čímž se ještě dnes právem chlubí arabští průvodci turistů nejen v Gíze, ale i v komplexu baalbeckých chrámů a jinde. Úkol, který si al-Mamún vytkl, vypadal stěží splnitelně: objevit vnitřní prostory pyramidy a nalézt v nich nejen poklad faraónů (na chudobu si chalífa rozhodně nemohl stěžovat), ale zejména nerezavějící zbraně, nerozbitné sklo a další zázraky, slibované chalífovými rádci.
 
-  
+</section>
+
+<section>
 
 ![16.jpg](./resources/16_fmt.jpeg)
 
@@ -57,7 +61,9 @@ Hlavní chodba klesala ve skále pod pyramidou v délce 72 metrů a končila n
 
 Těžko si představit bezpečnější záruky, že hrobní prostory byly nalezeny neporušeny, v původním stavu. Goném se na to právem spolehl a v očekávání reprízy senzace s Tutanchamónovým hrobem pozval 27. června 1954 několik vynikajících pracovníků památkové služby do komory. Deska, zakrývající pohled do nitra sarkofágu, byla po jistých obtížích jeřábem vysunuta.
 
-  
+</section>
+
+<section>
 
 ![18.jpg](./resources/18_fmt.jpeg)
 
@@ -81,7 +87,9 @@ Naskýtá se otázka: byla-li v dobách investora stavby první skutečné a n
 
 Odpověď není snadná ani tehdy, považujeme-li pyramidy za gigantické hrobky a za pomníky velikášství faraónů. Tak jednoduchá situace v teokratickém a kněžstvem téměř ustavičně ovládaném Egyptě nebyla. Stavba pyramidy znamenala celostátní zatížení, vyžádala si patrně úvěry od chrámů, kde se po generace soustřeďovalo bohatství celé země, a v žádném případě nemohla být prováděna bez souhlasu, nebo dokonce proti vůli kněží, jimž sotva smíme připisovat nějaké sentimentální pohnutky vyplývající z ryzí, ničím nezkalené víry; kněží, kteří byli zároveň lékaři (nižší svěcení bylo ve starém Egyptě podmínkou léčitelské činnosti), si sotva dělali iluze o významu mumie, s níž při balzamovacích obřadech volky nevolky zacházeli s profesionální rutinou… A přece investice schvalovali. Proč asi? Proč nezůstalo při spalování mrtvol a ukládání popela v mastabách, komorách, do nichž ústily dlouhé šachty? Proč vytrval zvyk faraónů klenout si nad hrobem okázalé, monumentální náhrobky, nábožensky a, jak se zdá, ani racionálně neodůvodněný, až do smrti Thutmóse I. (asi 1545–1515 před n. l.), faraóna XVIII. dynastie, jenž jako první ukryl svůj hrob do nitra skály?
 
-  
+</section>
+
+<section>
 
 ![19.jpg](./resources/19_fmt.jpeg)
 
@@ -93,13 +101,17 @@ Se zajímavou trochou do mlýna přišel zcela nedávno britský fyzik Kurt Mend
 
 Mendelsohnovy myšlenky nevznikly u psacího stolu – studoval pyramidy přímo v Egyptě a kromě zmíněných hypotéz navrhl i další pozoruhodné domněnky – např. o sesutí zevního pokryvu médúmské pyramidy, které dokazuje hromadami materiálu kolem stavby, považované dosud za nedokončenou, a po této varovné události nový a podivný způsob stavby 50 km vzdálené pyramidy u Dášúru, zdvíhající se rovněž pod úhlem 52°, avšak v polovině výšky s úhlem zmenšeným asi o 10°. Přesto však se nezdá, že by vyjmenované důvody byly hlavní, i když možná svou úlohu hrály. Jinak by nám totiž grafomanští staří Egypťané nepochybně zanechali hojnost chvalozpěvů na dobrotivost faraónů, poskytujících obživu strádajícím a zachraňujících je stavbou pyramid od hladu a bídy. Nic podobného se však dosud nenalezlo.
 
-  
+</section>
+
+<section>
 
 ![20.jpg](./resources/20_fmt.jpeg)
 
 > Vyobrazení zikkuratu na asyrském reliéfu z Ninive ze 7. stol. před n. l.
 
-  
+</section>
+
+<section>
 
 ![21.jpg](./resources/21_fmt.jpeg)
 
@@ -139,7 +151,9 @@ Nové prostory nebyly dosud v pyramidách nalezeny, ačkoli se o to – a pr
 
 Není však třeba hledat nové a dosud neznámé prostory, tím méně je předpokládat a kolem tohoto předpokladu rozvíjet duchaplné domněnky. Průřez Velkou Chufévovou pyramidou je dost zajímavý sám o sobě.
 
-  
+</section>
+
+<section>
 
 ![17.jpg](./resources/17_fmt.jpeg)
 
@@ -182,3 +196,5 @@ Podobnost zikkuratů a nejstarších pyramid určitě není náhodná. Z celé
 Lze proto předpokládat, že motivy stavby zikkuratů a pyramid mohly být tytéž, totiž nátlak jakési hrozby. Toto vysvětlení se zdá být přijatelnější než znovu a znovu opakované tvrzení, že obyvatelé Mezopotámie stavěli pro bohy „umělé hory“ z nostalgické touhy po skutečných horách své dávné domoviny. V období málo rozvinutých výrobních prostředků a namáhavého získávání základních životních potřeb je takový citový luxus nepravděpodobný.
 
 Domněnka, že pyramidy a řada dalších staveb v okolí Egypta a ve Středomoří vznikala z dávného otřesu katastrofou, jejíž recidiva hrozila jako Damoklův meč, není oslabována rozličnými předpokládanými daty vzniku staveb. Sami egyptologové dnes většinou upouštějí od přesného datování vzniku pyramid; vstupní chodba Velké pyramidy je totiž skloněna tak, že mířila (mířila-li) k hvězdě Alfa Draconis (Thubanu) vzhledem k pohybu zemské osy, jak si povšiml již Herschel, buď v roce 3400 před n. l. nebo v roce 2100 před n. l. Obě data se od dosud uznávané doby vlády IV. dynastie liší více, než lze ve slušné společnosti vědců připustit. I tato otázka je tedy otevřená.
+
+</section>

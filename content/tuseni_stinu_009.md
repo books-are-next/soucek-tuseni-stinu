@@ -3,6 +3,8 @@ title: Zajímavé nálezy
 contentType: prose
 ---
 
+<section>
+
 > _Tyto hodnoty zavržené kritikou a duchem systému  
 > nezapomněly na lekci, jíž se jim dostalo, a mohou dnes  
 > protivníka napadnout jeho vlastními zbraněmi._
@@ -13,7 +15,9 @@ V Britském muzeu je chováno mnoho lebek neandertálců. Po původním objevu 
 
 Původcem podivného otvoru nebyl ani vrtavý mlž, houba (Vioa) nebo červ, kteří namnoze rozrušují fosilie, jež se ocitly v moři. Broken Hill byl ostatně vždy na souši. Pozoruhodné je, že místo zranění přesně odpovídá „smrtelné zóně“ – v případě střelné rány musel být neandertálec okamžitě mrtev. Ačkoli jsou známy okolnosti nálezu lebky, nelze zcela vyloučit špatný vtip: dodatečné prostřelení lebky.
 
-  
+</section>
+
+<section>
 
 ![03.jpg](./resources/03_fmt.jpeg)
 
@@ -23,7 +27,9 @@ Co však říci dalšímu podobnému nálezu, pocházejícímu tentokráte z ok
 
 Je to lebka pratura, rovněž, jak se zdá, zasažená střelou v oblasti „smrtelné zóny“, totiž přesně v ose čelní kosti, jako by střelec čelil útoku mohutného zvířete, nastavujícího mu skloněnou hlavou právě tuto partii lebky. Také v tomto případě nejsou v okolí rány praskliny a činnost vrtavých mlžů je možno vyloučit; lebka je skvěle zachovaná a zcela určitě neležela v moři. Ani chorobný proces, tzv. osteomyelitida, nemůže zanechat takovou stopu, tím méně např. roh konkurujícího samce. Pikantní podrobností v tomto případě je, že se rána, jakkoli pronikla lebkou a zasáhla zřejmě mozkovnu, počala hojit kostní jizvou, svalkem. Není tedy pochyby o jejím datování. Vznikla v době života pratura – přibližně před několika desítkami až stovkami tisíců let, a kdoví zda ne přesně v době, kdy byl zabit i neandertálec v oblasti Broken Hillu. Ráže střely, jež mohla způsobit obě zranění, se zdá odpovídat. Obě mohla být na střeleckém kontě jedné jediné zbraně s podobným účinkem.
 
-  
+</section>
+
+<section>
 
 ![04.jpg](./resources/04_fmt.jpeg)
 
@@ -35,7 +41,9 @@ Kdo to tehdy chodil po naší planetě, ozbrojen průbojnou palnou zbraní pomě
 
 Kdo nebo co zanechalo v pískovci pouště Gobi v Mongolské lidové republice otisk, nalezený společnou sovětsko-čínskou expedicí roku 1959? Nepodobá se žádnému fosilnímu reliktu, vědě až dosud známému, nepodobá se ani stopě, kterou může zanechat některý nám známý kráčející, plazící se nebo lezoucí tvor. Zato se velice nápadně podobá otisku profilované podrážky, tzv. traktoru, jaký používají posádky Apolla na Měsíci jako nejpružnější obuvi, zajišťující nejlépe tření a tím pevný postoj za všech okolností.
 
-  
+</section>
+
+<section>
 
 ![05.jpg](./resources/05_fmt.jpeg)
 
@@ -140,3 +148,5 @@ A ještě jednou se vraťme na skok do Říma: podle písemných zpráv i podl
 Slonovina, vlastně zubovina sloních klů, byla odedávna zpracovávána v Egyptě, egejské oblasti, Mezopotámii, na Krétě a v Řecku, odkud jako ozdobný materiál přicházela i do římských oblastí. Nedovedeme si dnes ani zdaleka představit, jak změkčit zubovinu bez naprostého rozrušení (např. odvápněním) – znovuobjevení této zajímavé techniky by určitě potěšilo výrobce „pravých“ kulečníkových koulí a umožnilo jim používat i zbytků materiálu. Daleko více než potěšení těchto pánů mne však zajímá perspektiva využití staronové techniky v zubním lékařství, jehož obecně nemilované zákroky vrtačkou (ať už starou či hypermoderní) by bylo alespoň zčásti možné nahradit zákrokem zcela bezbolestným…
 
 Změkčování mamutoviny bylo ostatně známo i paleolitickým zakladatelům světoznámé nekropole Sungir u Vladimiru, šlo tedy patrně o techniku sice geniální, ale nenáročnou a prostou. Potvrdily to vykopávky tisíců a tisíců předmětů z mamutoviny, mezi nimiž byla i řada dlouhých dýk a kopí, rovných, dvoumetrových, i delších. Podle výzkumů T. Bulavincevové, která se specializovala na vztahy člověka a mamuta v paleolitu, bylo třeba ke zhotovení takového oštěpu (který je opravdu z mamutího klu, nikoli např. z rohu narvala) narovnat dvě stě kilogramů hmotný kel. Jak – to bohužel ani netušíme.
+
+</section>
