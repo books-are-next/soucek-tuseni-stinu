@@ -44,7 +44,7 @@ Zkáza způsobená takovou nebeskou střelou by na pevnině musela být obrovsk�
 
 <section>
 
-při průměru                65 metrů
+při průměru            65 metrů
 
 plochu okresního města
 

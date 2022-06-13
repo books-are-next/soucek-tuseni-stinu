@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-stinu-f277c16",
-  "revision": "f277c16",
+  "identifier": "soucek-tuseni-stinu-60db17f",
+  "revision": "60db17f",
   "readingOrder": [
     "promo.html",
     "tuseni_stinu_003.html",
@@ -43,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:12:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949531401
+    "date": "Mon Jun 13 2022 21:32:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155953660
   },
   "documents": [
     {
@@ -463,7 +463,7 @@
       "title": "Vesmírný projektil",
       "file": "tuseni_stinu_024.html",
       "words": 1598,
-      "chars": 10726,
+      "chars": 10722,
       "ideas": 45,
       "role": "chapter",
       "order": 21,
@@ -622,9 +622,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 589,
-      "ideas": 7,
+      "words": 121,
+      "chars": 795,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "tuseni_stinu_031.html",
@@ -642,13 +642,13 @@
   ],
   "totals": {
     "all": {
-      "words": 101848,
-      "chars": 697947,
-      "ideas": 1865
+      "words": 101883,
+      "chars": 698149,
+      "ideas": 1874
     },
     "chapters": {
       "words": 101756,
-      "chars": 697322,
+      "chars": 697318,
       "ideas": 1854
     }
   }
