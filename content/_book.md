@@ -44,7 +44,7 @@ readingOrder:
   - tuseni_stinu_029.html
   - tuseni_stinu_030.html
   - tuseni_stinu_031.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
