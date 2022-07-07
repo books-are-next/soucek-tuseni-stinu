@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-stinu-b36f21b",
-  "revision": "b36f21b",
+  "identifier": "soucek-tuseni-stinu-02fd6ef",
+  "revision": "02fd6ef",
   "readingOrder": [
     "promo.html",
     "tuseni_stinu_003.html",
@@ -40,11 +40,11 @@
     "tuseni_stinu_029.html",
     "tuseni_stinu_030.html",
     "tuseni_stinu_031.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:28:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980097423
+    "date": "Thu Jul 07 2022 08:39:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183155752
   },
   "documents": [
     {
@@ -333,7 +333,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Další otazníky na letové lince",
+          "name": "Další otazníky na letové lince",
           "id": null,
           "children": []
         }
@@ -553,7 +553,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Formy života ve vesmíru",
+          "name": "Formy života ve vesmíru",
           "id": null,
           "children": []
         }
@@ -608,7 +608,7 @@
       "role": "chapter",
       "order": 28,
       "prev": "tuseni_stinu_030.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -621,11 +621,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 939,
+      "chars": 938,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "tuseni_stinu_031.html",
       "next": null,
@@ -643,7 +643,7 @@
   "totals": {
     "all": {
       "words": 101901,
-      "chars": 698293,
+      "chars": 698292,
       "ideas": 1875
     },
     "chapters": {
