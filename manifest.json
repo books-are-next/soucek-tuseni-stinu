@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-stinu-44385ad",
-  "revision": "44385ad",
+  "identifier": "soucek-tuseni-stinu-5fcb2dd",
+  "revision": "5fcb2dd",
   "readingOrder": [
     "promo.html",
     "tuseni_stinu_003.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:07:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188423986
+    "date": "Thu Jul 21 2022 14:34:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414085278
   },
   "documents": [
     {
@@ -623,7 +623,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 938,
+      "chars": 939,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -643,7 +643,7 @@
   "totals": {
     "all": {
       "words": 101901,
-      "chars": 698292,
+      "chars": 698293,
       "ideas": 1875
     },
     "chapters": {
