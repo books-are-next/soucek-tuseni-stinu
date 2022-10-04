@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-tuseni-stinu-9402d39",
-  "revision": "9402d39",
+  "identifier": "soucek-tuseni-stinu-f85e790",
+  "revision": "f85e790",
   "readingOrder": [
     "promo.html",
     "tuseni_stinu_003.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:05:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640333020
+    "date": "Tue Oct 04 2022 16:53:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902395913
   },
   "documents": [
     {
